@@ -1,0 +1,1438 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://leanprover-community.github.io/logic_and_proof/nd_quickref.html
+Subject: =?utf-8?Q?24.=20Appendix:=20Natural=20Deduction=20Rules=20=E2=80=94=20Log?=
+ =?utf-8?Q?ic=20and=20Proof=203.18.4=20documentation?=
+Date: Thu, 24 Oct 2024 11:11:44 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----"
+
+
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: text/html
+Content-ID: <frame-06E3CB703B4AF295C9A374F7DD37E8FD@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/nd_quickref.html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-32d4f06f-20a8-46cb-b632-ac222591fcb9@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-c2dcc674-db6d-4970-9b66-7bf3e529a51d@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-8c0c7073-1c06-42e0-866c-1138457719e9@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-13deacb5-075c-4544-9610-f79c00155ed4@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-1d697736-e608-46f2-ba58-9a56e991977c@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-b9a5cb97-bc87-4f07-b795-c3c2c480e397@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-327a0d5e-41bb-43f3-8086-c1204855f695@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-f149fd3f-bf5e-4cbb-901d-960b6bd14922@mhtml.blink" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>24. Appendix: Natural Deduction Rules â€” Logic and Proof 3.18.4 documentation</title>
+    <link rel="stylesheet" href="https://leanprover-community.github.io/logic_and_proof/_static/pygments.css" type="text/css">
+    <link rel="stylesheet" href="https://leanprover-community.github.io/logic_and_proof/_static/alabaster.css" type="text/css">
+    
+    
+    
+    
+    
+    <link rel="shortcut icon" href="https://leanprover-community.github.io/logic_and_proof/_static/favicon.ico">
+    <link rel="index" title="Index" href="https://leanprover-community.github.io/logic_and_proof/genindex.html">
+    <link rel="search" title="Search" href="https://leanprover-community.github.io/logic_and_proof/search.html">
+    <link rel="prev" title="23. Axiomatic Foundations" href="https://leanprover-community.github.io/logic_and_proof/axiomatic_foundations.html">
+<!-- <link href="https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy" rel="stylesheet"> -->
+<!-- <link href="https://fonts.googleapis.com/css?family=Average" rel="stylesheet"> -->
+<!-- <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet"> -->
+
+  </head><body><div style="visibility: hidden; overflow: hidden; position: absolute; top: 0px; height: 1px; width: auto; padding: 0px; border: 0px; margin: 0px; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal;"><div id="MathJax_Hidden"></div></div><div id="MathJax_Message" style="display: none;"></div>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <div class="section" id="appendix-natural-deduction-rules">
+<h1><span class="section-number">24. </span>Appendix: Natural Deduction Rules<a class="headerlink" href="https://leanprover-community.github.io/logic_and_proof/nd_quickref.html#appendix-natural-deduction-rules" title="Permalink to this headline">Â¶</a></h1>
+<p><em>Implication:</em></p>
+<img src="https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.8.png"><p><em>Conjunction:</em></p>
+<img src="https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.9.png"><p><em>Negation:</em></p>
+<img src="https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.10.png"><p><em>Disjunction:</em></p>
+<img src="https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.11.png"><p><em>Truth and falsity:</em></p>
+<img src="https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.12.png"><p><em>Bi-implication:</em></p>
+<img src="https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.13.png"><p><em>Reductio ad absurdum (proof by contradiction):</em></p>
+<img src="https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.14.png"><p><em>The universal quantifier:</em></p>
+<img src="https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_first_order_logic.1.png"><p>In the introduction rule, <span class="math notranslate nohighlight"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-1-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>x</mi></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-1" style="width: 0.714em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.569em; height: 0px; font-size: 124%;"><span style="position: absolute; clip: rect(1.598em, 1000.52em, 2.335em, -1000em); top: -2.182em; left: 0em;"><span class="mrow" id="MathJax-Span-2"><span class="mi" id="MathJax-Span-3" style="font-family: MathJax_Math-italic;">x</span></span><span style="display: inline-block; width: 0px; height: 2.182em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.072em; border-left: 0px solid; width: 0px; height: 0.679em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math></span></span></span> should not be free in any uncanceled hypothesis. In the elimination rule, <span class="math notranslate nohighlight"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-2-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>t</mi></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-4" style="width: 0.477em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.38em; height: 0px; font-size: 124%;"><span style="position: absolute; clip: rect(1.414em, 1000.35em, 2.335em, -1000em); top: -2.182em; left: 0em;"><span class="mrow" id="MathJax-Span-5"><span class="mi" id="MathJax-Span-6" style="font-family: MathJax_Math-italic;">t</span></span><span style="display: inline-block; width: 0px; height: 2.182em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.072em; border-left: 0px solid; width: 0px; height: 0.908em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi></math></span></span></span> can be any term that does not clash with any of the bound variables in <span class="math notranslate nohighlight"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-3-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>A</mi></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-7" style="width: 0.951em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.759em; height: 0px; font-size: 124%;"><span style="position: absolute; clip: rect(1.324em, 1000.74em, 2.324em, -1000em); top: -2.182em; left: 0em;"><span class="mrow" id="MathJax-Span-8"><span class="mi" id="MathJax-Span-9" style="font-family: MathJax_Math-italic;">A</span></span><span style="display: inline-block; width: 0px; height: 2.182em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.059em; border-left: 0px solid; width: 0px; height: 1.005em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi></math></span></span></span>.</p>
+<p><em>The existential quantifier:</em></p>
+<img src="https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_first_order_logic.2.png"><p>In the introduction rule, <span class="math notranslate nohighlight"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-4-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>t</mi></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-10" style="width: 0.477em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.38em; height: 0px; font-size: 124%;"><span style="position: absolute; clip: rect(1.414em, 1000.35em, 2.335em, -1000em); top: -2.182em; left: 0em;"><span class="mrow" id="MathJax-Span-11"><span class="mi" id="MathJax-Span-12" style="font-family: MathJax_Math-italic;">t</span></span><span style="display: inline-block; width: 0px; height: 2.182em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.072em; border-left: 0px solid; width: 0px; height: 0.908em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>t</mi></math></span></span></span> can be any term that does not clash with any of the bound variables in <span class="math notranslate nohighlight"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-5-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>A</mi></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-13" style="width: 0.951em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.759em; height: 0px; font-size: 124%;"><span style="position: absolute; clip: rect(1.324em, 1000.74em, 2.324em, -1000em); top: -2.182em; left: 0em;"><span class="mrow" id="MathJax-Span-14"><span class="mi" id="MathJax-Span-15" style="font-family: MathJax_Math-italic;">A</span></span><span style="display: inline-block; width: 0px; height: 2.182em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.059em; border-left: 0px solid; width: 0px; height: 1.005em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi></math></span></span></span>. In the elimination rule, <span class="math notranslate nohighlight"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-6-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>y</mi></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-16" style="width: 0.619em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.474em; height: 0px; font-size: 124%;"><span style="position: absolute; clip: rect(1.598em, 1000.47em, 2.529em, -1000em); top: -2.182em; left: 0em;"><span class="mrow" id="MathJax-Span-17"><span class="mi" id="MathJax-Span-18" style="font-family: MathJax_Math-italic;">y<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.006em;"></span></span></span><span style="display: inline-block; width: 0px; height: 2.182em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.313em; border-left: 0px solid; width: 0px; height: 0.92em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi></math></span></span></span> should not be free in <span class="math notranslate nohighlight"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-7-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi>B</mi></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-19" style="width: 0.951em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.759em; height: 0px; font-size: 124%;"><span style="position: absolute; clip: rect(1.357em, 1000.76em, 2.324em, -1000em); top: -2.182em; left: 0em;"><span class="mrow" id="MathJax-Span-20"><span class="mi" id="MathJax-Span-21" style="font-family: MathJax_Math-italic;">B</span></span><span style="display: inline-block; width: 0px; height: 2.182em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.059em; border-left: 0px solid; width: 0px; height: 0.965em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi></math></span></span></span> or any uncanceled hypothesis.</p>
+<p><em>Equality:</em></p>
+<img src="https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_first_order_logic.3.png"><p>Strictly speaking, only <span class="math notranslate nohighlight"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-8-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mi mathvariant=&quot;normal&quot;>r</mi><mi mathvariant=&quot;normal&quot;>e</mi><mi mathvariant=&quot;normal&quot;>f</mi><mi mathvariant=&quot;normal&quot;>l</mi></mrow></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-22" style="width: 1.852em; display: inline-block;"><span style="display: inline-block; position: relative; width: 1.471em; height: 0px; font-size: 124%;"><span style="position: absolute; clip: rect(1.335em, 1001.46em, 2.335em, -1000em); top: -2.182em; left: 0em;"><span class="mrow" id="MathJax-Span-23"><span class="texatom" id="MathJax-Span-24"><span class="mrow" id="MathJax-Span-25"><span class="mi" id="MathJax-Span-26" style="font-family: MathJax_Main;">r</span><span class="mi" id="MathJax-Span-27" style="font-family: MathJax_Main;">e</span><span class="mi" id="MathJax-Span-28" style="font-family: MathJax_Main;">f<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.066em;"></span></span><span class="mi" id="MathJax-Span-29" style="font-family: MathJax_Main;">l</span></span></span></span><span style="display: inline-block; width: 0px; height: 2.182em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.072em; border-left: 0px solid; width: 0px; height: 1.005em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mi mathvariant="normal">r</mi><mi mathvariant="normal">e</mi><mi mathvariant="normal">f</mi><mi mathvariant="normal">l</mi></mrow></math></span></span></span> and the second substitution rule are necessary. The others can be derived from them.</p>
+</div>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="https://leanprover-community.github.io/logic_and_proof/index.html">Logic and Proof</a></h1>
+
+
+
+
+
+
+
+
+<!-- <h3>Navigation</h3> -->
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/introduction.html">1. Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/propositional_logic.html">2. Propositional Logic</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/natural_deduction_for_propositional_logic.html">3. Natural Deduction for Propositional Logic</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/propositional_logic_in_lean.html">4. Propositional Logic in Lean</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/classical_reasoning.html">5. Classical Reasoning</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/semantics_of_propositional_logic.html">6. Semantics of Propositional Logic</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/first_order_logic.html">7. First Order Logic</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/natural_deduction_for_first_order_logic.html">8. Natural Deduction for First Order Logic</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/first_order_logic_in_lean.html">9. First Order Logic in Lean</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/semantics_of_first_order_logic.html">10. Semantics of First Order Logic</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/sets.html">11. Sets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/sets_in_lean.html">12. Sets in Lean</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/relations.html">13. Relations</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/relations_in_lean.html">14. Relations in Lean</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/functions.html">15. Functions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/functions_in_lean.html">16. Functions in Lean</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/the_natural_numbers_and_induction.html">17. The Natural Numbers and Induction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/the_natural_numbers_and_induction_in_lean.html">18. The Natural Numbers and Induction in Lean</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/elementary_number_theory.html">19. Elementary Number Theory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/combinatorics.html">20. Combinatorics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/the_real_numbers.html">21. The Real Numbers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/the_infinite.html">22. The Infinite</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://leanprover-community.github.io/logic_and_proof/axiomatic_foundations.html">23. Axiomatic Foundations</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="https://leanprover-community.github.io/logic_and_proof/nd_quickref.html#">24. Appendix: Natural Deduction Rules</a></li>
+</ul>
+
+
+<hr>
+<ul>
+    
+    <li class="toctree-l1"><a href="https://leanprover.github.io/">Lean Home</a></li>
+    
+    <li class="toctree-l1"><a href="https://leanprover-community.github.io/logic_and_proof/logic_and_proof.pdf">PDF version</a></li>
+    
+</ul>
+
+<div id="searchbox" style="" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="https://leanprover-community.github.io/logic_and_proof/search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel">
+      <input type="submit" value="Go">
+    </form>
+    </div>
+</div>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      Â©2017, Jeremy Avigad, Joseph Hua, Robert Y. Lewis, and Floris van Doorn.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 3.5.4</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="https://leanprover-community.github.io/logic_and_proof/_sources/nd_quickref.rst.txt" rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  
+<div style="position: absolute; width: 0px; height: 0px; overflow: hidden; padding: 0px; border: 0px; margin: 0px;"><div id="MathJax_Font_Test" style="position: absolute; visibility: hidden; top: 0px; left: 0px; width: auto; min-width: 0px; max-width: none; padding: 0px; border: 0px; margin: 0px; white-space: nowrap; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; font-size: 40px; font-weight: normal; font-style: normal; font-size-adjust: none; font-family: MathJax_Main, sans-serif;"></div></div></body></html>
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-32d4f06f-20a8-46cb-b632-ac222591fcb9@mhtml.blink
+
+@charset "utf-8";
+
+.MathJax_Hover_Frame { border-radius: 0.25em; box-shadow: rgb(136, 51, 170) 0px 0px 15px; display: inline-block; position: absolute; border: 1px solid rgb(170, 102, 221) !important; }
+
+.MathJax_Menu_Button .MathJax_Hover_Arrow { position: absolute; cursor: pointer; display: inline-block; border: 2px solid rgb(170, 170, 170); border-radius: 4px; font-family: "Courier New", Courier; font-size: 9px; color: rgb(240, 240, 240); }
+
+.MathJax_Menu_Button .MathJax_Hover_Arrow span { display: block; background-color: rgb(170, 170, 170); border: 1px solid; border-radius: 3px; line-height: 0; padding: 4px; }
+
+.MathJax_Hover_Arrow:hover { color: white !important; border: 2px solid rgb(204, 204, 204) !important; }
+
+.MathJax_Hover_Arrow:hover span { background-color: rgb(204, 204, 204) !important; }
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-c2dcc674-db6d-4970-9b66-7bf3e529a51d@mhtml.blink
+
+@charset "utf-8";
+
+#MathJax_About { position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: rgb(221, 221, 221); color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; box-shadow: rgb(128, 128, 128) 0px 10px 20px; }
+
+#MathJax_About.MathJax_MousePost { outline: none; }
+
+.MathJax_Menu { position: absolute; background-color: white; color: black; width: auto; padding: 5px 0px; border: 1px solid rgb(204, 204, 204); margin: 0px; cursor: default; font-style: ; font-variant: normal; font-weight: ; font-stretch: ; font-size: ; font-family: ; font-optical-sizing: ; font-size-adjust: ; font-kerning: ; font-feature-settings: ; font-variation-settings: ; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 5px; box-shadow: rgb(128, 128, 128) 0px 10px 20px; }
+
+.MathJax_MenuItem { padding: 1px 2em; background: transparent; }
+
+.MathJax_MenuArrow { position: absolute; right: 0.5em; padding-top: 0.25em; color: rgb(102, 102, 102); font-size: 0.75em; }
+
+.MathJax_MenuActive .MathJax_MenuArrow { color: white; }
+
+.MathJax_MenuArrow.RTL { left: 0.5em; right: auto; }
+
+.MathJax_MenuCheck { position: absolute; left: 0.7em; }
+
+.MathJax_MenuCheck.RTL { right: 0.7em; left: auto; }
+
+.MathJax_MenuRadioCheck { position: absolute; left: 0.7em; }
+
+.MathJax_MenuRadioCheck.RTL { right: 0.7em; left: auto; }
+
+.MathJax_MenuLabel { padding: 1px 2em 3px 1.33em; font-style: italic; }
+
+.MathJax_MenuRule { border-top: 1px solid rgb(221, 221, 221); margin: 4px 3px; }
+
+.MathJax_MenuDisabled { color: graytext; }
+
+.MathJax_MenuActive { background-color: rgb(96, 104, 114); color: white; }
+
+.MathJax_MenuDisabled:focus, .MathJax_MenuLabel:focus { background-color: rgb(232, 232, 232); }
+
+.MathJax_ContextMenu:focus { outline: none; }
+
+.MathJax_ContextMenu .MathJax_MenuItem:focus { outline: none; }
+
+#MathJax_AboutClose { top: 0.2em; right: 0.2em; }
+
+.MathJax_Menu .MathJax_MenuClose { top: -10px; left: -10px; }
+
+.MathJax_MenuClose { position: absolute; cursor: pointer; display: inline-block; border: 2px solid rgb(170, 170, 170); border-radius: 18px; font-family: "Courier New", Courier; font-size: 24px; color: rgb(240, 240, 240); }
+
+.MathJax_MenuClose span { display: block; background-color: rgb(170, 170, 170); border: 1.5px solid; border-radius: 18px; line-height: 0; padding: 8px 0px 6px; }
+
+.MathJax_MenuClose:hover { color: white !important; border: 2px solid rgb(204, 204, 204) !important; }
+
+.MathJax_MenuClose:hover span { background-color: rgb(204, 204, 204) !important; }
+
+.MathJax_MenuClose:hover:focus { outline: none; }
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-8c0c7073-1c06-42e0-866c-1138457719e9@mhtml.blink
+
+@charset "utf-8";
+
+.MathJax_Preview .MJXf-math { color: inherit !important; }
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-13deacb5-075c-4544-9610-f79c00155ed4@mhtml.blink
+
+@charset "utf-8";
+
+.MJX_Assistive_MathML { top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); user-select: none; position: absolute !important; padding: 1px 0px 0px !important; border: 0px !important; height: 1px !important; width: 1px !important; overflow: hidden !important; display: block !important; }
+
+.MJX_Assistive_MathML.MJX_Assistive_MathML_Block { width: 100% !important; }
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-1d697736-e608-46f2-ba58-9a56e991977c@mhtml.blink
+
+@charset "utf-8";
+
+#MathJax_Zoom { position: absolute; background-color: rgb(240, 240, 240); overflow: auto; display: block; z-index: 301; padding: 0.5em; border: 1px solid black; margin: 0px; font-weight: normal; font-style: normal; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; box-sizing: content-box; box-shadow: rgb(170, 170, 170) 5px 5px 15px; }
+
+#MathJax_ZoomOverlay { position: absolute; left: 0px; top: 0px; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0px; padding: 0px; margin: 0px; background-color: white; opacity: 0; }
+
+#MathJax_ZoomFrame { position: relative; display: inline-block; height: 0px; width: 0px; }
+
+#MathJax_ZoomEventTrap { position: absolute; left: 0px; top: 0px; z-index: 302; display: inline-block; border: 0px; padding: 0px; margin: 0px; background-color: white; opacity: 0; }
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-b9a5cb97-bc87-4f07-b795-c3c2c480e397@mhtml.blink
+
+@charset "utf-8";
+
+.MathJax_Preview { color: rgb(136, 136, 136); }
+
+#MathJax_Message { position: fixed; left: 1px; bottom: 2px; background-color: rgb(230, 230, 230); border: 1px solid rgb(149, 149, 149); margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap; }
+
+#MathJax_MSIE_Frame { position: absolute; top: 0px; left: 0px; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px; }
+
+.MathJax_Error { color: rgb(204, 0, 0); font-style: italic; }
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-327a0d5e-41bb-43f3-8086-c1204855f695@mhtml.blink
+
+@charset "utf-8";
+
+.MJXp-script { font-size: 0.8em; }
+
+.MJXp-right { transform-origin: right center; }
+
+.MJXp-bold { font-weight: bold; }
+
+.MJXp-italic { font-style: italic; }
+
+.MJXp-scr { font-family: MathJax_Script, "Times New Roman", Times, STIXGeneral, serif; }
+
+.MJXp-frak { font-family: MathJax_Fraktur, "Times New Roman", Times, STIXGeneral, serif; }
+
+.MJXp-sf { font-family: MathJax_SansSerif, "Times New Roman", Times, STIXGeneral, serif; }
+
+.MJXp-cal { font-family: MathJax_Caligraphic, "Times New Roman", Times, STIXGeneral, serif; }
+
+.MJXp-mono { font-family: MathJax_Typewriter, "Times New Roman", Times, STIXGeneral, serif; }
+
+.MJXp-largeop { font-size: 150%; }
+
+.MJXp-largeop.MJXp-int { vertical-align: -0.2em; }
+
+.MJXp-math { display: inline-block; line-height: 1.2; text-indent: 0px; font-family: "Times New Roman", Times, STIXGeneral, serif; white-space: nowrap; border-collapse: collapse; }
+
+.MJXp-display { display: block; text-align: center; margin: 1em 0px; }
+
+.MJXp-math span { display: inline-block; }
+
+.MJXp-box { display: block !important; text-align: center; }
+
+.MJXp-box::after { content: " "; }
+
+.MJXp-rule { display: block !important; margin-top: 0.1em; }
+
+.MJXp-char { display: block !important; }
+
+.MJXp-mo { margin: 0px 0.15em; }
+
+.MJXp-mfrac { margin: 0px 0.125em; vertical-align: 0.25em; }
+
+.MJXp-denom { display: inline-table !important; width: 100%; }
+
+.MJXp-denom > * { display: table-row !important; }
+
+.MJXp-surd { vertical-align: top; }
+
+.MJXp-surd > * { display: block !important; }
+
+.MJXp-script-box > * { display: table !important; height: 50%; }
+
+.MJXp-script-box > * > * { display: table-cell !important; vertical-align: top; }
+
+.MJXp-script-box > :last-child > * { vertical-align: bottom; }
+
+.MJXp-script-box > * > * > * { display: block !important; }
+
+.MJXp-mphantom { visibility: hidden; }
+
+.MJXp-munderover, .MJXp-munder { display: inline-table !important; }
+
+.MJXp-over { display: inline-block !important; text-align: center; }
+
+.MJXp-over > * { display: block !important; }
+
+.MJXp-munderover > *, .MJXp-munder > * { display: table-row !important; }
+
+.MJXp-mtable { vertical-align: 0.25em; margin: 0px 0.125em; }
+
+.MJXp-mtable > * { display: inline-table !important; vertical-align: middle; }
+
+.MJXp-mtr { display: table-row !important; }
+
+.MJXp-mtd { text-align: center; padding: 0.5em 0px 0px 0.5em; display: table-cell !important; }
+
+.MJXp-mtr > .MJXp-mtd:first-child { padding-left: 0px; }
+
+.MJXp-mtr:first-child > .MJXp-mtd { padding-top: 0px; }
+
+.MJXp-mlabeledtr { display: table-row !important; }
+
+.MJXp-mlabeledtr > .MJXp-mtd:first-child { padding-left: 0px; }
+
+.MJXp-mlabeledtr:first-child > .MJXp-mtd { padding-top: 0px; }
+
+.MJXp-merror { background-color: rgb(255, 255, 136); color: rgb(204, 0, 0); border: 1px solid rgb(204, 0, 0); padding: 1px 3px; font-style: normal; font-size: 90%; }
+
+.MJXp-scale0 { transform: scaleX(0); }
+
+.MJXp-scale1 { transform: scaleX(0.1); }
+
+.MJXp-scale2 { transform: scaleX(0.2); }
+
+.MJXp-scale3 { transform: scaleX(0.3); }
+
+.MJXp-scale4 { transform: scaleX(0.4); }
+
+.MJXp-scale5 { transform: scaleX(0.5); }
+
+.MJXp-scale6 { transform: scaleX(0.6); }
+
+.MJXp-scale7 { transform: scaleX(0.7); }
+
+.MJXp-scale8 { transform: scaleX(0.8); }
+
+.MJXp-scale9 { transform: scaleX(0.9); }
+
+.MathJax_PHTML .noError { font-size: 90%; text-align: left; color: black; padding: 1px 3px; border: 1px solid; }
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-f149fd3f-bf5e-4cbb-901d-960b6bd14922@mhtml.blink
+
+@charset "utf-8";
+
+.MathJax_Display { text-align: center; margin: 1em 0em; position: relative; text-indent: 0px; max-width: none; max-height: none; min-width: 0px; min-height: 0px; width: 100%; display: block !important; }
+
+.MathJax .merror { background-color: rgb(255, 255, 136); color: rgb(204, 0, 0); border: 1px solid rgb(204, 0, 0); padding: 1px 3px; font-style: normal; font-size: 90%; }
+
+.MathJax .MJX-monospace { font-family: monospace; }
+
+.MathJax .MJX-sans-serif { font-family: sans-serif; }
+
+#MathJax_Tooltip { background-color: infobackground; color: infotext; border: 1px solid black; box-shadow: rgb(170, 170, 170) 2px 2px 5px; padding: 3px 4px; z-index: 401; position: absolute; left: 0px; top: 0px; width: auto; height: auto; display: none; }
+
+.MathJax { display: inline; font-style: normal; font-weight: normal; line-height: normal; font-size: 100%; font-size-adjust: none; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+
+.MathJax:focus, body :focus .MathJax { display: inline-table; }
+
+.MathJax.MathJax_FullWidth { text-align: center; display: table-cell !important; width: 10000em !important; }
+
+.MathJax img, .MathJax nobr, .MathJax a { border: 0px; padding: 0px; margin: 0px; max-width: 5000em; max-height: 5000em; min-width: 0px; min-height: 0px; vertical-align: 0px; line-height: normal; text-decoration: none; }
+
+img.MathJax_strut { border: 0px !important; padding: 0px !important; margin: 0px !important; vertical-align: 0px !important; }
+
+.MathJax span { display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; text-decoration: none; box-sizing: content-box; }
+
+.MathJax nobr { white-space: nowrap !important; }
+
+.MathJax img { display: inline !important; float: none !important; }
+
+.MathJax * { transition: none; }
+
+.MathJax_Processing { visibility: hidden; position: fixed; width: 0px; height: 0px; overflow: hidden; }
+
+.MathJax_Processed { display: none !important; }
+
+.MathJax_test { font-style: normal; font-weight: normal; font-size: 100%; font-size-adjust: none; text-indent: 0px; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow: hidden; height: 1px; }
+
+.MathJax_test.mjx-test-display { display: table !important; }
+
+.MathJax_test.mjx-test-inline { display: inline !important; margin-right: -1px; }
+
+.MathJax_test.mjx-test-default { display: block !important; clear: both; }
+
+.MathJax_ex_box { position: absolute; overflow: hidden; min-height: 0px; max-height: none; padding: 0px; border: 0px; margin: 0px; width: 1px; height: 60ex; display: inline-block !important; }
+
+.MathJax_em_box { position: absolute; overflow: hidden; min-height: 0px; max-height: none; padding: 0px; border: 0px; margin: 0px; width: 1px; height: 60em; display: inline-block !important; }
+
+.mjx-test-inline .MathJax_left_box { display: inline-block; width: 0px; float: left; }
+
+.mjx-test-inline .MathJax_right_box { display: inline-block; width: 0px; float: right; }
+
+.mjx-test-display .MathJax_right_box { min-width: 0px; max-width: none; padding: 0px; border: 0px; margin: 0px; display: table-cell !important; width: 10000em !important; }
+
+.MathJax .MathJax_HitBox { cursor: text; background: white; opacity: 0; }
+
+.MathJax .MathJax_HitBox * { filter: none; opacity: 1; background: transparent; }
+
+#MathJax_Tooltip * { filter: none; opacity: 1; background: transparent; }
+
+@font-face { font-family: MathJax_Main; src: url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/woff/MathJax_Main-Regular.woff?V=2.7.7") format("woff"), url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/otf/MathJax_Main-Regular.otf?V=2.7.7") format("opentype"); }
+
+@font-face { font-family: MathJax_Main-bold; src: url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/woff/MathJax_Main-Bold.woff?V=2.7.7") format("woff"), url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/otf/MathJax_Main-Bold.otf?V=2.7.7") format("opentype"); }
+
+@font-face { font-family: MathJax_Main-italic; src: url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/woff/MathJax_Main-Italic.woff?V=2.7.7") format("woff"), url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/otf/MathJax_Main-Italic.otf?V=2.7.7") format("opentype"); }
+
+@font-face { font-family: MathJax_Math-italic; src: url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/woff/MathJax_Math-Italic.woff?V=2.7.7") format("woff"), url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/otf/MathJax_Math-Italic.otf?V=2.7.7") format("opentype"); }
+
+@font-face { font-family: MathJax_Caligraphic; src: url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/woff/MathJax_Caligraphic-Regular.woff?V=2.7.7") format("woff"), url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/otf/MathJax_Caligraphic-Regular.otf?V=2.7.7") format("opentype"); }
+
+@font-face { font-family: MathJax_Size1; src: url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/woff/MathJax_Size1-Regular.woff?V=2.7.7") format("woff"), url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/otf/MathJax_Size1-Regular.otf?V=2.7.7") format("opentype"); }
+
+@font-face { font-family: MathJax_Size2; src: url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/woff/MathJax_Size2-Regular.woff?V=2.7.7") format("woff"), url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/otf/MathJax_Size2-Regular.otf?V=2.7.7") format("opentype"); }
+
+@font-face { font-family: MathJax_Size3; src: url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/woff/MathJax_Size3-Regular.woff?V=2.7.7") format("woff"), url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/otf/MathJax_Size3-Regular.otf?V=2.7.7") format("opentype"); }
+
+@font-face { font-family: MathJax_Size4; src: url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/woff/MathJax_Size4-Regular.woff?V=2.7.7") format("woff"), url("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/fonts/HTML-CSS/TeX/otf/MathJax_Size4-Regular.otf?V=2.7.7") format("opentype"); }
+
+.MathJax .noError { font-size: 90%; text-align: left; color: black; padding: 1px 3px; border: 1px solid; }
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/_static/pygments.css
+
+@charset "utf-8";
+
+pre { line-height: 125%; }
+
+td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
+
+span.linenos { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
+
+td.linenos .special { color: rgb(0, 0, 0); background-color: rgb(255, 255, 192); padding-left: 5px; padding-right: 5px; }
+
+span.linenos.special { color: rgb(0, 0, 0); background-color: rgb(255, 255, 192); padding-left: 5px; padding-right: 5px; }
+
+.highlight .hll { background-color: rgb(255, 255, 204); }
+
+.highlight { background: rgb(238, 255, 204); }
+
+.highlight .c { color: rgb(64, 128, 144); font-style: italic; }
+
+.highlight .err { border: 1px solid rgb(255, 0, 0); }
+
+.highlight .k { color: rgb(0, 112, 32); font-weight: bold; }
+
+.highlight .o { color: rgb(102, 102, 102); }
+
+.highlight .ch { color: rgb(64, 128, 144); font-style: italic; }
+
+.highlight .cm { color: rgb(64, 128, 144); font-style: italic; }
+
+.highlight .cp { color: rgb(0, 112, 32); }
+
+.highlight .cpf { color: rgb(64, 128, 144); font-style: italic; }
+
+.highlight .c1 { color: rgb(64, 128, 144); font-style: italic; }
+
+.highlight .cs { color: rgb(64, 128, 144); background-color: rgb(255, 240, 240); }
+
+.highlight .gd { color: rgb(160, 0, 0); }
+
+.highlight .ge { font-style: italic; }
+
+.highlight .gr { color: rgb(255, 0, 0); }
+
+.highlight .gh { color: rgb(0, 0, 128); font-weight: bold; }
+
+.highlight .gi { color: rgb(0, 160, 0); }
+
+.highlight .go { color: rgb(51, 51, 51); }
+
+.highlight .gp { color: rgb(198, 93, 9); font-weight: bold; }
+
+.highlight .gs { font-weight: bold; }
+
+.highlight .gu { color: rgb(128, 0, 128); font-weight: bold; }
+
+.highlight .gt { color: rgb(0, 68, 221); }
+
+.highlight .kc { color: rgb(0, 112, 32); font-weight: bold; }
+
+.highlight .kd { color: rgb(0, 112, 32); font-weight: bold; }
+
+.highlight .kn { color: rgb(0, 112, 32); font-weight: bold; }
+
+.highlight .kp { color: rgb(0, 112, 32); }
+
+.highlight .kr { color: rgb(0, 112, 32); font-weight: bold; }
+
+.highlight .kt { color: rgb(144, 32, 0); }
+
+.highlight .m { color: rgb(32, 128, 80); }
+
+.highlight .s { color: rgb(64, 112, 160); }
+
+.highlight .na { color: rgb(64, 112, 160); }
+
+.highlight .nb { color: rgb(0, 112, 32); }
+
+.highlight .nc { color: rgb(14, 132, 181); font-weight: bold; }
+
+.highlight .no { color: rgb(96, 173, 213); }
+
+.highlight .nd { color: rgb(85, 85, 85); font-weight: bold; }
+
+.highlight .ni { color: rgb(213, 85, 55); font-weight: bold; }
+
+.highlight .ne { color: rgb(0, 112, 32); }
+
+.highlight .nf { color: rgb(6, 40, 126); }
+
+.highlight .nl { color: rgb(0, 32, 112); font-weight: bold; }
+
+.highlight .nn { color: rgb(14, 132, 181); font-weight: bold; }
+
+.highlight .nt { color: rgb(6, 40, 115); font-weight: bold; }
+
+.highlight .nv { color: rgb(187, 96, 213); }
+
+.highlight .ow { color: rgb(0, 112, 32); font-weight: bold; }
+
+.highlight .w { color: rgb(187, 187, 187); }
+
+.highlight .mb { color: rgb(32, 128, 80); }
+
+.highlight .mf { color: rgb(32, 128, 80); }
+
+.highlight .mh { color: rgb(32, 128, 80); }
+
+.highlight .mi { color: rgb(32, 128, 80); }
+
+.highlight .mo { color: rgb(32, 128, 80); }
+
+.highlight .sa { color: rgb(64, 112, 160); }
+
+.highlight .sb { color: rgb(64, 112, 160); }
+
+.highlight .sc { color: rgb(64, 112, 160); }
+
+.highlight .dl { color: rgb(64, 112, 160); }
+
+.highlight .sd { color: rgb(64, 112, 160); font-style: italic; }
+
+.highlight .s2 { color: rgb(64, 112, 160); }
+
+.highlight .se { color: rgb(64, 112, 160); font-weight: bold; }
+
+.highlight .sh { color: rgb(64, 112, 160); }
+
+.highlight .si { color: rgb(112, 160, 208); font-style: italic; }
+
+.highlight .sx { color: rgb(198, 93, 9); }
+
+.highlight .sr { color: rgb(35, 83, 136); }
+
+.highlight .s1 { color: rgb(64, 112, 160); }
+
+.highlight .ss { color: rgb(81, 121, 24); }
+
+.highlight .bp { color: rgb(0, 112, 32); }
+
+.highlight .fm { color: rgb(6, 40, 126); }
+
+.highlight .vc { color: rgb(187, 96, 213); }
+
+.highlight .vg { color: rgb(187, 96, 213); }
+
+.highlight .vi { color: rgb(187, 96, 213); }
+
+.highlight .vm { color: rgb(187, 96, 213); }
+
+.highlight .il { color: rgb(32, 128, 80); }
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/_static/alabaster.css
+
+@charset "utf-8";
+
+@import url("basic.css");
+
+body { font-family: "Times New Roman", Times, serif; font-size: 17px; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); margin: 0px; padding: 0px; }
+
+div.document { width: 940px; margin: 30px auto 0px; }
+
+div.documentwrapper { float: left; width: 100%; }
+
+div.bodywrapper { margin: 0px 0px 0px 220px; }
+
+div.sphinxsidebar { width: 220px; font-size: 14px; line-height: 1.5; }
+
+hr { border: 1px solid rgb(177, 180, 182); }
+
+div.body { background-color: rgb(255, 255, 255); color: rgb(62, 67, 73); padding: 0px 30px; }
+
+div.body > .section { text-align: left; }
+
+div.footer { width: 940px; margin: 20px auto 30px; font-size: 14px; color: rgb(136, 136, 136); text-align: right; }
+
+div.footer a { color: rgb(136, 136, 136); }
+
+p.caption { font-family: inherit; font-size: inherit; }
+
+div.relations { display: none; }
+
+div.sphinxsidebar a { color: rgb(68, 68, 68); text-decoration: none; border-bottom: 1px dotted rgb(153, 153, 153); }
+
+div.sphinxsidebar a:hover { border-bottom: 1px solid rgb(153, 153, 153); }
+
+div.sphinxsidebarwrapper { padding: 18px 10px; }
+
+div.sphinxsidebarwrapper p.logo { padding: 0px; margin: -10px 0px 0px; text-align: center; }
+
+div.sphinxsidebarwrapper h1.logo { margin-top: -10px; margin-bottom: 5px; text-align: left; }
+
+div.sphinxsidebarwrapper h1.logo-name { margin-top: 0px; }
+
+div.sphinxsidebarwrapper p.blurb { margin-top: 0px; font-style: normal; }
+
+div.sphinxsidebar h3, div.sphinxsidebar h4 { font-family: "Times New Roman", Times, serif; color: rgb(68, 68, 68); font-size: 24px; font-weight: normal; margin: 0px 0px 5px; padding: 0px; }
+
+div.sphinxsidebar h4 { font-size: 20px; }
+
+div.sphinxsidebar h3 a { color: rgb(68, 68, 68); }
+
+div.sphinxsidebar p.logo a, div.sphinxsidebar h3 a, div.sphinxsidebar p.logo a:hover, div.sphinxsidebar h3 a:hover { border: none; }
+
+div.sphinxsidebar p { color: rgb(85, 85, 85); margin: 10px 0px; }
+
+div.sphinxsidebar ul { margin: 10px 0px; padding: 0px; color: rgb(0, 0, 0); }
+
+div.sphinxsidebar ul li.toctree-l1 > a { font-size: 120%; }
+
+div.sphinxsidebar ul li.toctree-l2 > a { font-size: 110%; }
+
+div.sphinxsidebar input { border: 1px solid rgb(204, 204, 204); font-family: "Times New Roman", Times, serif; font-size: 1em; }
+
+div.sphinxsidebar hr { border: none; height: 1px; color: rgb(170, 170, 170); background: rgb(170, 170, 170); text-align: left; margin-left: 0px; width: 50%; }
+
+div.sphinxsidebar .badge { border-bottom: none; }
+
+div.sphinxsidebar .badge:hover { border-bottom: none; }
+
+div.sphinxsidebar h3.donation { margin-top: 10px; }
+
+a { color: rgb(0, 75, 107); text-decoration: underline; }
+
+a:hover { color: rgb(109, 65, 0); text-decoration: underline; }
+
+div.body h1, div.body h2, div.body h3, div.body h4, div.body h5, div.body h6 { font-family: "Times New Roman", Times, serif; font-weight: normal; margin: 30px 0px 10px; padding: 0px; }
+
+div.body h1 { margin-top: 0px; padding-top: 0px; font-size: 240%; }
+
+div.body h2 { font-size: 180%; }
+
+div.body h3 { font-size: 150%; }
+
+div.body h4 { font-size: 130%; }
+
+div.body h5 { font-size: 100%; }
+
+div.body h6 { font-size: 100%; }
+
+a.headerlink { color: rgb(221, 221, 221); padding: 0px 4px; text-decoration: none; }
+
+a.headerlink:hover { color: rgb(68, 68, 68); background: rgb(234, 234, 234); }
+
+div.body p, div.body dd, div.body li { line-height: 1.4em; }
+
+div.admonition { margin: 20px 0px; padding: 10px 30px; background-color: rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); }
+
+div.admonition tt.xref, div.admonition code.xref, div.admonition a tt { background-color: rgb(251, 251, 251); border-bottom: 1px solid rgb(250, 250, 250); }
+
+div.admonition p.admonition-title { font-family: "Times New Roman", Times, serif; font-weight: normal; font-size: 24px; margin: 0px 0px 10px; padding: 0px; line-height: 1; }
+
+div.admonition p.last { margin-bottom: 0px; }
+
+div.highlight { background-color: rgb(255, 255, 255); }
+
+dt:target, .highlight { background: rgb(250, 243, 232); }
+
+div.warning { background-color: rgb(255, 204, 204); border: 1px solid rgb(255, 170, 170); }
+
+div.danger { background-color: rgb(255, 204, 204); border: 1px solid rgb(255, 170, 170); box-shadow: rgb(213, 44, 44) 2px 2px 4px; }
+
+div.error { background-color: rgb(255, 204, 204); border: 1px solid rgb(255, 170, 170); box-shadow: rgb(213, 44, 44) 2px 2px 4px; }
+
+div.caution { background-color: rgb(255, 204, 204); border: 1px solid rgb(255, 170, 170); }
+
+div.attention { background-color: rgb(255, 204, 204); border: 1px solid rgb(255, 170, 170); }
+
+div.important { background-color: rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); }
+
+div.note { background-color: rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); }
+
+div.tip { background-color: rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); }
+
+div.hint { background-color: rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); }
+
+div.seealso { background-color: rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); }
+
+div.topic { background-color: rgb(238, 238, 238); }
+
+p.admonition-title { display: inline; }
+
+p.admonition-title::after { content: ":"; }
+
+pre, tt, code { font-family: Consolas, Menlo, "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace; font-size: 0.9em; }
+
+.hll { background-color: rgb(255, 255, 204); margin: 0px -12px; padding: 0px 12px; display: block; }
+
+img.screenshot { }
+
+tt.descname, tt.descclassname, code.descname, code.descclassname { font-size: 0.95em; }
+
+tt.descname, code.descname { padding-right: 0.08em; }
+
+img.screenshot { box-shadow: rgb(238, 238, 238) 2px 2px 4px; }
+
+table.docutils { border: 1px solid rgb(136, 136, 136); box-shadow: rgb(238, 238, 238) 2px 2px 4px; }
+
+table.docutils td, table.docutils th { border: 1px solid rgb(136, 136, 136); padding: 0.25em 0.7em; }
+
+table.field-list, table.footnote { border: none; box-shadow: none; }
+
+table.footnote { margin: 15px 0px; width: 100%; border: 1px solid rgb(238, 238, 238); background: rgb(253, 253, 253); font-size: 0.9em; }
+
+table.footnote + table.footnote { margin-top: -15px; border-top: none; }
+
+table.field-list th { padding: 0px 0.8em 0px 0px; }
+
+table.field-list td { padding: 0px; }
+
+table.field-list p { margin-bottom: 0.8em; }
+
+.field-name { hyphens: manual; }
+
+table.footnote td.label { width: 0.1px; padding: 0.3em 0px 0.3em 0.5em; }
+
+table.footnote td { padding: 0.3em 0.5em; }
+
+dl { margin: 0px; padding: 0px; }
+
+dl dd { margin-left: 30px; }
+
+blockquote { margin: 0px 0px 0px 30px; padding: 0px; }
+
+ul, ol { margin: 10px 0px 10px 30px; padding: 0px; }
+
+pre { background: rgb(238, 238, 238); padding: 7px 30px; margin: 15px 0px; line-height: 1.3em; }
+
+div.viewcode-block:target { background: rgb(255, 255, 221); }
+
+dl pre, blockquote pre, li pre { margin-left: 0px; padding-left: 30px; }
+
+tt, code { background-color: white; color: rgb(34, 34, 34); }
+
+tt.xref, code.xref, a tt { background-color: rgb(251, 251, 251); border-bottom: 1px solid rgb(255, 255, 255); }
+
+a.reference { text-decoration: none; border-bottom: 1px dotted rgb(0, 75, 107); }
+
+a.image-reference, a.image-reference:hover { border-bottom: none; }
+
+a.reference:hover { border-bottom: 1px solid rgb(109, 65, 0); }
+
+a.footnote-reference { text-decoration: none; font-size: 0.7em; vertical-align: top; border-bottom: 1px dotted rgb(0, 75, 107); }
+
+a.footnote-reference:hover { border-bottom: 1px solid rgb(109, 65, 0); }
+
+a:hover tt, a:hover code { background: rgb(238, 238, 238); }
+
+@media screen and (max-width: 870px) {
+  div.sphinxsidebar { display: none; }
+  div.document { width: 100%; }
+  div.documentwrapper { margin: 0px; }
+  div.bodywrapper { margin: 0px; }
+  ul { margin-left: 0px; }
+  li > ul { margin-left: 30px; }
+  .document { width: auto; }
+  .footer { width: auto; }
+  .bodywrapper { margin: 0px; }
+  .footer { width: auto; }
+  .github { display: none; }
+}
+
+@media screen and (max-width: 875px) {
+  body { margin: 0px; padding: 20px 30px; }
+  div.documentwrapper { float: none; background: rgb(255, 255, 255); }
+  div.sphinxsidebar { display: block; float: none; width: 102.5%; margin: 50px -30px -20px; padding: 10px 20px; background: rgb(51, 51, 51); color: rgb(255, 255, 255); }
+  div.sphinxsidebar h3, div.sphinxsidebar h4, div.sphinxsidebar p, div.sphinxsidebar h3 a { color: rgb(255, 255, 255); }
+  div.sphinxsidebar a { color: rgb(170, 170, 170); }
+  div.sphinxsidebar p.logo { display: none; }
+  div.document { width: 100%; margin: 0px; }
+  div.footer { display: none; }
+  div.bodywrapper { margin: 0px; }
+  div.body { min-height: 0px; padding: 0px; }
+  .rtd_doc_footer { display: none; }
+  .document { width: auto; }
+  .footer { width: auto; }
+  .footer { width: auto; }
+  .github { display: none; }
+}
+
+.revsys-inline { display: none !important; }
+
+div#changelog > div.section > ul > li > p:only-child { margin-bottom: 0px; }
+
+table.docutils.citation, table.docutils.citation td, table.docutils.citation th { border: none; box-shadow: none; }
+
+.related { line-height: 30px; width: 100%; font-size: 0.9rem; }
+
+.related.top { border-bottom: 1px solid rgb(238, 238, 238); margin-bottom: 20px; }
+
+.related.bottom { border-top: 1px solid rgb(238, 238, 238); }
+
+.related ul { padding: 0px; margin: 0px; list-style: none; }
+
+.related li { display: inline; }
+
+nav#rellinks { float: right; }
+
+nav#rellinks li + li::before { content: "|"; }
+
+nav#breadcrumbs li + li::before { content: "Â»"; }
+
+@media print {
+  div.related { display: none; }
+}
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/_static/basic.css
+
+@charset "utf-8";
+
+div.clearer { clear: both; }
+
+div.section::after { display: block; content: ""; clear: left; }
+
+div.related { width: 100%; font-size: 90%; }
+
+div.related h3 { display: none; }
+
+div.related ul { margin: 0px; padding: 0px 0px 0px 10px; list-style: none; }
+
+div.related li { display: inline; }
+
+div.related li.right { float: right; margin-right: 5px; }
+
+div.sphinxsidebarwrapper { padding: 10px 5px 0px 10px; }
+
+div.sphinxsidebar { float: left; width: 230px; margin-left: -100%; font-size: 90%; overflow-wrap: break-word; }
+
+div.sphinxsidebar ul { list-style: none; }
+
+div.sphinxsidebar ul ul, div.sphinxsidebar ul.want-points { margin-left: 20px; list-style: square; }
+
+div.sphinxsidebar ul ul { margin-top: 0px; margin-bottom: 0px; }
+
+div.sphinxsidebar form { margin-top: 10px; }
+
+div.sphinxsidebar input { border: 1px solid rgb(152, 219, 204); font-family: sans-serif; font-size: 1em; }
+
+div.sphinxsidebar #searchbox form.search { overflow: hidden; }
+
+div.sphinxsidebar #searchbox input[type="text"] { float: left; width: 80%; padding: 0.25em; box-sizing: border-box; }
+
+div.sphinxsidebar #searchbox input[type="submit"] { float: left; width: 20%; border-left: none; padding: 0.25em; box-sizing: border-box; }
+
+img { border: 0px; max-width: 100%; }
+
+ul.search { margin: 10px 0px 0px 20px; padding: 0px; }
+
+ul.search li { padding: 5px 0px 5px 20px; background-image: url("file.png"); background-repeat: no-repeat; background-position: 0px 7px; }
+
+ul.search li a { font-weight: bold; }
+
+ul.search li div.context { color: rgb(136, 136, 136); margin: 2px 0px 0px 30px; text-align: left; }
+
+ul.keywordmatches li.goodmatch a { font-weight: bold; }
+
+table.contentstable { width: 90%; margin-left: auto; margin-right: auto; }
+
+table.contentstable p.biglink { line-height: 150%; }
+
+a.biglink { font-size: 1.3em; }
+
+span.linkdescr { font-style: italic; padding-top: 5px; font-size: 90%; }
+
+table.indextable { width: 100%; }
+
+table.indextable td { text-align: left; vertical-align: top; }
+
+table.indextable ul { margin-top: 0px; margin-bottom: 0px; list-style-type: none; }
+
+table.indextable > tbody > tr > td > ul { padding-left: 0em; }
+
+table.indextable tr.pcap { height: 10px; }
+
+table.indextable tr.cap { margin-top: 10px; background-color: rgb(242, 242, 242); }
+
+img.toggler { margin-right: 3px; margin-top: 3px; cursor: pointer; }
+
+div.modindex-jumpbox { border-top: 1px solid rgb(221, 221, 221); border-bottom: 1px solid rgb(221, 221, 221); margin: 1em 0px; padding: 0.4em; }
+
+div.genindex-jumpbox { border-top: 1px solid rgb(221, 221, 221); border-bottom: 1px solid rgb(221, 221, 221); margin: 1em 0px; padding: 0.4em; }
+
+table.modindextable td { padding: 2px; border-collapse: collapse; }
+
+div.body { min-width: 450px; max-width: 800px; }
+
+div.body p, div.body dd, div.body li, div.body blockquote { hyphens: auto; }
+
+a.headerlink { visibility: hidden; }
+
+a.brackets::before, span.brackets > a::before { content: "["; }
+
+a.brackets::after, span.brackets > a::after { content: "]"; }
+
+h1:hover > a.headerlink, h2:hover > a.headerlink, h3:hover > a.headerlink, h4:hover > a.headerlink, h5:hover > a.headerlink, h6:hover > a.headerlink, dt:hover > a.headerlink, caption:hover > a.headerlink, p.caption:hover > a.headerlink, div.code-block-caption:hover > a.headerlink { visibility: visible; }
+
+div.body p.caption { text-align: inherit; }
+
+div.body td { text-align: left; }
+
+.first { margin-top: 0px !important; }
+
+p.rubric { margin-top: 30px; font-weight: bold; }
+
+img.align-left, figure.align-left, .figure.align-left, object.align-left { clear: left; float: left; margin-right: 1em; }
+
+img.align-right, figure.align-right, .figure.align-right, object.align-right { clear: right; float: right; margin-left: 1em; }
+
+img.align-center, figure.align-center, .figure.align-center, object.align-center { display: block; margin-left: auto; margin-right: auto; }
+
+img.align-default, figure.align-default, .figure.align-default { display: block; margin-left: auto; margin-right: auto; }
+
+.align-left { text-align: left; }
+
+.align-center { text-align: center; }
+
+.align-default { text-align: center; }
+
+.align-right { text-align: right; }
+
+div.sidebar, aside.sidebar { margin: 0px 0px 0.5em 1em; border: 1px solid rgb(221, 221, 187); padding: 7px; background-color: rgb(255, 255, 238); width: 40%; float: right; clear: right; overflow-x: auto; }
+
+p.sidebar-title { font-weight: bold; }
+
+div.admonition, div.topic, blockquote { clear: left; }
+
+div.topic { border: 1px solid rgb(204, 204, 204); padding: 7px; margin: 10px 0px; }
+
+p.topic-title { font-size: 1.1em; font-weight: bold; margin-top: 10px; }
+
+div.admonition { margin-top: 10px; margin-bottom: 10px; padding: 7px; }
+
+div.admonition dt { font-weight: bold; }
+
+p.admonition-title { margin: 0px 10px 5px 0px; font-weight: bold; }
+
+div.body p.centered { text-align: center; margin-top: 25px; }
+
+div.sidebar > :last-child, aside.sidebar > :last-child, div.topic > :last-child, div.admonition > :last-child { margin-bottom: 0px; }
+
+div.sidebar::after, aside.sidebar::after, div.topic::after, div.admonition::after, blockquote::after { display: block; content: ""; clear: both; }
+
+table.docutils { margin-top: 10px; margin-bottom: 10px; border: 0px; border-collapse: collapse; }
+
+table.align-center { margin-left: auto; margin-right: auto; }
+
+table.align-default { margin-left: auto; margin-right: auto; }
+
+table caption span.caption-number { font-style: italic; }
+
+table caption span.caption-text { }
+
+table.docutils td, table.docutils th { padding: 1px 8px 1px 5px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-left-style: initial; border-left-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: rgb(170, 170, 170); }
+
+table.footnote td, table.footnote th { border: 0px !important; }
+
+th { text-align: left; padding-right: 5px; }
+
+table.citation { border-left: 1px solid gray; margin-left: 1px; }
+
+table.citation td { border-bottom: none; }
+
+th > :first-child, td > :first-child { margin-top: 0px; }
+
+th > :last-child, td > :last-child { margin-bottom: 0px; }
+
+div.figure, figure { margin: 0.5em; padding: 0.5em; }
+
+div.figure p.caption, figcaption { padding: 0.3em; }
+
+div.figure p.caption span.caption-number, figcaption span.caption-number { font-style: italic; }
+
+div.figure p.caption span.caption-text, figcaption span.caption-text { }
+
+table.field-list td, table.field-list th { border: 0px !important; }
+
+.field-list ul { margin: 0px; padding-left: 1em; }
+
+.field-list p { margin: 0px; }
+
+.field-name { hyphens: manual; }
+
+table.hlist { margin: 1em 0px; }
+
+table.hlist td { vertical-align: top; }
+
+ol.arabic { list-style: decimal; }
+
+ol.loweralpha { list-style: lower-alpha; }
+
+ol.upperalpha { list-style: upper-alpha; }
+
+ol.lowerroman { list-style: lower-roman; }
+
+ol.upperroman { list-style: upper-roman; }
+
+:not(li) > ol > li:first-child > :first-child, :not(li) > ul > li:first-child > :first-child { margin-top: 0px; }
+
+:not(li) > ol > li:last-child > :last-child, :not(li) > ul > li:last-child > :last-child { margin-bottom: 0px; }
+
+ol.simple ol p, ol.simple ul p, ul.simple ol p, ul.simple ul p { margin-top: 0px; }
+
+ol.simple > li:not(:first-child) > p, ul.simple > li:not(:first-child) > p { margin-top: 0px; }
+
+ol.simple p, ul.simple p { margin-bottom: 0px; }
+
+dl.footnote > dt, dl.citation > dt { float: left; margin-right: 0.5em; }
+
+dl.footnote > dd, dl.citation > dd { margin-bottom: 0em; }
+
+dl.footnote > dd::after, dl.citation > dd::after { content: ""; clear: both; }
+
+dl.field-list { display: grid; grid-template-columns: fit-content(30%) auto; }
+
+dl.field-list > dt { font-weight: bold; word-break: break-word; padding-left: 0.5em; padding-right: 5px; }
+
+dl.field-list > dt::after { content: ":"; }
+
+dl.field-list > dd { padding-left: 0.5em; margin-top: 0em; margin-left: 0em; margin-bottom: 0em; }
+
+dl { margin-bottom: 15px; }
+
+dd > :first-child { margin-top: 0px; }
+
+dd ul, dd table { margin-bottom: 10px; }
+
+dd { margin-top: 3px; margin-bottom: 10px; margin-left: 30px; }
+
+dl > dd:last-child, dl > dd:last-child > :last-child { margin-bottom: 0px; }
+
+dt:target, span.highlighted { background-color: rgb(251, 229, 78); }
+
+rect.highlighted { fill: rgb(251, 229, 78); }
+
+dl.glossary dt { font-weight: bold; font-size: 1.1em; }
+
+.optional { font-size: 1.3em; }
+
+.sig-paren { font-size: larger; }
+
+.versionmodified { font-style: italic; }
+
+.system-message { background-color: rgb(255, 221, 170); padding: 5px; border: 3px solid red; }
+
+.footnote:target { background-color: rgb(255, 255, 170); }
+
+.line-block { display: block; margin-top: 1em; margin-bottom: 1em; }
+
+.line-block .line-block { margin-top: 0px; margin-bottom: 0px; margin-left: 1.5em; }
+
+.guilabel, .menuselection { font-family: sans-serif; }
+
+.accelerator { text-decoration: underline; }
+
+.classifier { font-style: oblique; }
+
+.classifier::before { font-style: normal; margin: 0.5em; content: ":"; }
+
+abbr, acronym { border-bottom: 1px dotted; cursor: help; }
+
+pre { overflow: auto hidden; }
+
+pre, div[class*="highlight-"] { clear: both; }
+
+span.pre { hyphens: none; }
+
+div[class*="highlight-"] { margin: 1em 0px; }
+
+td.linenos pre { border: 0px; background-color: transparent; color: rgb(170, 170, 170); }
+
+table.highlighttable { display: block; }
+
+table.highlighttable tbody { display: block; }
+
+table.highlighttable tr { display: flex; }
+
+table.highlighttable td { margin: 0px; padding: 0px; }
+
+table.highlighttable td.linenos { padding-right: 0.5em; }
+
+table.highlighttable td.code { flex: 1 1 0%; overflow: hidden; }
+
+.highlight .hll { display: block; }
+
+div.highlight pre, table.highlighttable pre { margin: 0px; }
+
+div.code-block-caption + div { margin-top: 0px; }
+
+div.code-block-caption { margin-top: 1em; padding: 2px 5px; font-size: small; }
+
+div.code-block-caption code { background-color: transparent; }
+
+table.highlighttable td.linenos, span.linenos, div.doctest > div.highlight span.gp { user-select: none; }
+
+div.code-block-caption span.caption-number { padding: 0.1em 0.3em; font-style: italic; }
+
+div.code-block-caption span.caption-text { }
+
+div.literal-block-wrapper { margin: 1em 0px; }
+
+code.descname { background-color: transparent; font-weight: bold; font-size: 1.2em; }
+
+code.descclassname { background-color: transparent; }
+
+code.xref, a code { background-color: transparent; font-weight: bold; }
+
+h1 code, h2 code, h3 code, h4 code, h5 code, h6 code { background-color: transparent; }
+
+.viewcode-link { float: right; }
+
+.viewcode-back { float: right; font-family: sans-serif; }
+
+div.viewcode-block:target { margin: -1px -10px; padding: 0px 10px; }
+
+img.math { vertical-align: middle; }
+
+div.body div.math p { text-align: center; }
+
+span.eqno { float: right; }
+
+span.eqno a.headerlink { position: absolute; z-index: 1; }
+
+div.math:hover a.headerlink { visibility: visible; }
+
+@media print {
+  div.document, div.documentwrapper, div.bodywrapper { width: 100%; margin: 0px !important; }
+  div.sphinxsidebar, div.related, div.footer, #top-link { display: none; }
+}
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.8.png
+
+‰PNG
+
+   IHDR  0   â   Óª j    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   bKGD ÿ‡Ì¿   	pHYs  ,  , sˆéR   tIMEè	ó`èÂ  •IDATxÚíİëYZYàg}×4°-”À”€%0%`	P” %„¤„PB(a(a}?@GrPÙr¸ïù‘¨;qûîˆÏ¼ëTj¸LeqõV% €vı¥,;iÒK“F5 €öıO	.Ò2·™* ğt0/NİË¢ À·ĞÁ @À @À @À €ÃYäs ÒÉà›oaZ—  `^N†ß|ó˜ €€yA–™|û  ˜—£.3R €÷Yä €€	 €€	 €€	  &  æ5+÷e|¤¿¹›~’Né©2  `^O¼fî—ÿ­ãRKÍ¯t’tòPj©åAµ€Ö2NUƒï*}“ßi²ª7j \Ìï3N“¤Q à²è`~Wá{Ù[×¢ À%ÑÁü.ã,¢& €€Éç”a:™¨  `ò5ñ²É0£¬6ovT ¸$)Á7gQ§¥0 “/Pºäï¤®¬î .‘!òö3©ë>ëAò®’  &Vé>-ïY¨  `ò¹xÙdœQ]½x§­Ö “fQ§Oo­;˜†È€‹b‘O‹J7Ãü­ ÀeÓÁlÓË{^O  “C½XŞ³6ßüj&  `rp¼|kyOL @Àä£^.ïY[n~5D \‹|ZQº&¥ª  `ò5Æ™=õ+Ÿ&q9  `r˜ÒO7?ŞšYºéÅL à¢˜ƒyüx¹my €€ÉÁ†Yş±¼çÑzØ¼§H Àå0D~d¥³õô}M àâè`Û}¦oŞóG ¸:˜GU†éåÇ–£gçÍ5æ  gHó¸ñrœÔ}¢£uä ÀÅĞÁ<F°lÒM/½õ	=ågfY¼™¥—¤—ÁæÍaIVYíL 8ù,äp™#u¼Ù@}ñtä¨N^\ÑÍ¯ÍoWY>]µª7ª ˜  ğŒ9˜  ˜  ˜  ˜   `  `  ` €€	 €€	 €€	 €€	  &  &  &  ˜  ˜  ˜   `  `  `  ` €€	 €€	 €€	  &  &  &p¦Ê}«‚gp)\aDfù‰ßc“^º[.˜'YÔ•gp‚¯UUàÚ¾í›üN“U½9é»ä~Ëf™Ö¹gpZ‘Ãõ§IÒœöMÖi-µÔ²éÖ-s³~ûñ¿Üä.«ôópUÆgñì L¸2¥—ÁYİğ:LÍ^†×Uæ6I2¼–ˆyvÏ¸ŞŸ5†ÈáÊ¾é%›¹·§?¸\šü»í^Ëı&rİ\ÃlÌózvÀ5ÓÁ„ëŠ—Ãt29£î­y7N­^^çÙ˜@»¥É0£§PÖ9ƒ[^÷ëŞïÖ-_\çÙœÛÁ5gQ§¥i#¤”Ş—l"´îL.Şıøã×0÷ì N‡&\ÒÍ £¤ÙŠ¥—‡Ï/H)ÍÎf?I²ºô‰m>; Øß8“ºî®cÊ1‡•_ò÷ï˜Yú›NŞÄ³0Ö•AºOAlqìÏVW™¥_>»_ãÖşei6[±OëÄ³0¶#J“qF¯X»]÷<Éğ“Ç–˜¥“‡4I¦õÎ³0ö³¨Ó§·Ö‘í¨Ã¬ušeŸéan›Yù•n–ùçÒãåw<;€Ï²Š®@éf˜¿[ÿ´£üÌ8€O{[–ç»\6é¦ŸNf™?‹]€€	´ê¿%"¯ÂK=âŒ¾:+ÓÊâÃ1pİ¥[½1ĞŞÉ<‹Ì=; øenşyñ®ù&´{&ß(İÜ—|0b®û–Ó:úã+j2Ì8ã2Éä²7îùÆgğ	æ`Â¥ÇË·–ˆ<:rH©«Üf‘ûrø\Ìm30ëª2I2Ìƒgp‚¯_UÚıqÑÏÂÀ­ş«§[o_½¯“ßI’ÉŸİÁ-QïcšÓÍ*£Ìé6–~~&I-ïŞÕ¿û×úì ¾‡!òvãåï4IñƒöşÕu3üôÿIŞoÎËùŒ&÷—DÌgøÔU™§—¬O¸ñì Ìk5Øj]ìDNĞ8³,ßxÿzß~'ZŞüö·>ogšéAó%wBş]/v¹ËW<; óâ=ş¨pš0-)ıtóf×°tÓËóøêò3ÿKTîÓÉ"w‡…À=N!÷ì N–E>-ª³L’,_­	…cE”mKDÚº‡û2ÍíÁ=Æ§?»fu‰ıËSxv æ¹DÌQ-õ‡E>´d˜å»-ŸÇ¸£Å¤a™Ö»¥ıË2ØüfæÙœCäp¡Jgë	0«Vî`œÅrÜ=s¸ù:&À©ÑÁ„KuŸéînyéõò±	!»g`–ñf‘Ë¨.=;€S£ƒ	©ÓË-<Æ—NĞJ/½L?ÿvÌÀ,ãMÿòîO#ÿşg `oE”q²W¸;ŞZä~òááë-ıËÒÉ}zIV]h¼üşg `Oá¤I7½ôÖ­üÌ,‹×Q¥ô’ôò¸DfX’ÕQVb÷ÿüÜ;ïİ¹ì=Î¯,¯²<}m™frYƒã'õì >ûšæ¸ oèÇ¡ãÅÓá£ú¢‹Xºùµùí*Ë§«Võæ‹ï¤—‡C3|voï[f‘Å[¶{vÇ½ónÆ;/š]b·0v_Zš3±ã•<ënšÒK21-bİ•íÆÉépu‘GPWD½¢g=OJ“^’Å«…Y³¤rÿÔoL ØÓ»3bë´tœ& |¥é³k‹b£u öPåßrÀÖH¥)›ñºHŠM•@Àäh/ĞMs‘€s´HsĞ	èÏW—ÏÍÂ„ëbˆ¼Õx™ßi’b=%pvê¢,2Èlï?ğ,ŒÖ[õƒë¢ƒÙ¦ÁæäR gh’^Ù³‡Y:é+\/Ì6=®²´7 Ûk3kxÇ×të¬Ìò³üØ²¿i3	¨I7qV:˜´ñ?+“³Ì?jÁÁ›ıÇq—‡<”»w§œo†Ğ›gGZ&G˜#›OóA‹˜ÅÆ÷¿†­ÊmòP¦ïœÓ´zÚh}Vb÷K0ÿÁ¹*påçfK3Ü¹\qş¼‡Yî3©†ÌAÀà*Lœ+ÙK7ËLw®'_æù@ú Ş)5˜ \…:?¤;^ÆéfòÎ ùË¿wñ_À,=x0à­x9È0wuzğìYQ×Å>˜ ì/;grx¼,M¶g ş4Ì*“w>¶í¬ñqCäp]‘°‡ÒdÑÛs/K³Y‰ş*f–^º¤›®Ãµ½bT5 Î1ìôÒİrÁ<É¢–ıÊš÷ó3?şÜj¨ôò°ûO×¢‚ `œöK× ÷{\6Ë´šıªšwÒQM@À.ÿ%ì!½$Ëüı²[Yšô3N“d×và |9‹|ÚıaØ”Aéª|™õœ¿ÙëÁğºªÓÍášÃ2V&€–f›ñ2¿uTàK¿§şM’Ü¾=t[î7‡Ş˜	Ğ&Ì66İ–RÀ—è­ywfàêåu ˜—gùê‡ğ9ë	'óßs&¦ ˜—ªÎ2I²Ì?j_bİ™\¼ûñÎæWkŸZe&p®/_;f`&åw:IVõFµ Ú¤ƒ	œ«30KÓÁœ(€€	°­30K³ÙŠ}ZL `/[f`–NÒ$™Ö;…0öPš÷;˜e_éf™ÄK€ïğ— géioËò|—Ë&İôÓÉ,ó:U$ `ëşå*Ã?>ÒÉ<[|Ûçùâõ+İ¼yğji2Ì0É$GD˜ û½tí:…|œa’Eı[­ Úg‘pvB¾Şš¨[ÆJ `ìcÇ)äuµùØ@© L€}ì:…üQSºŠ `ì°mL NàuÚ"àì^¸úù™$µì|q[Õõh›&p~vö/ËãÜË™b˜ »í¹Ş~}µYM€€	ğ¾İ30Ë8$É¨.Õ@ÀØeÇ˜›MÖ“;§‘|g‘çfKÿ²trŸ^’UFâ%€€	°UYw.{ó+7oÿ§—Ş&|N318ğ¯Ø¶):r›§yo›'YÔ•JÁï¥n~í¼h™E™ú0/»ÀƒÜïqÙ,ÓjËh à"XäsduZK-µlæ‹-s³~ûñ¿Üä.«ôóPÆª ˜ì¯I’Ì^İÕUæ6I21€K`ˆ¼27ù7Irûö@x¹ÏúÜ‘sÇ €s§ƒÙûöeõò:  “ívœ¼|q €€É»NNîl~µ’ 8{æ`¶Qä30“ò;$«z£Z À¹ÓÁlÃ®““û›æD©  “}lYšÍVìÓ*` &{Ù2³tò&É´Ş)  `²‡Ò¼ßÁ,ƒüJ7Ëü#^ —â/%8º§½-Ëó].›tÓO'³ÌëT‘  “ı­û—«ÿøH'ó,lM \Û¿Ä¿ÒM2©£?>Òd˜a’I&ˆ Lö+ğ®SÈÇ&YÔ¿Õ
+ ¸ùÛ®SÈ×[uËX©  “}ì8…¼®6(  `²]§?jJW±  “¶í	 p¡	È"Ÿ£–·ŸŸIRËÎG°ª7ê \ÌãÚÙ¿,s/gŠ ˜ì¶{æzûõÕf59 €€ÉûvÏÀ,ãt’$£ºT/ @Àd—{`n6YOîœF \g‘Ó–şeéä>½$«ŒÄK @Àd«²î\öçWnŞşO/½Møœfbp ¸°,d›¢//i7¿v^´Ì"‹LëêÌ¿Ö&ºø–Ï<HÿÕ»f:Á  `rîÿxgQo¿åswÒI2L/É<“$K½` 8†ÈùH°ì¤I/Mšïº‡ºÌ2)ô’,ª“’ à„XEÎÇ,s›é	Ü prt09Øã\Ç¢ Àt09iePş-: €€	_e‘&=e  ¾H]d‘: €€	_g’^ÑÃ€3ra‹|JG·ëÌOiÛŸ:+³ü,?Î}Sz 0ÏUgs<#ŸŒ˜'u7wyÈC¹û3ƒ €k˜ËL<Ô‹—©«r›‡<”i&ú˜  `¶E–y¨ç üüã,ñİ†–Iõ„@À„7L<…§—n–™f¦t  `Âêüø2N7ä  `Â—(ƒsW§* çÁ>˜œz¼ìdœ‰x	 &|•aVïîà”r 0ÏK¹/cUx·:İô“t{ÊNi2Èôí¹—¥Ù¬DïA N)%T5x¯4ÃŒ3¯·'~—Mzén¹`dñµ‹cÊøíìT©ÒÏÏü¨Ë=îÁF  `|pû&«zsâ÷9Èı—Í2­ó³|tÎóÎàz"Ï8MÎ`_ÖRK-›M–¹Y¿ıø_nr—Uúy8Ïáşº/@À¼¥—Á™İò:
+Ï^†×Uf=x=4£ h%I"³,¿’ÍÌÆÛsè •&ÿn»Ûr¿	Ì7¶* Mó­86LçİqNÓf%÷»axõò:  ³ÍxÙd˜ÑS$ëœÅM¯»­ï÷Z—/® 0[5Î¢N³h'`–Ş—ìá¸îL.ŞıøãWaÁ  `¶­t3È(ig®béåáóË‰J³³ƒ¹Ş|eE6  `¶oœI]w×ó¸ƒÊ‹/ù;f`–ş¦ƒ9ñx ³eeîS[ÿóÕUféz|kÿ²4›­Ø§UÀ Ì–ãe“qF¯Ç½Õú<yãàÅÃl™Y:yH“dZï<a @ÀlÛ0‹:}zkØ¼îºN³Ìà3=Ìm30Ë ¿ÒÍ2ÿˆ— @[şR‚§0ÖÍ0Ã'ågÆùx |ÚÛ²<ßå²I7ıt2ËüYh 0[ôßòWÁ³u6f•ieñá¸î_®Şhïd…­‰  ó[”AºùçÅ»æ›ÈÖı“ÒÍ}É#æºo9­£?¾¦&ÃŒ3.“L	 ´ÅÌÇ(öçòGG˜u•Û,r_îŸ‹¹mf]ÕQ&I†yğŒ€Ö’UUƒ$eœn½}õ¾N~'I&ö·F½i2L7«Œ2;¤ÛXúù™$µ¼{WÿòU  ˜_Q„n~mùğ¾óçæ¼œÏZåÇş³Œ3L2Ÿ]ñ^’U½ñ¤€6˜ƒ™$ãÌ²|ãıë9˜ûF>zóïØßú¼i¦Í—Üu
+ù£æØ‹•  ÌÒO÷íaé¦—½ç`Öe>1]îÓÉ"w‡…À=N! hÙÕ/òÙº¼§½»¸Ï ÓÜÜcÜq
+ù³kVú— @;t0‡Y¾»=Ğòyˆ;b¼fğÁ£wö/Ë`ó›™ì €€Ù‚ÒÙzzÏª¥{gñÁ£wÏÀn¾’‰ì @;®}ˆü>ÓİCÇ¥sä{È«-Ş÷¦;g`–ñf‰Ò¨.ıc ÚqÕÌ2L/?¶\ğ=;9Z<+½ô2ı`üÛ1s³…Qrç4r @Àl'^“½¢İ1Ïòé'¾ŞÒ¿,Ü¯÷¿ÌH¼ ÌãË&İôÒ[Ç³ò3³,^ÇÌÒKÒËã™aIVGZ‡İÿó³ïü
+ÖËŞãüÊòzÒÓW—i&Ç€–ÓÖõäó4p¼x:ÚqT_ôŸì³Êòéª#œ…Szy8ôÇç­-³ÈâÀ-Û ¾Äÿ½ÅA2É‘ä   %tEXtdate:create 2024-09-04T14:26:26+00:00s~T‰   %tEXtdate:modify 2024-09-04T14:26:26+00:00#ì5   (tEXtdate:timestamp 2024-09-04T14:26:26+00:00U6Íê   tEXtpdf:Version PDF-1.5S6ZÁ    IEND®B`‚
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.9.png
+
+‰PNG
+
+   IHDR  0   K   í¹`L    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   bKGD ÿ‡Ì¿   	pHYs  ,  , sˆéR   tIMEè	„gØT  ˆIDATxÚíïy¢À‡ç>·¶¶¶¶o	¤,K%Ä´„XB(!”0÷hÔå¿¢Éğ¾óe|\…7‡9ÌÌs‚&,Ğ‡•î—·ß0Ñë€—m•»=>`.fÁOŠXğlşÃ)h!S )ğ÷ºÜ™3gªÂk¡_ÕÏÇ¦_zQ©•v–¡æbü¤è‰… t0¿g+YÌ—­n[W^èÒåú+IJ	Á˜‹Yğ#£'ĞÁüføá,ı¾Š$IÃDî ¼ÁR,Å\{³³à¹Ñè`úØéJj³/[ßZç!•—¯ßÍµX+ew¸ább! L¸ÈyS­O'ôüëvä÷’¤ââuà¿¹©¤àƒœ˜…ƒÓ£'ĞÁôL—y¼ï`V™û¡õøñû³ÒræZ¨X¹Ê;ÜÚ1'FO, ƒéc)ÑZºîíó†¾%I*)å±sSIå
+o›‡Y8ˆ… t0á2ß¸*ß­‚¤ßC'=3”lUgøÄX‚¹(ÑŞÊO·^Ì‚GO, ƒéc(:›Ã¾pg~oA]ª8wàe˜[=9’+”+¾©‚fá ĞÁ„SÀÉ´¾Şñ»|EÇ%µS )w/¸±s-P¢¢~ÚsëÓ#ÌÂÁIÑè`úHªƒËO?Îr`_o	­¾%zW¤Bÿ#ü.ÆÜ•‚ã(wĞ^‰…˜Xà	ÿåœBN¤Tõ•OƒOÃP"­j«ıÙü77U©íé§\qµd³àÑè`zÇ×õ«Ğé|Yå÷¥Ò„Úë@é%™k+…Ú|qº­Jl3iE0fáà¤è‰… áhrrR¢O¿‰ëÄŞ~çw99eGeÕ±ËsBó×\íä^½³S‚Y´ÇEO,¤Ñ<Šœ‚:à|^±Sˆ\yû;ou~Ç%˜«HN¯ïıY´GEO,¤Ñ|j,ò9Îû9ü3Ç÷MÄúvé­&ÚG–¡ÇÌMT­Ù=İ(•+´fÁƒ¢'xLÕÔcs—Mí=.\YK0Äws-T¢}Ãl¹|ÒõÇ,œ=±À/Xä#I™¶§Œû23—üİ¼o—Ş#ÇËœ0W§›lÃŠZWX®dôõÇ,œ=±€¦gøJ‘~7­R´H±<-µ>`—^Xˆ¹uiëmãÁ\‰½`Ì=±À7?DŞ¸ÿÄè›¡ôõš’üŞssÏJ[_3¡Ô5fá  L¥*ZËíç¡Ê3zó{;ÎMÚògâ¹¹—¥­¯;³ppJôÄB :˜^eà¡Ò]"|~®Ù?C)­ÏÁ†?ŸÍµ•BåíO¡ÜV…0æ‹X@Ó7^•÷˜wË|úg(YVOÏ_»‚?¯ÍmYZqÆFV˜3FO,ğEN¯w¸:¾òu/Ÿã7k=ÕÿH(ë·¹M¥­i`m®è‰…4šmÁ«È-U&Ê_ı[GŞ‘ß[¨WÅ’J­]N
+æ¹¹ıOäJË•ÚÊm¾Y©¿°öï=±ÁCØÁ´@‘bÅU²7mu¸”KŠO“ÊS“JVZ53)>Î?²ë)ø§ó¢\|7·µ´õ5¹R%]Ë!~ŒY…6
+”(–´¿˜WİHCj'âà£'b!xÊ‡vÃ#ï§_¥6Uû<{ÕçÿæÑ€}èM©‚'ÒD»«Æ`Öæ*:L¨×®Ñïf–¢î=°•ÈÉ)k9²ÃµGFO?-ìsiş7sô±áû='	JJÏ2ü‚ç©3œçL‘û;ğŠìôâ~HÙjÛ)Öïvc,ÖNÒÆ5¬¶W…ÃÎ	`át±ü‡|àY8RØ6ŸÊ*$K:8vã˜küb=ø•…~ÿ³bÅ’Ò1;¿œ‘ë3°ğ©b!x…ÖáYdzë)aÂ3K˜BªB›q;¿X`Qİ‰9HpáÑb!ĞÁ¸g†p³6Ú¨e×ùºŞ}½à‘b!ĞÁxV†0Ä,—»Rù(»ÎÖ»¿LÊ€'8ˆ…@ài>À³$±ËÂ¡{Ä Ìã L€gfø Ì’¤v­lg;ÛÙ»>„…ğ±<†Uäğœÿ¥Îğ“VZ´™5Ä®}]´;8+~ù~Ç=­)’ó88ÀB :˜ßã;äOô™,8r–á[®ÔØ3H–ğô¢“ı i'³ÎìZ»²åÕåé=·¦ÆóÖµXÿ.¡¢A½ğÚ(mŞ8ÎÁ!üØ._ûLÄÏf|Nûv(Ğ§^;¯f¶ˆRvØÓÙ²±fìÊ†˜¥ÕùÎ)zıÚ/F™œâEíÒCkn»{:8ÎBí'6ß†È‹‹}]á;26Ã_[öî~‚9à5Éõ3&WZ®Ä6ì*.Îâ^8Çğ#ó:ˆ…àu0]¡5õ;s5CI:ÎRZøu4ø]f…Z5Ìuh—;|İÚ-^fWËíéb>ÓA,ß`9<–†_¹v­€I›æÈM²+f)x²ƒWV;üXHÍ ƒ	Ğáo2|öô[ÍJZ¦ÇŒ´Ë%*9£ğ<Ï-´Ìœ9½[`oJõagè`Ì›áô˜ÕjW—k™'avZèÖÎtôª6uR€&À¬>À ³ì² Ş1åêo±¥ö¡Dbˆæup¤…¥¤ƒ;¸Bô‡s?
+­Ã·ÈğWZòL†šUÖåª{ì²X»ÓÄZQ—æsp¢…[IrÔš :˜Ía_U:V±weø/şÕJËS†Zà˜‡Ù]ìµítd#UÇİ^Æõ„g:8ÍB’ ƒ¹ä›pªä™s·,P\ol× ¥Ã»jc2üìl8i¥•IºîK5{ÀÍwÛs¼¤|Ùğì»G0 ƒù¤à˜JáqnVzíéàI²­r÷œÎÂ˜M0ÆlXß=‚À(Xäs/2zê¬A—;sæ¬~ÖTèWõó±é—^Tj¥İs
+]¸m÷mÁ1½ ³aÁ|÷öôD€æ±ø¨Ñ?O]érı­PK~ ÙOøöæ”JÚ™Ã"ØSÌÌ)–ôiÎbä€e/qó.§ñ]ÇAÄ¿S‡oìMûÛ7´@Ÿ]ŸÃ^ëÃ/ÎÀcÌ ‚,`Ş#$¦
+;* {X+ew©sÜÖÎ@yù:€yÍ ‚ĞÁ„iwªõ)ìMİ+6•Üa8²zÚÔş¬©¸xÀÜfÁ è`Â2\®Ã-·a+Wy‡f•×·—ã=~>†;áfÁ –	eŠnÄ"%ú#¹ò¦úÍ©¤J¥–Ü2Ó‚Şü¿*^^2Ÿb6 `‘ğóV2mêí»ª¡Ä	7(ÑŞÊOáó¶ì¿uş’­êüŸyuğ ³ˆ` t0aJ¾(:…ºé»ÄVÏ/å
+åŠo*EÑ™ı[P2Îáa6 €&Œ¾	Ê´¾*–Lx—DE±ßú³cş’…Ú)”»®Ìo6 €&L!ÕálÆäá,ÃJÁñY‘;h¯Ä&.§èš¿d‰Ş©ĞÿÎğ ³ˆ` ‹…E>Óƒa¤Tîr3/µ=ı”+V2q'îÓàúÅ0{ H+…ÚŞ£;`6ÀLÁ è`‚ÎA\İİˆ9k¶R¨Í×`¤ÛZ¡Ä6“v©¨²ÿRé?GBíu °<Îl "À¢q´IM‰>\ü&®ÿzŸœÂ«wvJ&}¦w99eGeÕ±ËÏL£Íe6F£Ñ–Ü˜ƒ9‰ÆE_:Ãß'R¬Ü¿Ü6fğC>Sëü%Wºµ6’Rí¸z0¿Ù D0€eCs—‹ *¦la–¨Z9~J•+´ñkÉûöğ­E–qù`v³ˆ` t0ad¦)Ulî²écôû„J´o˜×–×]Ïqôì€áÊúXÂ„yÍ˜ À+Xä3…L[¿¯¶‡jx~)I®°\Éè%}{ø	X¬3›0" Ìec+Eúİ4KÍ"Å<S­.°¾m<˜+Q¢õŞìáğ³&ØGğ†ÈÇ‡ÁöEã8+°~Í„‚ë}ó—¾^S’ıÃ¬fŒ‡@sá¤*Z‹ıçrÀ;X¿fì<ÌŞìßï¶å"Â¬fŒ‡@sÉX¨´c—Ol¥Pyûó"·U¡Ä†JöÏ_JëÏ¸á:Â|fL‚@sÑ¼*ï4´İ²ÀçŒ,VÔ?É²z‰ÆÚ\F˜Ñl€ñ	€æ¢ƒ`ª¸3{>Ş {oÃÖ¯Sp½gş’eõ;½°—/Ìi6À$ˆ` t0}Î¤AÙsÿÀvÿóËq×;²m§TRIp†ÙÍ˜À;(SÔû)V\…@{ÓV‡ë›±Å’âÓ¢œÔ¤²}­ckõkr¥Jº¦´[\gÿõì$‹ÿy.PnåÚ0´óš0ÒA"€¿ßsĞwŠƒ3‡ÓVykw1œh‘Şë–*N¯*İ¯w”‹Û«ın«gÿo;…:t-'Ì¾—Ù £$‚xÌÿ”&¦­•   %tEXtdate:create 2024-09-04T14:26:27+00:00Õ	_=   %tEXtdate:modify 2024-09-04T14:26:27+00:00¤Tç   (tEXtdate:timestamp 2024-09-04T14:26:27+00:00óAÆ^   tEXtpdf:Version PDF-1.5S6ZÁ    IEND®B`‚
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.10.png
+
+‰PNG
+
+   IHDR  0   â   Óª j    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   bKGD ÿ‡Ì¿   	pHYs  ,  , sˆéR   tIMEè	µÜ  ÜIDATxÚíİáYKàg¾+lJ %lJØ”à)” %¬%Ä%h	¡„PÂ¡„ù~€DaïûOD@× 3óî”>†2Î(Mº4ir_¿© pş§Ê<ßr£ À9û¤E]Ë¢ ÀY3ƒ	 €€	 €€	 €€	  &  Ù€ºÈKŸÉßı
+ªq ` Ì` pTšÁ¬ÓL}Ã NÍ&  &  &  &  ˜  ˜<VÚ\%•N-  sXAğGéüûRKÍÏŒ’ŒrWj©åN¥€³ËIUŞR¶IúÜ×o*  `£hM~¥É¢~V €§,‘¿EŸ&I£  Ï™Á<¼d]V;#kQ €§Ì`®Ïl5 0ß§L2Êµ:  ˜Ç‰—M&™f±º9R €§>)ÁAúÌêMiL  óJ›q¾&u¡» à%–ÈÑçº.|–‹ä­’  ˜oVÆi×í=3õ  0ß/›ô™ÖÅÆ;]j @À|³Ifõf}k9ƒi‰ àM>{)m&ùª  ¯3ƒ¹Ÿßí=Oƒ'  æ¡6Ú{–îWÿÚ…	  `/·µ÷DÀ 0ßj³½gi¾ú×9 Àš|^QÚL’RU @À<>·ëùÊÇ&IœF  `¦\¥Í—mû/K›.ö` <cæ®x¹«½  ó`“ÌŸµ÷<X.›wŠ °Éù‹Êhçé=æ5 ¶2ƒù²¹ÙvzÏ³
+ À#f0_
+“tù²ãÑs´µÇ `°Ì`¾/û¤îõ‘ l0ƒ¹,›´éÒ-Oè)ÿæ6³§1³tIºŒW7'%Ydñúb: À@•#j6ÊÑ¯. >[9­×hósõæ"óõ£õ³ê ˜  =˜  ˜  ˜  ˜   `  `  ` €€	 €€	 €€	 €€	  &  &  &  ˜  ˜  ˜   `  `  `  ` €€	 €€	 €€	  &  &  &pDåGé 8VÌšdœÖ¸¸€ŸíUà#¼›üJ“EılÜ œ;3˜ğ1ôi’4ÆÀù3ƒ	á…ØånùV-ÆÀ¹3ƒ	AŸÙ:r7 &ğ>e’Q® 8NÌj2É4‹ÕÍ‘qpî>)üe}fõ¦4ƒZC7€€	œVi3Î×¤.Šqp!,‘ÃßÕçº.]–‹Å­q `oVÆi×m.3ã@ÀŞ³šô™ÖÅÆ;ã@ÀŞj’Y½YßZÎäµÆÀ¹ÓäIi3ÉWã@À„!GÂI9oæ{ï¼ÿw›Ë“ V/{WâPÇ0 –ÈaÍì2ŞV·¹,İüYÎ1¤tÜ ÃböV§{Ç¨.w;ïßÖærxŒ=¿x9ĞqÌ½1–qÑ†À±l¶¹,=,¨·ÆÀy3ƒ¹g¼Ì¯4I¹Ş^üÿÔf’”jÜ ˜C6^-ß#`ò~}n³­h’ä’Oåê¸L¶zø¥¸P
+Ş«\¥Í—mûK›.»q¨ã"{0÷RosdÔ‚wÆ¬]m.Æ€€9¨ˆ9­¥~q>Şm’ù³6—Ë™òÎ¸8o–Èá*£§Ø,Œ€K`Ne[;ËÜ¼>^.¯İe¨ã(3˜põ¾|«÷ÏÔ$]¾ìxÚCe~IÕê¸†Ë&œ(bn‰Y}R÷‰PÕO=Ôq™L8uÀjÒ¦K·<©¦ü›ÛÌÆ­Ò%N/Ÿ”d‘Åy7•uÜ 8TNÿ"ëWŸ­CœÖëG´ù¹zs‘ùúQ‹úÙ¸OşU¶é_}Ğí‹ıï ˜ O~6iÓdœ.É}àål›Ä± ²DX]ä>)Mº$³';go“2ÎõÜ* &À^lAª7¥uJ:€€	pL7ë¢ ìÉeŠöTš2.Ê`8¯øÕë½Î’âJ æ)~ÙäW~ägéÕáqwù½]˜ æ)ŒW—€+B÷ûÍºåT& v±s?- ¥¸L¥1Guffõ„¯Æ2Ê•c+Ì«·å:“ÌóZ\¨6wŠpV¾eÇ¬b¹zõ†ÅæEß“$W«}—Ë?7L óäs—Z¾d‹X=·ïØ.İëÛYÊí³óÑïs»
+˜í0 &¼÷ˆY¾©Â}?¿çûÎpÙå.£gs”‹õ^ËÛW¿x;M> ÏmÌh—EÜ0ŞeÙ£[ãjG&À,‘<Sg¿féìĞ8ŒL€İ:å &Àëö¥ÉØpL€İf™nìªÜuÖxŸÆ9ÀaìÁ§.òè2ë¥ÉÕ¶˜Yº´g]8P©j ÷G`·ÏNµ¨€€	,_àWéêwu @Àõ¿Kgö€?M“Ï¾¿¨›2.­:  ¼F“Ïñ2¿Ò$åºNU `3˜û¯úKÇJ  `ÃÃEJ\n @À<†z›ë$óü£  »é"‡K~ë"à/0ƒ	 €€	 €€	 €€	  &  &  &  ˜  ˜  ˜  ˜   `  `  ` €€	 €€	 €€	  &  §öI	àÜ•«\¥ÙzW›”»6«Sµà$¿™ªÀ¹¿ŒûLŞğ´yı¢v ˜·TWéêwu  0Uª»tµ¨ Ànš|  0 0 0 @À @À @À          L  L  L  0 0 0 @À @À @À @À        ö÷I	6•«\¥ÙzW›”»6«Sµ H’RÕ`³ }&oxÚ¼~ùC__“Qü³Œsõä]·õÆÿ @À¼¼o×8}fõÛÉ?Ï(£$“tIîsd^çê ìÃù¹ËQšti^X¾?²:Ï<)£tIfõŞw  ØŸ&Ÿó1Ï·ÜüáÏ p03˜gáaÿcQ
+ àÃ3ƒ	 €€	 €€	 €€	  ‡»°&Ÿ2Êø<¿ò?qP¹JûÊCõÚ‹ 0½éàO5Ù½¿Ë­ª æcó˜{Qıï;Ãe—»Œ\ı 0G¨ù™	 àEš|  0 0 0$-> €€ÉÑÌ2İ¸HQ£$ €€ù!”¥?ÉÇms•dTºÓ|İuã2ë¥ÉU’dTM @Àü«ñr’ñ«'æú1ûRKÍÏŒ’ŒrWj©åî„cèKÍ«€y•ÿJ=Md .2U58nA›üJ“Eı¬ À0™Á<¶>Mì^ ÌæqËÙeµp]‹j  Ãdó¸úÌÖQ @Àä}Ê$£\«  `rœxÙd’i«›# †é“MŸY½Y_3RÀ LŞ£´çkRº{ €a³D~,}®ë²Ág¹HŞ*	  `òfeœvİŞ3S @Àä}ñ²IŸi]l¼Ó¥Ö “7›dVoÖ·–3˜–È€Òäón¥Í$_Õ `À³LrÈ9;ßë|çı¿Û{Ïj7& 0@Ã\"oxd—ñÎ°ú¸½géşàÏ pA9ƒY§û>²t¹Ûyÿ¶öÃc, ÀÑäó>›í=KêÚ| €AÒäó¥Í$)U%  Ìãès›m@“$N# LS®ÒæË¶ı—¥M{0€²ó­ñrW{ €€ÉÁ&™?kïy°\6ï	 "KäoRF;Oï1¯	 ˜Ì×mkãù‘›×Ïé)Ú| €2ƒ¹S½/ßêı³à8I—/;ö=G™«! 04f0_˜[âeŸÔ}¢£>r `€Ì`î­4iÓ¥[ĞSşÍmfOcfé’G§—OJ²ÈâõÅt €JM¡Ù»Tıêê³õ!Óz½ñˆ6?Wo.2_?jQ?« 0ÿB$vG#±   %tEXtdate:create 2024-09-04T14:26:16+00:00ıñSj   %tEXtdate:modify 2024-09-04T14:26:16+00:00Œ¬ëÖ   (tEXtdate:timestamp 2024-09-04T14:26:16+00:00Û¹Ê	   tEXtpdf:Version PDF-1.5S6ZÁ    IEND®B`‚
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.11.png
+
+‰PNG
+
+   IHDR  0   â   Óª j    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   bKGD ÿ‡Ì¿   	pHYs  ,  , sˆéR   tIMEè	µÜ  IDATxÚíİùu›ZÆáwë6€K %p	¸\*J%D%ˆL	¦„PÂùş ‘dı¯u3XW±·NÂ«ÍÌ	  ¼‹•ªtïT‚ºİÖ”  €H¾<…òäQêv{ÿ£  ¼„JïÊ)u»:˜  Ìk’Q
+êvt0  @À      L   `<ù  ğcËèP¹'[çl¾â	|OW7&  ¯#RøĞ?¿xºt|%ø*
+6 "` 0U+•ıó«§«X¥l_˜  L7ZGW¬Ò‚*Ì‹|   @À      L   €€	   &  ØgKKoò¼"I¾…Ô˜ºİ¸f  0¥Ks¢T…{¿ês¦'¶5¿òŸqóºx
+t< Tºšº0 ÀqŒú–§Ú½Q‹£ÊÄZxØJ¹+¨Ö£q‹ €)IåIò(Ä1—;sæLM|¬ôÖüzó¡7}ªV¤õm&€€	 ÀS²P1UèÑ„ïÕñÍpW»\ÍÍë„ˆùğ‘Ì-r  &sYş’Úy†ïÜè=Y!O»êcË6¢¿]w6&Æ¡ƒ	 ÀTÂS"_uèÔ®ä>¿ëÃÇ€	 À+ÇKO‰Û€äS‘“šşîùînuğ8<È”  €IHUºÜ<f§¦3Yıü¦nL0 ` ğê,P¬ß’«bœ¯’×ÛÁŒ$I53X‹[ä  LAªÌ5}¹æ&9·xOé™iQÛÁd&+ €Wg±‚m(*©ÇYıKóÚ­ØsGÀ$` ğâñÒSªÅÑ¶:lµ~JÇLóµ–')wŸŠ€	 À«KTº|û«&>q‹üT?ÛÁ´X_
+Téƒx9,ò à±±)P¢ßÔa€íŞ–¶¿Ë¥§@‘|­TìÅt0 xa»å=GÁÓ1óPÓ¿¬•üó_…J¶&"`  µË{>~«h³05}ËÜ-ş©¢§D©RË”qDä0 €ÇÅËSË{6˜Çµ:;ÓÕn¡LR¢5•"` ğÚ—÷48ìğ´¾SÈ›­‰K) €—e…æ?ôMeNê9ÃÇÕíçbJõxÌÁ àQR­¶ıÊ}ÍLN#?Ôw
+ù†Çò(&  /Ê"úujş¥
+ÅÌÃšôŸB	á9  	Lç—÷à_}30w©é_0 xM‰ª³Û‚Wû‘
+’Ôß¿´ÍÜËÅz<n‘ pwæwŞC_ó_ı30“¶vÅz<:˜  ÜßRyÿ\c™Ï¦½30-mE-\E½&  ÷K‰BıêxÀ&zú",5zf`ZÚö/?9œ€	 ÀkÆËTÔgcùFGÿÒ|-Jªµ ^0 x­`é)P¨°	KöG+•Ç1ÓBIáv«ğÄ¤ú•WE[Ó¹7ó+íxáÓ¶Ê•qs|B¯œ£  Üã’»¹[n\¸ƒ)è«ıi­jû¨Ú½½hÅvõ8¯R©R9>0  0c¬"      L   0   &   ˜    `   L   0  @À       `  €€	   &   @À      L   €€	   &   ˜    `   L   0  @À   ˜    `  €€‰Qli)U   s÷%¸[¼L« ¸â˜ò*èx@!©t5• Üù
+å¨Á½¢À·<ÕîZàj£*ÖrÀÃVÊom  wÄ-ò{IåIò(®ÇåÎœ9k;ã•Şš_o>ô¦OÕŠ´fr €€9;*¦
+¸™æËêøf¸«]®wIRBÄ Ü1ùp‹ü.eş’Ú¹rïÜ¬Ä•G—§¿]cË–íÛ›7fc îƒæ=@"_uÀ„ÍgßºÔ‡ €€ùüñÒS¢Åö"ïS\YÓ?ß¯ ÀÍ±MÑí¥*]n7Òt&Ë³ŸßŒ9&g  ˜ó`bı–\m·a^o3’$ÕÌş Ü·Èo-UæšŞRs“œÛ”¸®˜µLf ˜ó`±‚í…½¤¸Îş¥yíVì¹#` ˜³ˆ—R-¶†a«u\WÇLóµ–')wŸ
+ @Àœ‡D¥Ë·¿j" ·Èqİ71g;˜ëK*}/ ÷Å"ŸÛ]ú%úMpSÛ½-m—KO"ùZ©Ø{‹  óéí–÷OÇlL\KÓ¿¬•üó_…J¶& 0gÄbú8ø­¢ÌÂÄõ4}ËÜ-ş¥J-SÆ‘ €ûbæmâå©å=L\oœéj·P&)ÑšJ ˜sp¸¼§Á}¸¶¾SÈ›­‰K)0õ·‹WjFÀDç ”(4wø¡o*ƒ+ë9ÃÇÕíçbJL;*é[K}ñfšÍs0o!ÕjÛ¯Ü×ÌÁä4r\Kß)äKË€I‹ÛÉS±ƒš0qú]U¤@¿NÍ¿´@¡˜ƒ‰ë½ï;…ÀsØ´$XGÍfƒ[ä×¿èŸ_Ş\SßÌİcjú—À”¹•2IÕÑŞ# fLl%ªÎnm]íÇà‡zû—¶™{¹¢XÀÄãÒÂ™ûÅ[Aj6Ü"¿*ó;Oï¡¯‰kêŸ™´ã.£X €{¢ƒy]Kåıï¦Œe>øù›™Ş˜–¶Ê®¢^ €{¢ƒyÍK~¢P¿:°‰¾¸àã§zf`ZÚö/?9 @À|æx™JƒzE3XGn±¢£ßZdîª£i¾–
+%ÕZÌãUa¼ óÕ‚¥§@¡Âæ‚o´Ry3-”n·»NLªŸ|eo¡JR¢PRÑ®åÃ=Æ[Ó¹7ó+íxÑØv,*W6››ãŒ7 x®«•£?-áæVd¹=ráUX ¯ö§µªí£j÷6±ï$RÕzÍS|ôÅZJÊÛÜŞë5Ú¥ó*•*•O}³,Æ ÌÌs‹¾S\){Šo%RĞ9‡4Qr´™.Ò½GÛ³Œ%Æ ¼4V‘c'—ogO­6O±˜õÆ €€‰á\¡¢½İJ"ıÁx 01Nv®§Ôô“ØOŒ7  £tô”è'ñ  `â"'{Jô“ÀxnÉ<‹- ÔŒ€‰™:ÓSÜO2ÏB-ä8LÜc¼s‰JúÖR_–RjFÀÄ\ıÓSÕOò•h­µ˜¸Çxæ!nOx‹)5›‹™íƒix/ÓÉ½÷>¢°BÉÁ1#úI®Ôûvëùù¿ƒf¼=x¼3±yCUS
+jFÀœ&O!/êeZ[¼9é™~ãñÜø­ØÊ2%ªôA-¨sšJ½ó¢şø¯íaO‰~ãñÜúïAï™p fÌG·Z/êl{Jô“oÓo¸R2_b¤À4°È§‚Ónm/ı$Lx¼YjÎœ¾Ì³?JôÍzR  `bÊ2ùÓ¿Ä´Ç›[8S)i©L™XO
+ ñ%ÀÉw3/Îïé'yT
+oµ¤Ò•’ıf=) LLœ“ÉWÒÕO2O‘$É7‚&;ŞV’äJºí @ÀÄ¤¹B…t®Ÿd©9ım/ø‘şšcö7Ş– 0-Ü"ï`KÕî•7AX(8wáf{Æã @À¹O?vó*èx@!©t7›uæJ•ŒÆã @À¼ŞÅ6‘:/··iÙùùD’l¥Ü±#ãí¥Ç›yå= 0!ÌÁ<'•§¯’v¹3gÎÚ¾V¥·æ×›½éSµ"­§3ÿÑBsJ$­Í1ˆo7o©9…’şš3í æ´Y8©ıôšØ±:îÑ¸ÚåíQ…ÉT.ù®Ø$`¼İz¼-ö"0}|<ó¿ÅPjFÀœ»t3lXWÄR[üáÛzÜ_óÚ§'/Ÿ®lÏpNØ*ˆñÆx5*é[K}±5#`Î{Ø&òG¼A—(y#´}Ş³ı™úğq`¼1Ş€'·O9‹Šš0gı®(Ñb{õıO¹Ú%½Ï«y+¯£Ÿ$IªÆãx6ÕÑ8P3æ¥*]¾İ0eĞßUÊZÿcµgŒĞtŠÎoà²ùS™Æxc¼OÉ­”IªôA-¨Ù\°Ô÷¸ ¾ôÛ•ÛÒdÃ¶¾¶Pkåî³çQU»_£¾O%IïçúPö-_RíŞxõoŒ7 ÀĞÁ<–*sM÷¦i»¼è
+Š»>X,¯]"1\ÏŒ8‹ÚRÆKÇxc¼ ˜d±‚í¥sì©"+õÍ‹KT¾àwÎˆ3¯İ;w\ğoŒ7  s‚—{O©G»ÿ^ërU]«Ù,”¯|ôy#3âÌ×ZÔ«Œ7Æ €€ù‰J·ëø4Ù1kesyw<»Æö“ºö$´X_
+TéƒË=ãñ ˜Î"ß]@%úı£§È•(9}Q7_¡rW|Æí^ƒ»z
+É×J…ËyåoŒ7  sªvË-‚€8;ÎÕ–+±ğä‰K6ŒÙô³êsí|*Ù*†ñÆx LãCNNŠõWŞÁï„íOÂÏâËi}â÷½Ó¿ßû|_rrJO>cÚ|îğ«æƒñÆxãƒ>øàãÑÌÁlºF§–[lŒ8hïìØõ“ºfÄ¹Ú-”IJ´æõc¼1Ş  SBÀÜ\Ëf—]v$ŞéÍcbUÌ^ë;ºÙ*&°”ñÆx 0'Å%
+Í~èû’ç:µöE^ï¢ÆÙyo®n?ó2Şo €é`‘$¥ZéÔzÛ¦3ä|¶•B%Ú?ğ/¾`Ãk©ÿTèoøÂ0Şo  æÍY¤@¿NÍ‡³@¡FÍ‰“$—[¢hwÁ·P²Ñ^wÎˆãñ ˜®—¿EŞ¹ÜâR+ù{`ÇÒúIçgÄíSÓOb¼1Ş  ÌéH:–CTûŞ2Õ›yjæ+º`ÃkIıı¤m¨X1oŒ7  s"Ì?š½vèÂ>“«µRĞ…rÙ†×» Qv†•æ«ÌÈŒ7Æ €€9Kåı·ûÌı¼™¤X2O‘
+wÁ¬¶şq–¶ËAõ«Àxc¼ nä¥ùX¢P¿:°‰¾F^R]e+Eæ+–÷£~ÒÙq–¶ı¤ON‡f¼1Ş  ÓòÂLK”Jƒº1ŞOŸKJ]´áµÔ9#Î|[+‘Ts¹g¼1Ş  Óó‚Ló(TØ\RíV*/ûJ
+·J'&ÕãÖÎºÂJÅRÇŒ»Ó_]ÓI
+7óİìxÉÇö+W®Œ›•Œ7Æ~4>—ªİ‚:LæõğÛ©(Õáß6óäñ÷ª=Ùëâ^ï[ŞÜì+·‡ò-ÜÁ²ôÕş´Vµ}TíŞFı9±–ªOïxxöÿÙıÉçU*U*¿òV7`¼1Ş^ot&JU¸÷¾ı
+;G-$•¯0öÌS¤PáŞı‹JÙî}©à U#`b7¸W·`¼aª—çoycßÊ\õ+ˆµğ°•rWÌúuHËS­•Šæ‡ùŠ«Ö»«%[*Ö»ãªFÀ LşŸÿe3-ÃÙÃ¿’µBI•~v+ÍS¤T¤l®(K”ÈS­ìø>yZÊ×»RÅSx•¨Æá¨H xÅKônÖïã5·8WÇ7Ã]­ÜJ}IJLó‹˜æi©HÒJŸÿNpµ>ìKßòÄ®Tí	q’ ¼¢t³1–:=ÊR[{bómmÁ¨ÀĞ±‹+Û£OóæõX µ"I÷qvé¢ßÏJÕ˜ €É_¦ù£ÏdŠ‡EQ%Ë.úõìÂº=ã*œÕ+h­@Òg×ÌiW´!‰^U#` &~™ö”h±nÃÎjöZòÜñÈó¤zN‘Ú<Ìèğµnç–öí-[t†ï×·T€	 ˜°T¥Ë÷ÎÀUÊ8È4‘F'Õt&ÏßÎô÷CÃLşŸfà€y¥µèÄQ5& `òê@±Òèı%WÒÃŒÇ'Õ=S’5‘aFı¨¤ı?<¶s	© 0y©²öœ¨&b¼õì
+Š»—ÚX,Oãí™iQÛÁœÍ¯¶99+|Ê½8ªFÀ LúB+Ø†µ±=şf¢zdÀìì_š×nÅÏè´ıqØwä1—ª0 Ó—R-n^ñírU]»gZ(ô±¢30·‹:r÷9›W`s8æĞN\¥OÆ-U#` ¦,Q¹7C²‰ucVgçò,îxvë_vÍÀ´X_
+TéÃÍ),lª7°¿æJ—3l©ÚS¾-à¨H x‘ğ}é·Ûv-mnx?PÏ<}«v¿N~Î×÷Ø^£Eú#Iz?ømO"ùZ©˜WP0_ß’ôÈà©îƒ£"àUì–÷O7p6¦«-WbáÉùmã7(ÚtOë3;}*g·Pc³Y<ó©Úìq‹ ^ÂÁòÃö˜swÎl¸~Áë»è»÷ã½©TªoKguDäf:[èP5& `ñòÔò˜g7\¿ Ù5ÓÕn¡LR¢õŒ^Ÿ¨DÕ˜ €ù8\ŞÓ¸ìÆÓ›Ü`]Rÿ)äM¿5°tnQ‰-t¨ ğô,P¢ĞÜáG»tb¤S®_°Áú.Ø®n?Ï-*~İBÆ.U{V,ò€ùKµÒ©“K.àZ)T¢ı¡ãÑ¬Kı§oxÃ—!M\%_ÒÀ³h,RÌÂªFÀ L’E
+ôëÔüKjÜ"I.·DÑ.`Z¨@ÙØ³ÍœB>×¨4TDP¢jÏ‹[ä 0ïxÙµ¼çR+ù{®ÇÒÅıËî™uÍcj7—åÍ÷1(.™¯PlNÕ˜ €IJ:–ßTûQo„Lõff¤ùŠá·¯·¹°«Ù¼å¶fı–£İœwÀ¤jL ÀT˜4[òĞ…—bWk¥ ]LqÉë»X[vFãækÌæòj¸ÕĞHo±<·`üR5& `Š–Êûo0›?úy3I±d¢6X0ÓÒö¦èâ‚îètå{Ñù|u¥údğR5& `‚,QØÙÿÛDÏÑÓUZ)2_‰¼ô/ÏÎÀÜœ“®ÏyFî2’|ëKéŞÛŠS5& `’ñ2•õÿ.9±942º`ƒu©s¦ù¶V"©[¼”$}¨””ÚÉİ=Í³TK}”¨Ú³c›" ˜[°ô(TØ„8û£•Êã˜i¡¤p»…ybR=nµ¶+¬T,iÔœ·vŞf¸™_ùÏ¦ØÛ¯[¹²YİßÔ­¶wıQ¨¥ù‡›;™§H‰ÊÓ[J½6ªö„ÿ9j  óú‡}s{¹Ü¹p7Ê-ĞWûÓZÕöQµ{õçÄZªsaßûsÏ«TªœûZ`KË—ö6À÷©PÆˆS­šyòoİ#µ@ı£®£¯OÀ \z	ùÒÊeÔáÂêE
+È—¯BR¡Õ;¶s©šÅJUº÷›‡Ø@b…’ŠƒùÓÍ}‰@Rö+å	˜   ç‚¥/O¡<y*.˜©êê}š§xÿšÅZ’kyéWqo,ò  8¯ÒûÎŠô§óóÉÑñ³=Y—?Ï9E,ò  8é$Iö“'Éµ¶øÜÌIóˆù€yÌ“@  àv!µPÑ±M|"¯ï´*ó¬]ŠçJÉ¼gø®	˜   ·”É?·‡§bå½•öW—Û}˜   ¯ª£‡9 ©ƒsØİûsleEÀ  ¸­“=ÌaıKó=ß7Ì" x"*¤
+ÀÕä÷ÙGÓV(ùg1OWÿ2jç]z
+Ô±²œ€	 ø¹°c± €±Š»E·ìx-yOÿ²Ğª˜»C]	˜ €]\Ïİ:ƒ'z˜İó/ëí\Ë•I> pÃ‹xR=ÌëÇ7o,÷z˜¶T6ıcEYä  pŸ·‡»).ÃÖ7*í5?Ã©õL  €{Ø®%Õ¿”+wç’[(¶)  @w=Ì1ıËCás¬('`  ÜG&ßâqıË}æ)Vıß(‹|   î¢]Kîwö/»ÎOå=Ç-r&  7a~»¹LuØ«2O«¨Ï½’"I¾…W8¦1ÓZÉùş¥yí¹=G1ÓBŠåëI6]7Ç¸ àš—VO‘B…{¡R¶ÛbÛ¾Tìm`Ò¯ezâhƒÂ½ÿè9×
+õëTÀ´Pëşÿß €W—‰byªµR¡ÒUíYÒ±j½»Z²¥b½;ö3}İ1(pùì¿K&  Wº¨&Jä©V¦ÜÕGÁs)_ïJ?K
+ ` ğØª§¥"I+}º“ë|íK¾<ıø+0}lS ÀÏãe µ"I÷áÎm#³hge–ÔL  Ğ/IŸ®cólW´Ñ’ù— ` €Îxék-OÚ_)~FÑM€€	  ÎÆKOÚ™•ı[Õ¢	&  è‘($}xl)f`‚€	  ºXØnÄ=üdi:˜ ` €iûc6èÑ30AÀ  ,loí_Vƒn¤Oï?J  À…âöÇ]IW2/òæ‹“|  ¸èêë[’T»7ªìã9  —	Û™U	0 ¸Š ı‘ÛŞ  €«ğ	˜ÀiÌÁ à²Kèw1QàL  .ã¤!%  t©öşÛ/£öÌ€€	  :æP«ÍAÀ  İšÅ=ƒn”›¯P9%  ôLÙˆ¹TîjJ&  èàVíMòŞÅ;Ës*&  èÓÜôîY¼cR}R,0 @/—©ä[GÄ´HôîØŒ/…Ö ¸ü2êi­@Ò§ËO~6QL¼Äë¡ƒ	 ÀÅ\­w’––šw.-Ö—|ı"^âßzÑÁ à‡ÓD±|I«íŞ˜¾"Ê{_â%ı¤óæœZ¥   %tEXtdate:create 2024-09-04T14:26:16+00:00ıñSj   %tEXtdate:modify 2024-09-04T14:26:16+00:00Œ¬ëÖ   (tEXtdate:timestamp 2024-09-04T14:26:16+00:00Û¹Ê	   tEXtpdf:Version PDF-1.5S6ZÁ    IEND®B`‚
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.12.png
+
+‰PNG
+
+   IHDR  0   K   í¹`L    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   bKGD ÿ‡Ì¿   	pHYs  ,  , sˆéR   tIMEè	d²1J  àIDATxÚíİÛY"YĞÿÌ7	T‡@‡PBu„€!hMÂÂÂÂ™ğBŠ
+²–*Uøá–‡ßsÛ¥†G¥Ÿ®şR €7$*s­wéjQ €×ûK	  0 0 0 @À @À @À       €‹ö·À1”&í·ÎêB½ 0—üN·ç“\%I¤ÿç•z« ˜ÀÒ¯ô=6N2zöè|õyšy’aº$Ó\?¹ &PçÏãaY$uºû¥—.Élû} pnlòÏeÔ   L  L  L  0 0¹@e\ê§tş °ç`ræùüs"5x “¯£ŞFE 8¦È 8ª‹Á,ıôÓl¼Ô&ånËÓfuä  `n‘ıW·måèåfi’j}  `¯:ÊiEŞ$¹Ú?ÛŒ_ü	“j…"  `ò Ùyuë4¤K2ÍõÚóÚti“Ì 0ÙS]dš”&]’Y]?¬g’”AnÒªÓı÷ Î]äçb¾5€:ÀçŒ•fµ¸WM LNÈmô˜9M‹íÿ,»å¿UÀìç¿RËXÉ ø
+L‘Ÿ­Ò¤WgIRg%¥±=)ƒçl3¯¿ŞçõÔ«WOm³ ˜¯Í0?W_OÓ@+ÅÏ×KûŠ5* &IÖÎë¬?•#Ù5&XîÒÕ¢B  `¬ô2øô1­ÓùMû»Ö÷ ˜ÇÑËğ^ÅûÌ~YHÔ¤ML @À|óµƒÈ¿Z¼L¦™¬fwcµ  _?`Öùß—»x˜~Ÿ”¤ç œç`¯µ‘ÒrSÄM @ÀäMækÈÕŠL à$8¦èlÕÙcÀ,³€Saókèì( L¦4D£H @À<‹èvSÆ'òRv5@§1E œ
+k0wÅËaÇn¥{Úâq¥—l²“ú¸Æ²ISÌ,]ÚÒ‹C×€ÓÉPU¶•¦É¿i²¨ßúS¯¢âË&õj"ï^¾YŸíê®9 |#˜ÛÓd÷Ôô+,CãAÏ˜F0 Îˆ5˜[­ Ì£ßŸ2Y:Å  0ß¨ÓËµ:  ˜Ç‰—M†=œ,©Ç7 ÀlòÙdœY½-€	  `Ai3È¤.lŞ 8œ)òçÆ¹^q¾œ$o• @À|µ2Hû°½g¦  æÛâe“qFu±ö`£.  æk3«·ß-G0M‘ À&Ÿ'J›a~¨ À[Á|êq{ÏŸÁ“s7Ë\ @Àü`kÛ{–¦«ÏVa½:ªßU Ì—›¶÷DÀ 0_k}{ÏÒı¤ª)r €½Ùä“dµ½'¥ª €€yãL6n&Ñ @À<Lé§Í÷Më/K›.Ö` ÀÌİÛ{  06ÌüÙö{ËióN‘  öuñSä¥·³{qM €Á¼Éí¦î=Ïb(  {¹ğÌ2L—]^î£gO£A €ı\ôffœÔ}¢£}ä  {ºÈÌÒ¤M—nÙ¡§üÎ$³?cfé’t¬¾–d‘ÅË“é  —î"›×”ñê õÙCÈQ½^»£Í?«/™?Üµ¨ß¼e  vû~È/9©H   %tEXtdate:create 2024-09-04T14:26:17+00:00[†XŞ   %tEXtdate:modify 2024-09-04T14:26:17+00:00*Ûàb   (tEXtdate:timestamp 2024-09-04T14:26:17+00:00}ÎÁ½   tEXtpdf:Version PDF-1.5S6ZÁ    IEND®B`‚
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.13.png
+
+‰PNG
+
+   IHDR  0   â   Óª j    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   bKGD ÿ‡Ì¿   	pHYs  ,  , sˆéR   tIMEè	d²1J  YIDATxÚíİëy¢Z†ñçÿ^»R))”À”€%@	X‚”KĞB	¡„PÂz?€9îŸö	ct-Çu4'<†ÅÊT¸7J‚r àwù"x@@òå)”'Ò Ü  ø}şG<D©7åå ÀoDæİ¹& EA¹ ğ+Ñ‚	   &   ˜    `   ãıºI>æ+~ğKØºí“•Y,/#w%'$  Ì)ò•<ü5<YÀT¤p¯b+&  ÌI*µ$^´V1‰š  Ì)r¥Rªud™±t9  ¸"&ù   €€	   &   ˜       Ìi³•e7yŞ@‘$ßBÊ˜r à—İ¯eĞU<‰2mİÛUŸ3;³ü•ÇÍËÅS¨ ã€­¤ÂU”  LœÆ¨OyªÜeqR2±V[+w[J €¹¡‹¼K&O’GAœr¹3gÎš]‹J½ÔŞ=ô¢…*EÚÜf€   `>%S
+=êğ½>íw•ËUw^'DL  f—¢è"o-š©gøFGïÙòôÕU>¶j"úËuGc €i£³-<%òµ¤:53¹[ãwu|   `Î9^zJ”î’O‰œU·ï¶·î–GÇ €™ø"8+Sáró˜ê–É¢õç»rc€  Ì¹³@±şH®2
+£½”¼ŞÌH’T1‚ €y¡‹üœLKW·ËÕätñÓ3Ó¢¦“‘¬  0çÎbûPTP­:Û/Ík–bÏ  æÌã¥§LéÉ²:,µ~NÇLóµ‘')w
+
+  æÜ%*\¾ÿSŸè"?Ä[[0-Ö‡•úK¼ `˜äs%úC9°_ÛÒW¹ô(’¯µ¶1  0gìßô“àéy¬n¿¬”|û‰¯­
+–& €€	5Ó{şıÕ¶	PŒÂ<U·[æ.ıVŠeÊl©%[D 0GŒÁ<Fß§÷ì0OËªu¦«\ª¥¤DJ
+  æ¼Oï©±Ùáy}»×K–QT  0gË%
+Í?ôIÉœÕ³‡«šŸÅ  óÃÌLë}{å¡z&»‘ëÛ…|Çcz  Ì™²H^Ï¿´@¡ƒy\&ı» €£‹\=Ó{ğ]ßÌÇT´_ @Àœ§Deë²àåa¤‚$õ·_ÚnìåšÂ `~è"—ù»÷Ğ®ù]ÿÌ¤)»%… ÀüĞ‚)­”÷wäÓ|v%Ñ;Ó²fRTêJÊ €ù™}¦%
+õÚqÀ.zú",ÕzF`ZÖ´_.Ø  æ<ãe&jgcùNGû¥ùZ)”T)%^ @ÀœW°ô(TX‡%{×ZÅiÌ´PR¸_*<1©šó¬h«[.ÃİøJ;ø´/OåZÒ9 À|™›çÛŞuãûM Sw4!Å}4ÿ[©ÜU¹—™~Pş•G»R…
+å,ø     ¸f‘  €€	   &   ˜       L   0   &   ˜    `  €€	   0  @À       `  €€	   &   @À      L   0   &   ˜    `   L   0  @Àp'¶²ŒR ö@íÏá?Š x‚[T¢XÛÉ¿JO¡‚¶’
+WQ{ ö9sy÷¿ş³ï(`úÀOyªÜËÄ_g¬Õ€ÃÖÊİ–ÚµÏ™Ë»ÿÍè"¦/“'É›úËt¹3gÎšöšR/õŸw½h¡J‘6³ê2|’ÚÃ|kŞg.×-&0S*~²—\ßN×§J®r¹Ş$IÉ\.ÕOX{˜oíÏûÌåºuíÏ?]äÀÄOÒ©!ôö]4æé«ëÕÚª¹é¾ÌaTÓ³Õæ[ûó>s¹n]-˜À´/{‰|-Ÿê%‡Í÷ş¶ju|µjŸ3—wOÀpßoÕ‰Òı¥ÍŠ]·Ø´·×”GÇQ{ ö9sy÷L w•©p¹ŠŸß¤,°Şm¡]c2Bı¿hıùîul©=Pûœ¹Áu‹€	Ì‡Š•JWó³é[ŠÃBm~>%Á¼Ş–€H’Tıö‰W­=Ì·ö9sïQ_\·˜À¬dZºúu}›º¸sÆyßÍµÿîşóîŸ‘L5-KjÔ>gîDpİ"`óa±‚ıå¬øá“E’Öİ‡¸JkE?îjël0¯iÉİ’ÚµÏ™;\·˜ÀlnQ2¥'lŞÅÏ«pı7º­¤ä*-g—ùÚÈ“”»µjŸ3w2¸nİ‚ãÁƒÇÊ´9ú“““»ø¹œâAG~êKŞ^µ×üOxæg±¾äô©ˆÚãAísæN¨Æ¸nİäñ˜`H D®ø\[—:8Õ»2]ş=}¿Fœ…G­7"ùZ~Ôf_ûœ¹wn¿œùuëú˜Àı›"prËq#Gt™§•*¥{4Ö–+¶ââËi=’©:Ó]çk«b&K|\­ö0ßÚçÌ½#®[·A#.“ë°‰O»»¶wáôtı|íd»ô_ıë99egŸ·î*Ì~Ò‘7¯Úã1ßÚçÌ½k­qİºM¹R<xLn<Ğ×émb“5H¡¾ÆßršÕjüµk$ÓÁh´jµÏ™û#0çrİºÍÃ¸ÇÑ 9{ ÔnW™÷vòw¾>%IK7°ËÌ|eŠ$-/èŞñ”(P¥Të1E[¤wIrÖúIù÷.æZ{˜oísæŞ½Ö¸nÑE~§oŸ-å<(µ;•gĞùã¥¼›¹úãÇ¨™©Íoİt±©Ÿ•ÚãAísæNfÖÿÌ¯[Ì"¿‡¸Y«,ßS(µÇMX«<ó÷I3ä|ØÇÔJ%ò%åºd³º¨ù·ù¨­îúvóİ·³üÚé.W©=Ì·ö9s€ëÖ0í.ìL©=®³&Ğë¹[ƒ
+5b¹f—ÛZ‰Ez=ó|%_…£g½öíæKíÚçÌV½ÍşºuC4â~k*ÿT@IPjnğÙ6°¿é¤ÙŒ|ÆP_úW7Z]8Q ªÿgÀ¬Â/jµÏ™;‰š›ùuë–¶Š<épæ^i§Ô$QÙº]yĞ™3¼n¶z“ô>|ŸbK+w7¾Eº·ÀâæÖÔ¨}ÎÜI˜ûuë†˜ÀTºj|%ãX/‚à
+-äk5ø5d*.Üq·$SÒ¼“%µjŸ3wæıî	˜À,¬”÷·Ûè‰"n­\‘…_ƒô÷¢[lïH&Ëši©+©=Pûœ¹øj0÷ëÖm1J€IŒJää÷ºd7ùÃF€)”Óê6#™öË¯ÄÔjŸ3÷9F`şîwÏ2EÀX¢Lôù‚™È®´\±ù½Ï_/ï|™v óµR(©Rzñ^É³­½›¼â@YïAëßXWÏUûœ¹7÷”ïşYÎ_&ğèšPa}™³w­UœŞL,”j7Ğ<1©R5rRÕV±¢Ş[Pôı·÷¾ƒº/ÜSúÖ¡·wÊµü]Lw«½ë+µ”§X¡¤íÑç¢~O†¬È¹{ûÚçÌ½Mí=÷»–ó—F\<¾‡„ÓÇş¯’ÖİA¾½`FW›Âñ{Íôì]R?>õ®düâ)ÔŞÍ_Ü¶ÃŒbUšJísæŞ}Ï¥'y÷Ó?Ù‹˜G{K$¹uO‹L¢¥c¾ó|>¡6jÙaÙVòOwÕg.8‡£‹˜×»†›«Øì{¹>(Î\pş^eŠ à©Ù—%-?‰íËFL-1Ï‚&´’±µ%ÀùKÀ€YŞy­úy£v9œºm&9 àü%`ÀÌÄ*]Ë2Ñ®P±ŸÃ<ÄÁÍÌ½¹-…pş0¯ó]Â³ØøÖN©ÏröŠ;±Y*¸ŒÌWD‰œ¿WzwÌ"?Jú”§–YY Ô€É}Éıé<æ]¡^ÏÍ1nf¡–ªWù«7ÍÛ›{j¾|I>K¯Ïwş>
+³ÈÅÍN1sò(5`ò·'_ïòõÚsØBmlÑº¼÷Vëæ¶vÇÅ
+¨x¾ó—€9»ÕúYOŒR»Æå#¦Ã+º{ÌS¢X¥şô­è*{ÓFË[ÖJ¬öcµÖ&ùgŸ#µ@šÍ˜LÛğÄôlÔxßó—€9nmK%*õ—² Ô®À5ÿ€²¦ç Ğ§ıG‰ëÈ²=l±ÕÁ&y¡æ´y$g.~øqbç/sa)¥›—R»š\ÌÂÅ¥ªÏV¥X¾J­=Û®ƒ»ïèòèÆ»ÅşÿiFŸgö0ÂÏ”;	˜À¯
+Ş¥JJ7úl--W¢D^ÿMÄ2ZÙLĞÿnPÊP¥›Íç™šğ»Î_vc8ÍS â>‹0àoR•R+µ²ªg´f¬D‹æ‡ÿ¾ Y o`[€I¿æé]…m”j«L•*Eæ)½ıFÖÁ€g½IåZ*±ıæ+ÓrüíÉ<Åİôó	ü¦ó7ÓÒ¥*´ÒJ©[¸T•¢{Ì8'`ÀóŞ¢R•ÛÃ}—¨j]È¹k¯âLŞAÛ¼F`¿éüİVõüò­–å=z$˜ ğÌ–ŠÚÚ@ÌS¬üüx+óše´NnSZbŸŠu8QaV#0_uşşm¶JXïÆaºÔ½º;ôH0à™­¥ÖWÃæçúvrújşUlîğ¡²z5½]¤´à¨5À¿®Ğƒ¹0É ˜«ì­u½‚BoçZİV6âW47'óU96TÀiÜY©b£à	Ÿ¿Òƒ¹°9€{\j<…
+:ØJ÷Z<#ëî]‘^]iïZ:¦úàøÓ‘(›ÖØ8SKŸòÜË½+-˜ î!Òªóç‰$ÙZ9kN'¹Ò<ùÄK|ûâ˜H_ñøZòå?b™1Æ`¸—×C„šnšR/G‡L/Z¨R¤e”ÖÄ¤ª,Ó»NdòÔ=Ÿçë!«@ĞE~úm,RÁ·tJ7û´|(tvO]ô!µı­·8ó©Ø4_ Ò˜tM¸C0ƒÒ§<no”nøiù’$½ï·U³üïax‚¯‹»îñ7†¶à]ä‡â¦¡?¦((5ÜDXÿ§õfT`²ñ2‘ßº8@À<RÜä@©áºêÖmï§‰IÀ´ã¥§DéşºïS" `vpk-%•úKYPj¸‰ºe²}4Ğî6Ew0m™
+—ïÏe&¾	a&€;]nzF`Jö)_RuÿÛ Œ8—}è+ö!‚1øø†L ÷Ò3Ó¢¦„q]À´eûE÷ëNrµ€€	àa:G`š×,Å;&0a+Ød:0<XÇLóµ‘')w,çL9^zÊ”,$ÆRë `xØm©µÓb}(P©¿ÄK`â.ßÿ©şÂH9¾a/r ÷±_ÛÒW¹ô(’¯µ¶7- Óü¢(ÑÊL SQ·qTJ¾ıÄ×VKOàßô“àÉvÁ `x„ºİ2ÿ¾œ‰yJ”)³¥–l	L—Å
+NÖ<Ş6_…‰ŒÁpSÇLW¹TKI‰6”0á³øûô&˜  oòzÑ“À2Š
+˜¨ãé=5¶wÀõìBîªæg1EL‘Jš;~è“’ÁyŒÁp}»ïxL &)Ózß^y¨ƒÉnä `¸·®˜ àèõÜøKŠ1˜ø†.r ·×7óß1í—À¿"¶Oï˜ ¤·ıÒvc/×09‰ÊÖÊÃ/‘À]ä n¯f=«jf“˜ó;wï¡]gÑ‚	àÖ·§Ş˜–5SRWR^ÀÄ¬”÷]1¦ùà-˜ n­g¦eMûå‚İÈÉ}ALêµã€]ôôÅ×C0ÜQGû¥ùZ)”T)%^Œ—™4¨gyä `âÆ¤•ªïûMc†Ÿ„ºå2Ü¯´Ói ¡Â&|æZÒ9Lèìõü;Cí]k§ç¨…’Âıæ‰Ië@`ÿùpœDaçW[I‹3Œü¾»uo”Äì?	>z*U¨PÎLìüİ\)öwÈÔ-[ÎğJåş¨Ê½Pz `J²X«‡­•;–ˆØ?åq‰ `Îf?‹Üåõ†ªÍø°R/Ç­êEUŠ´±ŒË ™<1  &ö‘h}ÚUç*—«îîMˆ˜}ìßh  0ßDà(IæéK’ôv¾#ÜVMpza¬Xg9~h7cø!  Ì-˜µ¾’«ããp6^&òÙ‡  0k};%—GÇá\¼ô”(İGqöt  `¶X³Ö·Sò..ÑíÛ.Sáró˜  01`§dE’¤Šq…­e(ÖÉUFa  0st‘Kı;%GM{ãÛeZ6û7Ôä&  €€9kí—æ5K±ç€ÙÂbûøÍ6a  0Ñ5Ó|mäIÊİ‚‚jà™Ò“œXj  æ¬ãQk¦ÅúP R‰—.ßÿ©êt‘ 0[Lò9XÛÒW¹ô(’¯µ¶á	ßCx D(  @Àü§nk«”|û‰¯­
+–&êñozÏIğtŒÆ €€9Su»eîÒoÉS¢L™-µd‹Èó,V ¿Gµm¢:£0 ˜©ÙÁìé*—j))Ñ†JKé}ŸŞ³CÀ €€9S}»×‹ï–ña9ãxzOm5  `Î\Ï>®j~óa9e…æú¤d  ˜7Æ`öíB¾ã1iå›Lë}{å¡z&»‘ @Àœ£»£­ì"z=7şÒ…b&  ³5÷.ò¾˜ÿ©h¿<‰æíÓ{   sÆzÛ/m7örÍ‡åH¢²uúò0¼ €¹™ûÌş˜õxÂª™M:vû»÷Ğ®	 À¬Íº³¦eÍT•Ô•|X¬”÷0¦ù  0KónÁìiYÓ~¹`7ò£rIêµã€]ôôE, €€93í—æk¥PR¥”xy/3iP‹.óÈ  `Î&"Õ-—án|¥NG	6á3×’Îñ¦Ô<ÿJÆŞµVqZ6J
+÷‹Ò'&UÌ¿ `v©ÁÍï-úè=¨T¡B9Ëğ”ÛnÀ@±ß2uË–’­TîªÜËUc®ÿ¨Àj±¢“¿ZÓº  Ïıq•©poúí¾|I‰BI[-%•´o ğ[Eâ9‚¥/O¡¼Gët¥JÉ|…’
+ÇîO  ´øE€'QêMù$^  èD&Àn¤£Q  <Z01SöeIËObû2–X €€	ŒŠ—¼Ö-Byì¤  'VÙ6MÇ*öky  &ĞÏÅZv°Th´a p¡_6ÉÇ|Z“Kïø)ñ´RÑµDº[ÛZïöÊBû  0%_	•ú”î0Í×»|½ö¶ĞF[°Í%  Ì²³ã3gÅ*õ§¯mÒUö¦6–kI;&  ³˜®TJ¥¢%^fŠåI
+ô9xEÍD‰-Ÿ*  æ0¹*ÅòUj=èøPJå  LÌ+µ´\‰ynÑw´e
+´¤ƒ  &Ğ2+¥VjeUw··ÅJ´p9% Àx¬ƒ‰ù…Ì\K%æwÄK_™–ÄK  ˜ÀĞˆ™ªTÖq@¢ªu=v) €€ù¶²ŒR¸z©Š$ùWÙcg©¨­Ó<ÅÊÏ½4O‘$É7‚&  m÷lG\¿PeÚº·‰¿JO¡‚¶’ŠiLq±ìÌú?*aóô¥Ôm¥´Hïzuå€WÁF  0ïÜ>å©r/±V[+wÛ_YO¡Êï!R’Ì—ÿ;ß3  Ìg-ÒU½º³'y½…Ò÷İmÌS¤Lh§  £0óÚq-¬ãå©Ç®O;Ã]årÕĞ	#J Àˆ<Dæ•ôCjF6¾=C7«yúêzµ»öX½°à8  †ÌëÆµD~ëò6ÓÔÌÈnÃÕñq   Ì{ÆKO‰Ò}$óŸâE×­­ím­åÑq   Ì»ÊT¸\ÅÏ¦Öû¯-¼ÊJŒuËdÑúóİë`V5   `Ş›Š•JW«¸é[BÈBm~>È¼ŞÌzYñŠe{   óş2-]İXGÌ‹;•-×Ñ¦X+tnë˜5-˜Kª  0ïÌbûVüğÉ"IëîC\¥µ¢w’w¶_š×´£æ€	  ˜w—2¥'ãŞÅÏ«pı!u+Ù@qœ˜æk#ORîÔ0   `Ş[¢Âåû?Õ-¸ø¹<åı‡¹\¥âŸ´avÀ´X
+Tê/ñ  ŒóEğs(ÑŸ+>×ÖåƒNõ®L—ÀıÚ–v¸Ê¥§@‘|­¿   æ•ı›ŞsİÈÑ˜æi¥JwşvkË[qq¬Û/«3í¾¶*Xš  0Âbú{ôWÛ&²ì¾6OZŒˆ¥©­LFÌºİ2wé™W’(SfK-Ù"  ŒÃÌŸÆËsÓ{vFLõ©@‹1aÑUzS¡•­ÆÅìé*—j))Ñ†:  #S†£~V€™÷vòw¾>%IK7°³Û|eŠ$-/è–ö”(P¥Të1­é]’œµĞ¯qï  €€ùóâôÑñãÑÌ²/7T«ô:<b6¿u{Ø(”T¹j  ÇÌŸÉ´VyæïëÀ8p7r—Z©D¾¤\—ŒxŒš›/Ù·ù7~²   `â")8ßfhBƒér[+Q¢Ho£g¯ä«55Hƒv!  ¸“|.—]Ó{Fs•Kõ&ic£h·•båãciß.äÇT´_  æ}$*[g|—‡!npÈÜêMÒûğá–(VîÄÜŞöK‹›ÿYSÕ  €€yæ+éXıÂvMWh!_«Á¯!SqáVı#0“æ,©m  @À¼‡•òş®cóÇ>­[+WdáÀ× “%Ş‡ÆãŞ˜–5S”RWRÙ  €€ys–(ìlÙÛEOÿ‚'¯8ï¡BåÆ¿˜û…“ìF  ˜÷‰—™4(ÚyãŸİ•ÊhûŒš0z‰öKóm£DRE¼  —`™¢1ÁÒS PaÏì]k§1ÓBI¡vd“ªÑó°·Šõ†Çèûoï}uËe¸_ù­+~ÿî”kIç8  ¸(3±“ÏˆÂÚuÚ-%”º£x°³O¥rÔè½pÌuí°ÓDÅÍØM{öª•*TŒ\²  àÀÿxşğ­ı2‚   %tEXtdate:create 2024-09-04T14:26:17+00:00[†XŞ   %tEXtdate:modify 2024-09-04T14:26:17+00:00*Ûàb   (tEXtdate:timestamp 2024-09-04T14:26:17+00:00}ÎÁ½   tEXtpdf:Version PDF-1.5S6ZÁ    IEND®B`‚
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_propositional_logic.14.png
+
+‰PNG
+
+   IHDR  0   â   Óª j    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   bKGD ÿ‡Ì¿   	pHYs  ,  , sˆéR   tIMEè	ı»`ğ  
+:IDATxÚíİÛuÚÜ†Ñwíñ7 ”@JPJK %(%@	P‚)!.Á”J-PÂÚ`âæ`“Ä9oğA6_rñŒ%-©Ôğñ•>ƒ4éÒ¤É¼Ş˜ ğqıÏşËÜdf ÀG÷Ÿüê&,‹Q  L  &    	   €¿ìÂv‘—.÷ÿæ_^m .„L  ÎêÂV0ëÜ­" ş.+˜  L  &    &  “c•6Ã$ƒÒ™  0¯+oËäÌ¿qRj©ù‘A’AîK-µÜ›4 ğ![¨šÁ¹G:Ê$ózc €Àämò3MVõ“Y  ×É)òs›¤IÒ p­¬`wœ]6WFV¬ ®”Ìóšd±MM  Éû”Q™š  09O^6eœÕæÓ‰  ×é?#8›IuV	 LÎ ´éó%©+»{ €ëæù¹L2­ë>ë“ä­‘  “7+}Úíö…y  “÷åe“IÆuõä‹nµ LŞl”Em?[¯`:E \)›|Ş­´å‹9  \q`–QNyÎÎ·ºÜûı_Û{…gu5& p…®óysÂ‘]ú½±úx{ÏÚüäw ¸ W¹‚YÇÇYºÜïış®í=§g, À±Éç}nïY{8¡n› p•lòy‡Òf””j  ó<&¹Ë®@£$F LNS†ióy×õ—¥M×` WÊ5˜oÍË}Û{  &'eùb{ÏƒõióÎ €käù›”ÁŞ§÷X× ®˜ÌÃvmã¹ÍìğszŠm> À²‚¹W—›:£tù¼çÇÒs¥ ×Æ
+æÁÄÜ‘—“¤“ö‘ WÈ
+æÑJ“6]ºõzÊ÷Üeñ<3K—<zzù¨$«¬ŸL ¸ jòš£G5ÙÜ@}±}ä¸NŸÑæÇæÃU–Û£Võ“é   ŞÄ5˜  L  &    &    	    	 €À @` €À @`  0 @`  0 ˜   0 ˜  L  &  L  &    &    	    	 €À @` €À @`  0 @`  0 ˜   0 ˜  L  &  L  &    æÙ”¦ô¥5 €ƒİTÍà¨¼ÌÏ4I¦ul  ûXÁ<NŸfó
+ €À<ƒåæue  óê]¦I–ùj  û¹ €³²‚	 €À @`  0 @`  0 ˜   0 ˜  L  &G(MéKk  »É³ÈËËüL“dZÇ¦ °Ìãôi6¯  Ì3Xn^WF  0Ï Şešd™¯f °Ÿk0 8++˜  L  &    &    	    	 €À @` €ÀüÓJSúÒš ÀÁnªfpT^ægš$Ó:6 €}¬`§O³y @`Áróº2
+  yõ.Ó$Ë|5 €ı\ƒ	 ÀYYÁ @`  0 ˜   0 ˜  L  ˜  L  &    &    	    	 €À  	 €À @`  09¨Ë­)  ¬¦jÇê>]-æ  °ŸL  &    	    	 €À  	 €À @`  0 @`  0 ˜   0 ˜  L  ˜  L  &    &    	  ÇûÏ*ÃÓìüV›”ûW~lQÇ—5ƒúõ÷ \xOU3x:IFoø±eı|Ö¿¢É .Şğsm&¯%pîıåGÚ|­wG¿ë‰Ç “?ıÒg’E½yS˜¶I†é“L3ß~£K—6óŒGfió#Éİ±k’§ \:§È?VXÒ¤KóÊIúƒê*ó¤$}’yı˜ó¤ô¹Íò­Îü’>I2,M]õ¦§ \8›|>šen2û¿¸Î2Kr[º½‘Ûd˜é£p<Å' Lş :«ã:­Ëßö‹#Bp˜E¦YŒ§ L.È:]÷Ÿ~ïsWW¹K2Ø¿ÖùÆã É<ÊÌÊ ƒ:K6'é‡‡~á©Ç “Ë2L²Ú\1¹[¿NÅºÈ"I_m6:õx @`r)JSnÓe‘›½×xöÛF³ÍçGæÑÇ WàŠnST&ıOXÖÙ|·¶<|Ô¥É0Ë¸EQé³Øæç]n“ôûÖ;O= ˜—fô×ÿ‚yşd`¶Ûyš“,rèY;Ã_GÔU™¥Ï tî¦ùŞã yaşşÚÚò¾Ûİ¯Ô+ãLÒgXn^’O¤Íã§ñÜ¥O2Ìü<Ç óâÔñõş3×U¾•6m¾çõg¦÷I¾—ç_–ñ+Oè9õx @`raæi3(í«k˜ı‹ø«ÓdøÊ‰ıS &©ÍÎÀ,}–Ï×xËúÚÍ~W0z< p=Ü¦èÚ^ùz÷2ë*³$miÏp<  0¹ôÀ,R³ïdıµw·<õx @`r‰Ö§Æ7«‹¥Ëí£ïõ™ïÚšSçY&¾xBÏ©Ç “CÊíïºq{i3L2(İ¾Éú'»g™·¿Áfå²{¸³´e’QÚÒïü[’¤Éè×ï:õx àê:©šÁ[Æ6Ê$ózsæß:Ùq3ø“Ş¥t¹ö¥›GwÃls›6‹ŒÓf˜›ºJÊ}º×ŞëÅ›:?õxÿW @`rÌĞšüL“Uıôşí]º$«ÌÜ­ ˜gh·ëm,µ˜ €À|ÿÈ¶§¡& ÀK6ùœn²İÓ €À|§2Ê Ss  ˜çÉË&£Œó°=f`"  Ïyùi&YÔÙö @`¾GiÓçKRWv÷  ¼Æ)òSL2­ë>ë“ä­‘  Ì7+}Úíö…y  Ì÷åe“IÆÏ~ãyÛ  óÍFYÔÙö³õ
+¦Sä  /Øäs”Òf”/æ  p˜ÌãüÚŞó<< ˜§z²½gm¾yu& €À<9/wmï‰À ˜oõt{ÏÚróê9 À36ùPÚŒ’RM @`Ç$wÛõÊÇFI< @`¦Óæó®ë/K›.®Á xÁ5˜ûòrßö  æÉFY¾ØŞó`}Ú¼3$ €§œ"Uì}zuM €¬`¾î6³]Oïy‘¡  <bóµp¥Ëç=<¤ç`çs €«eóµ¼œ$õ˜t´ à	+˜OÃ²I›.İú	=å{î²x™¥KÒ¥ß|:*É*«Ã'Ó ®¤¨<¢æÉ8&›¨/¶×é“#ÚüØ|¸Êr{Ôª~2= €$ù?Ú²ÑŸ°}   %tEXtdate:create 2024-09-04T14:26:18+00:00­Î(7   %tEXtdate:modify 2024-09-04T14:26:18+00:00Ü“‹   (tEXtdate:timestamp 2024-09-04T14:26:18+00:00‹†±T   tEXtpdf:Version PDF-1.5S6ZÁ    IEND®B`‚
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_first_order_logic.1.png
+
+‰PNG
+
+   IHDR  0   e   Ğ
+    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   bKGD ÿ‡Ì¿   	pHYs  ,  , sˆéR   tIMEè	f„  šIDATxÚíİíUâZ‡ñë~Öi SSB¦„XB,!–)!– %H	R‚” %H	ûù 2¹~Yg­QbøŸµowöK$ôU"£aşùÓ5÷iîu”y–$}/ÿóœ¡¡FÓ©9~&;¶9†ôÈŒçÈ¼Ş2Ï’$ÌŸŞ×Tä8Ny§ô`“üòòUÇg–ñd%IWÑºy‹¼çšñJÆ<ıÚó¼†Š»4=ùİ^˜¦{¯û'æ•l_Z}¦y–$}-{0ûÖ{za¢ æñÔæÒœÊ¨½ìWlDe‡â+gÀØ<K’®=˜ı^Î‚çES;•ñéwOïùLÎŸ4óê_if¼2ŞßkC*şœ^Ä™gIÒùÙƒÙ¯†é²iŞ®fÀcoïùH†}>W+ÍSvyX2»lyi%I˜ß@tjh#£b–F½(&T‘{ı¯ÖØ3Ñ'*2FæY’dykåeFÍ_>Öñl}bİ{©Ğ¡@Ñ÷•ÆÌÙ7
+³X|ÎæY’tU‘c0{»”Cé.2Ş xÜ¶"`¼‘ñ»ß1f‘€_.R}µÙi¨w¯ì:NÓ<K’¾{0ûjs*şÂ¾F1J2¦½Oa¥ŸÂÕÚ÷ù•\ºÿÒ<K’,0¿f¹LË{“¼mYLz÷©ò5KS¦;o
+WÌÓØ<K’®Å^‚>DEÎı²qÜ5ã¶X4Ÿ»^-#æÿn™n~§¥A.ü®Øˆa¼°­¿pËd›#’b%I˜WR^f4ü]»™ØºìLìn#£¦dÂœ*¦üMSˆ÷ï@sîÛnZ¦I Q¤‰ŸÆ•3Ü¹!ã¨Ÿ¤˜gIÒE$“?}•H¤Ög–ÛY<ñB³øwNâ•ŒŠ²O$¶üä‰ÚÏâŠS4$1hÍÄ/ı%Å<{xxxx\ Uóœ|	syÇ¹!­6Ş-ÍjµòÕ3‰!od‰O$o[~ò™ÄĞOãŠsT’>Š±Oß¯H«©85)æÙÃÃÃÃãü‡“|N×´ïÂÜºTô`ç­É¦eÁêŠÑâ&b±¸•ÚnºïÕõÍï%Œ™µNl©6?õ“’b%Iggy¢¨È×&`|Œkµ–[–t‰ì}a˜MôFüİq2™ŸÇU3ˆµ3äË’¬¿¤˜gIÒY9Éç´ò²m:Ä¾æqÛÔ‹’ÉÚz‚0ûø^ïí“r{½ë6¢¦Xû”[ú/{HŠy–$•=˜§©™nÜœíhwõÉL?÷-nI:öf¤ªÈÖ
+ÌÙÆ\êó%Å<K’zaæ	"§>p·Í}2ãŞŠE3­Û1¦ ü·$Q”mû|Ÿ+)æY’dù4Œ[G Õ@û…Ùìñ¹Å³¡Z))KZVÀ<[RÌ³$Éó«EIÎï¶ñj‘SĞ~ûğùÓˆ5İ‚41Uäï½‘µŒc<[RÌ³$©?Á<¶9Ş5¢×ÏÉ8´¿ÇÆûúù·wÛŸ~’b%I˜ßRİ²Æßç†qÛ^ÊİæÆ¶ŒX‹,6È?[š0£Z˜ó4:KRÌ³$Éóû‰õü¶÷uŸâĞ6b­^–íÏŸûÉü #²(!r–:4)æY’dùM¥½kKÿÌŒ­=AQÇóÊ2Û%k#Ö"û4ı£=>?ÁÇMòŠ-|zHŠy–$•“|5¿w<á£©l4‘‹É›cİ¢¡
+ ª–¶f¼cŠD3t„4‹1eä”L[·l<5)æY’tvö`S^6Ğ©ß˜w›¦Ìiµ–j‚+¦Ÿ>ò-ï}<ºZèºM€!Ù–ä'%Å<K’,0¿Wa™EM¼Ğ ÄS”›·£ˆ"†‹/ë(£ˆ|£xh»©8fÜÄ)wÌÈ?~6J¸Û1Ç7¦É1k?B1'gÛ
+˜§%Å<K’.Ò˜yt<hÿxY~«^{F¾üçÛÊ³Ş>=§"ñÜòê/¼ĞĞğÊ0‘`Ào44¼ğÌ`ç¹7ÏÆãŠ³6$ñ´å±“’b=<<<<.q´/œúèåøµcAëÉ¿‘w‘S2_ıÎ–W}#ã·‹Xÿ˜”xæ!mƒx|RÌ³$é"íƒæÅ/ùŠ‡4êñK˜¤;¯­Ì³$é;pæå=Âa«îU,^U2Ï’$Ì[”fŒÈ£èëõb@Å$¹¤‹Ì³$Éó†=2§îíÕjìï‘y–$Y`Ş¶4ã‘be—“DNÅ£ı=2Ï’¤ïÃI>_uáŸğçô•şâº­{(™gIÒeØƒùUî™/°>¾9npos,ó,I²ÀiÎE4'5ÇwßcµÀÍ]`{\æù<y6™’ô%u·È¿´({btì
+‚Q2ä.}‹ıš£¡J¿vş¦¯Ü¥IT¬Ô÷¹‚¢Ìó‘ÉÌÙ_›UIêì?/Á×I³¸#?úÇ§üş67ÇÔQíh~+æL	3 ~ßá…GŞ÷¬–y>W»&sÆ#ÕJ2?däï»£ûKRç?ğíÁT/Az†m{¯DÆ+ãô°üºb<¦¿^7]G2£bèîB’Ôc0Õ1Elë½*É>õ	Ùk©+KfáíqI²ÀÔ¥¥³­ÖL’E¥®;™#
+¯¦$Y`êÒÆT‘m~;
+öşè:“ÙGïgšBÛ«H’Ú8ÉG}y¤¦Í=XjfiìåÑU&3§æcäå„÷’$L]RšÇˆºuOj'óèZ“¹r[Ü)>’d©¯0¢âq­§¢ğ¹®3™1 tJš$Y`ƒ­ÃùuºÙî…¦Ó4&äŸ—x‰'Æ·¼õ_N¹€Išô˜Ìr1î2#Ç5$É´ŞSOÍøŞ¾È1ÃÈÿíÆÕÚ20·§0‘ÊfÉœ0^˜…°J’&ÀÇIÏŞÈ4ŠšŠåÂÕT7¿@ÑÈi!0ë5™óeè8À½Ê%É3ÍmÎ¿Ø˜:ş¾ßzŒ‚|¥I¿Iiæ-Ö«Nædµ3†<º¢«$uá:˜ê×#,o
+—ûFmJß<™³O;W–—’d©/æŒ(a1áÊõ/uÕÉLÓSƒ¢ğşˆ$Y`ê«ŒDTpã|ô³’Y8ÜA’,0õEÒ”	%P2ºåŠô³’æY’,0õeÆÑìØçÙu}ÉlÈ¼E.I˜ú2iÄŒšIš¶=ÙûH8a¡©ï˜Ìµ\Fu¼Rá¢ë’dùóWÅeVõ/ş[÷&o‹f¼ä-R4~’×Ÿ±¸µ"·%³XIfiõà™æ}5LçKRç$y®³áo˜Şú®ãOÖÜŸ{lddÔÇœ®3c—I•É”$L÷q»4é‘ñÌ,İı9wN¿1c}fÌTI’VİÜ-òxŠ»GO>·šŠ¼Ã‡pü9éÏ¼ÑòòL3U’¤OíÍ­õ`Æ+YúÕï3{:³ŒW2æûŞ3*îÚ§)t~§¦Çö€êŠÓÆŒ™*IÒ?·7ÉgDe‡æ2gpá}h2ö.á5§”—æ<PFmüoÎ3fª$I+mÉÍõ`xe¼¿Ÿ%†Tü9­;è¼
+uìxVÆ¤ß=¼ß39œ{SÙï)c1¤â>M•$i››ëÁL3Æ”ÆŠ•Ì.W^Óe°]Í §íÉ°·é¶ô’±(¨`Ë8NS%IºÍ“÷UğöLô‰Šlëng
+ÇÈ¨˜¥^Î+M˜PEîÿ·¢·Œ½§SS%I²À\mÇÌÙ7
+³€ËÀŒŒš¿Ë}·/Z]÷Zöv(´õcÊËş2ö^>NL•$iG»s‹ë`FC½k|e×qš½ÏAº‹Œ7 ·­Rodüîo„[$à—kŞDæ{ËX$`šş˜*IÒv·¹Uävöa–\²ÿ2§â/ìk’£$cÚëŠ}×A?¥¼ì-c‹Ñ›S%I²À\“¦LwŞÆ«˜§Ë-QÔ,—„yoş·`+ö4ì‡›Z
+Üˆş2¶c¦©’$}øïFïÃxa[NËdˆ0€4éûD¢"ç~Ù4{šöûg8]úÁúËûF`š*IÒM˜c†;7Ìû4Í!2†˜PÅœ»Ï7#ã}æ£n]GFÃßµ—Ùöòq[ãÜ¦I Qô_6ë•—=d,^×¦½-Ò¥S%I²Àühç1¢j›Ì¯ÌÖ¾?dş@@Í»OU”À€ãÆFÖLW–„yï]j/|s€­eì±g8%'ÇRà'ë#cËg4Àh9B¹=¦J’,0oö7ŸP½O|XS®/Ó5ÙÊŒò¢­Q>®¼Œœš?Ÿœ³õÆä	g8g×’5ºzıdì£7r1Åg¼§wÒTIÒÍûß­şâiÌ¬u*BÅúòzY†¶5šlôxvÕ´ïøÜºPõ®ûø3œZ
+üp}elå•½7¿M•$Y`Şğï>fk%fÈ­W‹êcËÈÈ6§@DAÆ‘s»£"_›Lôñ:m#ä2¶ôB|†™ÿüT}eìÓ+İÒnª$ÉóFØ¼¼ÙY,¿.ÉZ…}ónÛ›ş¶©ûçù–Fÿ´3tc¿ŸZ^ö—±?Vº§İTI’æmJ3&T‘­˜³µ€ãåˆÌrñõf3zLæç©ïf;çí=Bç:C]»ş2¶úÇŠY’$íõßMÿöc
+ÊSz¢ÜÜ‡ùcÁõ¼ïO¾6–1ç¨˜‘S¸OçÖ¡óœ¡®]Ÿ[}Üå‡$I˜û
+Ì†j¥¤,a½ÀüôØZïMäGÀl·v«ö	³½Ó&ú=C]»ş3V˜%I’æ^icªÈ—SdJ&[ûúÚn?93Jr~·‹œ‚ö[•]ÌÆˆêºõŸ±0K’¤Îşwã¿ÿ˜û&oNğù×¸fïk®5ØGoÜ9õâø‚âø3ôöùÏ+/Ï‘±ÃF`š*I²À¼]iÂŒjY`ÎÓ¶äï…Ú´¥É=||cÍlëûÌVšòmgÑ÷Z
+ü<çÈØÆÌ(L•$É³İˆ,JˆœÁ¶şKZ{oßƒ•eÑ7mïsÚwkò¸3Ìw¾§®Ò™2¶63r†¦J’dÙîã&yÅö	>»JºCÇ¤¥½?›cáflïu:ííkúiÎ±–˜Õ?ÈL•$İ¸ÿnı¤YŒ)#§dš+‹eÚYÔüŞñ„3l4Ğ‹‰H«Û†ÎşqÎš±ÉJÁYlİãÜTIÒÍ³ó½)’í,ÄŞ[™yÍû¶Œ‡|QÓ@§1›s|Ó”9»FÈq†Ñ>nS×]^/cÿŞ%cÈC{²L•$ÉH#æäì¼A¦Ÿæ›ÍbjP§~šÈ¢ˆ&^h â)ÊÍÛ“QDÍrT[e‘oÂE¯g˜Z"ëÛ–gÎXš0ÿ(JcÀ3[\7U’$H0$ñ´ç9CÏ44¼ÒĞH”^¿Yüãeù­zíùòŸo+ÏzûôœŠÄsŸgÈpóL<®4ÃgÏ9o¼Ğ0äÍTyxxxxì>ÚIîÇöşxæaÿx1 `ÀŒqšÇ3ğër=5‘ñ¶ï;Ãx#ã·ÛHª[Æ"£dÀ4íwlª$IX`ÔÓıEßuHÅCõs†QòÄ$İùiê¸Œ™*IÒ6ÁìPªÅ0£úôÍ÷ıœG>•G êí‹Å+J{3Ö™©’$af—K4¤æé×¿‚W²K÷_.Ïånıfş1g^íiR×ŒuüYS%IìÁìâ}föê²+53¾à\™/ú&O=Ã{šÔ=cİ˜*I’fGs¦ŒYöFEÍœû¯Xˆ%Íx¤ˆòÔ3ŒœjÇB3ºa[2Ö©’$-Ûo‘ï½Dù¿›~ÑP3åşëfÉÆ3ş¬‡Ÿa¼ w®U¨®ëôS¦J’dyP‰Y.vÊ)QúÒ›€‘ñÌìóèÊÃÎ0*ş¸ŒÉX‡ÿKL•$Éó Ë4 $&ßá`ä<3J;Ã¨h¸Knå§3fª$I˜?½à}btÌj…Q2´P¿3U’¤Ïş££¼L»O~«   %tEXtdate:create 2024-09-04T14:26:07+00:00—,X@   %tEXtdate:modify 2024-09-04T14:26:07+00:00æqàü   (tEXtdate:timestamp 2024-09-04T14:26:07+00:00±dÁ#   tEXtpdf:Version PDF-1.5S6ZÁ    IEND®B`‚
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_first_order_logic.2.png
+
+‰PNG
+
+   IHDR  0   ù   º»Ò2    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   bKGD ÿ‡Ì¿   	pHYs  ,  , sˆéR   tIMEè	™ĞÈ0  ‰IDATxÚíİëy¢Z‡ág½×n€)”À”@J`J %`	X‚–KĞB	c	C	ëı 9h I0yî|Ø%Ê^òó¿N!"IÒ5„’”„œ„„U¼·E¤Ÿê6$éŠÖÜ3·¤Ÿí?›@’tq,ƒM!ıpV0%I’dÀ”$I’S’$ILI’$É€)I’¤/æ,rIºHøIË	»¶¥¤£XÁ”$IÒUYÁ”¤‹D}”¤=V0%I’dÀ”$I’S’$ILI’$É€)I’$¦$é;	†Ü¶˜’¤Û
+rÉY?•~àÕ!†È)²1Ä°ô•’~àõ)Ú’t‹á²¦“3~²"çOlmCIÇ
+¦$)8ÎB}T¼\’œ/!NY³<¯ú)ILIºµxYQ’qàx8÷YâƒSÒ_Íì"—¤‘\ş’ĞÆ_«)¹ÍEÏôDÿØæ’>†LI‹š8PY9ÓKâ%Ä–ŠPÙä’>è³LIÅå8g;ß:†£ Ş]áù–dük[^ÒõYÁ”¤q¨i^¢f¿Š”éUoJ‚5LILIú®ÂQÁ1$”¬ãüÏW¬(CfÛK2`JÒwŒ—	×¦ì_
+½"a~µ§] ¥­/é®jÁ”¤/¿ÏHã}HøÀ´o…Ëğ„»ë›øå¢ë’®Í
+¦$}u¼Ì(™À¡ 
+š«NËY …¯€$¦$}7õË²C›ˆÙ7.2VW}æÆ€)É€)IßN(É^¦÷¯n™ÒÎ@ï˜¹¯$¦$}§x™P3ÙëOºã#iÀIxä‘œÇğ7¤ïï{+@\Áe‘$É€)I7¦¢y³ìĞ&>vw‘g ½#0g´ñwœ0'e¶w_IAÚ37½\ªHÒ•ıgHÒW	¿<8£wf¨HŞì,wESº£iËĞ²H’t+˜’ôuêî]Å;—?Š“£r`İSûl˜’˜’ômìLïÙx®PvÂLè©B†’õ&¦†äıD “0<û<ñµdÀ”¤ï/»¦÷Š|İGç,¶ß$ğò¯ç{ax~ºc0%0%é[ØŞ³±ˆ|ıuÆÅËö‘ÅößïããÊ—ôyœä#I_ dT'îÖÛ[gŒÛ@Rr`±7Ú2£¦$0%éÛ¨Yt¨¬€îi7ëƒ“q6õËÕ^=4S’˜’tûBAÆ]×øË‘Óİ~lÀ<u¦$]c0%é³ãåĞôK5V{{ÌL»Ï%0%éÆU¬ßMïÙ{}›7Í÷ŞÜ·_«ZÓ€)É€)IßAHß,‹ş^]óP7÷&”:3|NI2`JÒ˜1ÇD†÷ã-×ôW6‡Cç¡g³‚)éÊœä#IŸ(TäÜğÓw±o»WÏIc77sqàç˜Kº2+˜’ô™ñ²†£Ö¤|7<6´Â\ìÿ\¨7GöGÒĞ=nS’˜’4ú`™„<Ôá‰ <†â}xÈCjfÛV¡yØ“+:ÉcÃ‚ç¥Š6ñ²|ù©>Ùp •¤óØE.I¯Ú. Ş¦;ñ2c¹ı¶eMFÆ#Ğòk'`ƒóÈh)Ã’(X0§âğ.ä_IWÿXmIºvÂ?à×PÅ1¤ä¤¬YÄ6,É‡ÿH¸sIILIú¹—ì%½khvÅÑEüÓ{DÁ#«xo»Jº6Ç`JÒí˜Âvdå^˜³°»÷l:å‡Âh¾}DIºöÇa+˜’tCí%÷qÕq+´ñ×kää/É`ı2å¯õKIÃ
+¦$İ’)í¶6ùÖfîøÛé<	k©Âú¥$¦$)®™’‡bïæ–†/ÕÊPRÑògpÌ’it‰uIÂ.rIºµ÷’”ßoÃc¨É^;»CMEÃŸ¡Ùáá	¸wLILI–¬wGW†šb»¢eÌã`çw¨)ùíòD’˜’¤çKwÆ’yœìÜ–R «Cß¡¤æ>ºA¤$¦$i'N>2?nEÌ½Ÿ,˜/%0%Iï/ß	Ù9“tBJëØKILI’$İ—)’$I’S’$ILI’$0%I’$¦$I’˜’$I2`J’$ILI’$0%I’dÀ”$I’S’$I2`J’$É€)I’$¦$I’dÀ”$I’S’$ILI’$É€9n!9ò¸Ô¶’$IL—aFuäÁEXF%I’˜ß-8ÎB}L¼dI'Ç=fœ²Æˆ)I’˜?2^V”dG8Üø`Ä”$I£M@Ñ6ø¸ÆMøKB8®¦ä>6'>öMüc+K’¤±±‚ù‘jà@1äTLO‹—[(Be#K’¤±±‚ùqM›³Ü†Á0pTÂÄ»#f”ü‰‹{–dükÛZ’$‰ÌSÓ¼DÍ~)ÓÁ˜ZBÏ8Î)	Ö0%I’óg‚ãö¨„’uœ²	§èqÅŠ2d¶¶$I2`~ÿx™P1¡İş³aôŠ„ùàCmâãªçŞPÚŞ’$iTIÈ1˜Ò¬3Òxş0í[á2ü#ánheˆ@Şÿ+¶¶¹$I+˜/3J&p(ö…‚„f0^n:ÈW² 
+Û\’$0¿·úeÙ¡MÄì%™ƒ#0·¦$I2`~s¡${™ŞÓŒÃGÀ|~†ÜV—$IÌï/j&{ãK­‡”´;`†¿!n¾¶Ññßöß³÷ÇÆXI’$éSıg\YEófÙ¡†œ¾.ò sæÃË50çy‘õîÑšÙ®vI’$æm
+¿<8£§ó;noİÖ%q8<¶-„$I’ôÉì"¿®º{WñÎÅĞ‡ÂìmÜìÕ0%I’ó›Ú™Ş³ñ»Fa&ôuz?;<ËœÇ—$I2`Şx¼ìšŞs( ¬”/QôÊí"%I’óÚŞ³±€‡ª‡Y—$I!'ù\IÈ¨NÜy3;æşhÀ”$IÌªfÑ9¢²º'á¬LÍ9~¦$I’ó»	w]ã/CFNwwø`À<i¦$IÒˆ8óñrhzÏ¹N¹öU$IÌï¤bınzÏnôëÛÊ±æ»˜ƒÛA0%I’óû)“Ş»ûëšÃİß{#0CÆl Š¶¾’$É€ù}Ì˜Çƒc%Ãûñ–kz+›#0Ë—É»XÁ”~ÖÛ$”Áõo%–“|.½ÌWäÜğÓw!°Ùü™»¹z8óŞ=Îm.ı¸xÉ_Ó8±5$‘ÌKãeñ˜úá»yä±¡å¨=xBÂŒ‡î º­a8Û\úIÊí¥´)$“Ìsë9ù&†G4û13ä@şò 
+ĞÒît¦¯(È»ªqZ’ÍŸòÈ´wÁõh¢c0¥Ÿäùjão¾$æ·RmPoÈ€‚‚	Óx™±|ù°&#ãhùµ0û*˜÷,©BFBÁCì™ÁàèLIßN\„)kşØ’Æé¤½uåÆOøüêéüN(Hiâ`|ÿH¸‹Nò‘$IL„%½khşù‚GVñŞ–”$Iãá$Ÿ¯5å²aúùö1$I’˜ˆkædƒ{ô)%«èE’$É€©7¦´Û	C§«°~)I’˜Ú×LÉCqúO†Œr`ù"I’¤/â$Ÿ1¼KR~Ÿº–exî]S’$Ì1øCËìÄxY“òÇx)I’˜ê[ÈC}B¼,)¹wõKI’4Fv‘å…Hyd~ÜŠ˜¡`Æ}éşã!éß_İ£’$0õÉÁì¸ RÚñv‡%ıË.Mã ”ìOkZœ¿Ü¼$I÷"Ørd}oä]ã¤=÷¼X±*r`Å°»_:íiA3Ö~I2`êÚAyİC»{LHÉÆséäxù—Â¶O@’ÆÆI>ú:V-¥ó”$ÛÿJ’S’tÅg.T&É€)Iº†¸Ø\şc[H2`J’®1'1Ä;'ùH2`J’$éGøf³È‡ùÖÕ¬İCH’$ı˜€IÆÒõÃMX%¤½ûªgØ¡'I’óæ¬™ú¢~¸CëVöÅÈÔ¦“$É€ysâ—ík¾ IÒà$I’$0%I’dÀ”$I’S’$I2`J’$É€©+±	$Iúş³	nYHb{æO¦µOÈÉ{îJß®ŠÍ­çÿ_H?÷wŸ‚Æ½È%0uı?05íÙë~!çÏ‡»r»lŸ/ÔT¯gB`]ÁT:ş·ÿ/	o$õ:mƒ±½$3ÚÃ4BÂ’uüsÑódÜ[;”nğ*QQo>²Å_¶†¤1ú‘ÌPsxO™æk*¡¢<¸#Àx¸ä™âCxdŒ˜Òíyàâo¯¤‘r’O·œ/ÙÖ0$Tpø¹CMÎÃÅÑğ„™/¶tkâ‚)°æm!iœì"ïk–U¼ÿ‚çQÄ0xTÎ’Iœ^áù®öH’$IÌÌ³Ü|70CÂÄ»+=ç’Œß5£\’$ıDv‘Iı¼ŒOÈªH¹^ÍqJòfF·$I’óûGÇP²ók=k\±¢™í/I’˜ß-^&TL^æ„¦½V$Ì¯úÔØŒü”$IºJ®qfO³|òÌ0#÷!á0°ìxøGÂİuÇL†ür¹"I’tV0Çh3J&p(ä…‚„æêSr0°û$I’óÕL·»
+o"fß˜ÈZ†ı4S’$]{‘Ÿ $d@»‚·œõ¸%ÙË‚ÉC3Èóm¼îY6ÛG–$Iº+˜G‡ËPóDAÎ2,7³®CÅ’œœYX†ä‚ØZ3Ùëï|´’ÌóÎ2®àÀÒH’$IG³‚yl\²Ú,n<ñ~SPpÛR0;{Ó¶ŠæÍ²C›
+fwyĞ?ó‚³lÈÈ> ó]’$0L`Ì8­â¸dşcVäÔÜÅ˜QpvsÈ¨ø}äÁÃ#0Ï?Ë–¡¥‘$I’˜B]ÂÓIÇ×K›—L·İÚ›Ğ¶8ód^§÷ìÏ[Ó;Ë†Ü€)I’˜g‹mx8§ª8ZvÖŸÃÜ%k&gEİ·Ó{6VÛçîª°&Àº74_z–‰¿’$É€y~Ä<°Nx»;wÁjoÜc¬Ÿo‹‹s«—Ó{Å½¾•2/?K·‹”$IÌOÒìÎÛŞîÛ}	1»Ó{6Ö/qoqtèüØ³”$I2`^×»±ù6Ğ](dT'îÕ™}şYJ’$0?Şµjƒ5‹Î•›îù®1¢ë&âXÁÔ—	É¹;Û‡ôê¡J’˜7aglãÙ‚²íBû÷dätw‡Ÿ0¯r–Òéá’šö¼Io@rşœO%IcáN>§şùÜ¬ yaeppzÏW¥aTCï©Y¨zg/Iâ¹ñ’8eÍûbI’ÆÁ
+æ©:Æ6†„äÄZaÕ±fånĞë[=û°³4`~}ˆ«x}›óãÛgVQõe<\òLñ!<²÷V1;Â{>øşXí&É€y›ºÆ6VpJ—`HwïéÿÑ½_Ğ©g™>¯Æöçó£MuÌ‡›P“sy4|àé‚­W¿¯‚Ù­@X0½–ôõ¢__D–/ßW,)ŞÜù»slÂ?Ò“}ÉlàŞzûÍ»Ç¤${~ê¢³dI¤öu¿­wæ'>ëlóÍ£r"ÕUïjô-ßËÍï7ÉŞí	%ÿˆş.ûå—_cø²‚y¸&S9 ”À~grÅâ”òP‘s7pÀsÇvú®ÓºÙT“ŞWˆ.>Ëgœ«ï›SUåœ±Ó«|ì]…UX8I­Óf„êbÿ:[æ¡á	¨_1B’^9Éçl'¬•4ìÌğåIİã5õ‡óİD‡ØĞÒİQyÑYnewÍLu«Ÿßa¨ƒ¾"ezµçœ’¼İ°Uo‚üÀd±Ùn[9QJÒ×ú‘ÌPS‘ÙZëÍx°0£aÂYÈ6›‡‚ú¸1g!!#¤YĞìÇÌ¯Õ¢*@K»³„úŠ‚¼ãOËeg™áä õ$Jyàñàû»˜¸v²¸
++Ê0~ìÙ—?·PÏıíËqK’óseGL•x¾LOÈ€"¬â„{Y†9Órd7^µ­Ç4›Ç£`²[ï	Ë—ç^“‘ñ´üÚ˜]ÌËÎ2ÿ©'8VL^~Ò÷wrÅú%À‚œò²éßôêµ¹}$Şçï´¤¯üûmƒÃ´	¤«×jJÈ(hßŞòiîÿ¿h?ã,Ã?îïv#¿°«xÿ‰Ï7#÷Û÷LûFö}Ä{(Ä¾÷ú~<‘¾õö£ì½sÉ%}%'ù!6ûãßßòIgÒ†9%óëe(HX/Õù¡¥ä7Ä6~5W-(ºßë?øIV0 Zã¥¤¯å$Ÿ[3…F#ß>ª´¯fº­oêˆÙÀ{èú¦y‰KzÛÒôÀÅvƒ¿Ñ’¾˜Ì×aNòkÕ'BJÉÊjÇmÛÖµŞL{ËZ’½,w>¼ÈÎ«œ|–_´°üˆÖ/C²]Š}˜’¾˜ÌÛ3¥½â.V;n<\†š'
+r–a¹Yr*T,ÉÉ™…³÷õ	5“½IÏ‡”ôPÀ<ç,7{‚s?Ê÷´uHY’ óèÔ(I_Ïµæop'ŠøºkÏE”¹ëÇmïäCÂÓó+H¶Ùß…’'’	DÏ|¦úí3=ï/Õydqh—ŸsÏ’'wôÙkÇÍ7yÇ}›]|ş^çÊà—_~ùåN>?ñCÁ4äÔau…ùµ3ë—£ªGfœVq\2^}26aENMÁ]lgv2‡ŒŠßGœqhæ¹gÙ2´4ÒO­_î×u2
+R¬¢S¢$„ó6ıaÉìe|Ü¹a¦&å·ËÀŒ(^&<ø
+¾_Ü¼dº}M7!ä¼Õ_§÷ìÏ[Ó;Ë†Ü€¹åé"“²¢q»WIL]$¶áe¨/Ùo8””G/¯Ï{]‡UµGËÎ*ãs˜{ dÍä¬÷F¶÷ñeµ}æ®újÂëòŞ]¡ù²³tËÃW›0>ÿ{*jê0}	î’dÀÔQ¤	¿yå¹]bÛí#İˆol¯ë×3¼­]ïÖ/Íõómqq^õ²szÏ¡¸×j.=ËÌwÅËëÒ;‡<¶LÂf¿°üè¡’ôœE~»QdÍ=ç×îŒ—7®y·ÙhOü8QEó.è®â^ò%gùóÚ…|ÓÎY¨m*I_Ï
+æ-GÌöü?Óvƒ×¿é ~lÕ‰{ÈfŸ–?ÒhÛ°"J&6–$¦¤O	 GªYtVÆ7ó]#D×'MÄ±‚y®c£yÒ9K’˜’Î ëËjÓ¡ Û.´OFNwwøió
+gù±¹$ˆc0¥ï@6+h^?§÷|ÕYE_ƒ9#0_i­_J2`Jºf ivc8mÉªcÅÊİ ×·l{öagiÀ|ÛÂñ2”Ûo6–$¦¤ åñRªé!ıuÍæÃÎ2|ŞÿâİÇƒÍëäŞ\’˜’Îª°ÅË?öÆ6†„’SÖI1?Ü¹ÚQm\3°!åÅgi“cF`†z;vâøVIcà$é6#GMäxéİ‹ãÃF¨È¹8à9z¦ï"_³‰@Sƒ.;Ë'µ¼¶ı#0·íîF.i¬`J·)Û	k%;s¼CvÊzˆ¡¢>ruÔwóÈcCKß(ÌÎr»$»V^Û±3^†4,©€Öx)i<¬`J£ŠÆL®õfÇğ0£aÂÙó
+ˆÛ­@_	9ù&À„G4û13ä@şrfU€vo¦òŠ‚¼3ş\r–ĞüìµÃ¦r™?¯ûC^^;æLí—4¢ëW´¤±ü:>wtYÄ?Ûh¸dSÓ*XÅ)¤Ìœ–‡câÆË36/ÈIÜßÚñiûmËúå¨6şzsLÉŒU¼ï°gŸe˜QîŸÍ{?¼¶ıĞ††yt2”$¦¤+X½VCFAûö–O9„À¯îsîY†$ÜY•“$¦¤Ÿy!™Q^w`(xì®ŠJ’ÆÏI>’.7…SÖÜ<B¾}TI’SÒO×ÌÉB~­Ç)%«èE’dÀ”ôƒMi˜¢t¬
+ë—’dÀ”ô³Å5Sò7{ö\ d”L­_JÒír’¤k]N–¤ü¾|ÁœğÇ¬â)I++˜’®å-³‹ãeMÊã¥$0%‰Øò@ê‹âeIÉ½«_JÒm³‹\Ò5/))ÌÏ]3Ì¸î?şŞIÏ>õ€ãl%¦$(Î!¥µs|”¯iznìKú—¯šÆ	„ŒÃUïÅ5—ñ—ôñş³	$]Sl9».e×ø(ãeIMÃ¹»*=öÜó+×LI(7[Šî,O•‘“Vµ%¦$é[Ë”„œ„ä‚kz>6„öíG’Í^õ{¡dÖßÍ.iœœä#Iê³æù'=S_Dc÷¸ts¬`J’ºƒ áëOeÎ“¯‡t[¬`J’F($aÛ1‰-"0%IºÌÛÙå+GaJ·Å.rIÒ½YŞ(ŞÛ’SÒPö.Õ"}•õ˜×–).[%0%(›–¾Æê3fg‡´wú¬cuËb;îr³ÿS2`J°p¡hÎgÅ·¾÷~ÚzÛ€™SúILIÜæN?ö½¿fÒ}Oèš¶Ó¾,´¾8°Dº]Î"—$ÑÎ>aŒ›’S’¤‹¬w:×Kwª—n‰]ä’¤ŠÍkÀùn=SÒØYÁ”$]îŒrÉ€)IÒÕ„„’Öv˜’$bh¯ñšÄ.ré¶8SÒˆ…„|pêĞD«[÷
+d@òxVÄyï&é›1–	EWÌ9›}°ì"—nëÚmIã½D•½ûÀ¼µ`­p]»íkª÷şÔ]ÁÃã6:v™Ä)„œåáÇ‰ÁWD2`JÒu/UKr`ÍïİjeH(¨I€iœØN’4Á”t6]§‹ıÎğØÆ9›šZj›I’FR°‚)iôª„ Üww„‡Ùvßê_Æ”¤1°‚)iü¶ÓDzÇY¶»ÇI’˜’4l3¼Ïzç8I’S’ØT&›ŞûÓíI.I£àLIc¿L	á/)ĞÆ_¶–$LIcw`f(¶Ì©M%ILI:ÆàÌl—bŸG¦$0%é(#0CÊ’˜ÇJ’˜’t„ôW0CÉkş/%iLş³	$ÚËÚ–áí*—	)Vqn#I’S’·©_¶TïîIYÑ¸4‘$ËI÷Eê‰˜ÆÉ»{**`ÊÔ-"%É€)IÇ]¢íB^SMüm[IÒx8ÉGÒ˜Ú…|³4Qj›J’˜’tŒ»Çv{_iSI’S’qhògIÈl,I2`JÒCk`J’F|ıv’¤Ñ^ 
+b8xkã/ÛK’ÆÂ
+¦¤ñ:X¿Ïc/6–$0%é°Ã#07Ë¯·ÛÙä’$¦$õ;<3Ô¤ LâÚö’$¦$r`Ìí"ëğànä’4.îE.i¬ê—!eF´LŒ—’dÀ”¤AaS¹ÌŸÇWnÿı*'ß†Ï9S;Ç%i„Wr—)’4ª‹RÆÓÁƒÖ44Ìck{IÒı×(Br¹¤   %tEXtdate:create 2024-09-04T14:26:11+00:008Vmä   %tEXtdate:modify 2024-09-04T14:26:11+00:00IÕX   (tEXtdate:timestamp 2024-09-04T14:26:11+00:00ô‡   tEXtpdf:Version PDF-1.5S6ZÁ    IEND®B`‚
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://leanprover-community.github.io/logic_and_proof/_static/natural_deduction_for_first_order_logic.3.png
+
+‰PNG
+
+   IHDR  ˜   Ê   ‚Úí    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   bKGD ÿ‡Ì¿   	pHYs  ,  , sˆéR   tIMEè	´]“  #ÀIDATxÚíİí}¢NÆñëü?wl	l	¤,”€%`	P– %@	¡„PÂZÂÜ/DƒÏø__ìÆDe`FÃÌs€ş²P…¤ÌÍØ mxÿØ z-”$Uì€¶0À1$©dG ´]àUŒ! zÿ%U¹ö@Û^…f }>å®oêÒGĞvf 8ŠQ mx¹ÿ± ´™/}¢s«l£ Uo\ëHY ¯7õ¨5›¶
+=Ì ~N¸‘}«P¤P‘¾,7ïEÛñmnıhz©ş5?ç£ÖœT…B-ìË‚mMJ*ÒwskšMÛŒf ›S]®X3—mNTØä%}UÓæß@©¤¹–ÍÏ5G©—5'T¤·²Z¹r}XªPW›§TúCÍ¦íÒN@À`§Üd÷”+i%_‘æg_å57^¯S»³§ÏÍı¦oré¸­Ûo‰2·j‚¢ÀrZk‰bIû:ŸS‹î«Ù´]Ú.@Ààğä™HíS®¥J¤fLäi¹¢>nÕ±Ï1hŸ‚ÑÓºã+pi[["}4}›ë€ìò´¯'Ö¢›k6m—¶0:U…ZO³©U©–|“7”·wÓt}º½Ô7»éVkÙy«˜4ÔÑö­ëL¶íƒœ)U­ìâ;<³İZ³i»´]€€¸;Tö”*R©Z•¤H¹¤É€O$ß÷Ó˜©Vyé¦·«5{âåˆDZª!Ô²$µú:]¥I—7xf-ºµfÓvi» 3pïé P¡•&›S”Eƒ/ÒºoüËæ*U¹ZrÕËOw,|0Ëõ1jÆÄ–ÔlJHÛÅÏû,ÜĞp¾åëã§GÇ"-$M†;bÏ|}·~¬U¶n¬¿j›
+…’3êÛ@êĞºdnFÍ¦íÒv16äa®?„òUµn€Ê-‡^&WkªŸØ¾b5u_ˆQÃÒË…*zY³i» 3ğBI£[+ÌÍõ¡Yë$çiñâË‰QCk=Ì‹Ğ·šMÛ†ˆ1Ì 6§İZ™2ÉÅŠ%ù]î;¿i·.K÷2
+rPîÁü´ZtGÍ¦íÒvf ?§M_~û4è*M­V*)Ğ…“®-–Ëõ «…duí±;zŸU‹î©Ù´]Ú.@ÀÈB…
+$-İÜ%òTkösâ1_±ByòT©Ô|óKµIã”dO*ä©Ößö³.³´Sø“İ”ËµKXµ7
+Òå»Ûˆ^¹góSjÑ5›¶KÛ˜ß:PLß¨°µ›_8Å{ª,R¢©ÅòôÙì¥X©*}ºZ²PE6q«‘î¥DN­
+v1üyV«#£ c-i¿=vÇæ'Õ¢»j6m—¶0¿·äÊZ^ëÊ•*m½7MÜªÿÈbåªšÅ~åJ›èK‹õn&YªPõnò,î~õ$i56‹¤Ÿ~õÁŸ“p¨šoo/Äû˜ƒ¹Ï5›¶0£ç²7*k—q3cªùºOÄ<¥»ûÉUV)ÜYIk\{i©l·læ)Õ3W_»>Ë5mÿô1/Â j6m `FO¹û`‡·¶áVÛ‘XŞAfåR¢‘¦IÊô¥›³(×êµ'9WÚJŞºÍ|-”1i¨×ú˜ƒ¹—5›¶0Ct‡’ê½±ŞÁxw€«m¢Ô~F†ò5Wöò b¢B‰òiêÙo¾¤º_Qok6m `guâÙİSyãŒòaœv+MÌW @R­i?†¸Êş*’¯ÒMù¾–(låÔı‘v'ÃnîÂ˜¯xsü]ÙŒÅôå©r3Éâ&)W¥¹«%óo&Ì–&¾íUƒ3S­95›>³íJ*ÙÌ.˜„ÑïvÑÕªû6“İ­‚™§B•>×=p(o¦MI’¯HÒîg6©[Ïò%ó´X¿…Z(¶‰¤\óö3;¡Ëm¯Vı™Q³)áóÚ.ğújÍƒÇÛ>”Ê©8ú¬»öurr
+Ù§=?âÉî‘UÔşY…œ;¿åï¿B…
+»µáà™üşWñàÁãà»·`/ğxÍã?.€=sépÑX‹,a×^(Yk<úŞèÊLRdí¬¶¾æ{¹¼W’BU­àJR¨å^ßpø€WØ±ğ*ÌÀş]—Z™¤Iæ)iŒ÷RI*,m]µÆCºR¥v3•''n,Ï÷‚aÜ÷ö* ëïáœfôúKÊœE£ÜO’o_Án¦L-6¿1_…–­QÍ¯kz-ù2ï»L+yJT˜³/Ë-Ü«¾”o{¬úø˜âÃÉy]òÜö* æYl…bI¾¥Í£¹ìµĞR+¬°X²ÀVXn^ë•‰öm_ömùîC-µ…ë)¿[a…–,i~WØÂbûÇ!`¿¨BÅêIZµGn‹¥æÖ_¿ú6·¿`¸›i"OßVXa_*”m3'ì¼®ùÒuú’$åæŒ›ê=æVú»íç«Ø=òn®ZÚæÆˆßj™ ¿<ùªÎäùÊ·H¹2­+ß„Ë*éÓıuúTX~ä•yVÈ×§›(S¬¯öÀ-óìkı;7i~ïq@ŞóÂƒÇå‰qNÑ;n‹<…
+¦eñM­•(×·ÜÁ¤¾XNÿä9)Ô×ÑWîM	=òLÚáo:¼Š—§io“êK“?“wï3TÈ)í0!wÑuª0÷yV—ôi¯_Ş·Ò “ËY ô-»&§ï+¬3*7£•e‰REí±Ånn‰|%š¿ü^w˜b¦Yá×Tw­DkæV’¦šogœ¬ÿıU*T´“q=!7;˜û#”,øù½[Gê-0ã’PRÕ“±–}Ú–!ğÈºppÉåµ/‚\vdDüR‰b+å;fÉ§a(ßwëÛîèp•}H{Áp—	¹íA•B6__lKÚ™*f@Ò6¹ZÉ¶RÅûÈf{—\ûSñÖc}]ˆã—Íiqø5÷u†Ÿ [5g@‚S£Ï®±¹şFH”˜T©Ú™ f ş"zëm„¡)y
+O…M6!³Åòõ¹¿×l®D:±vZ°>ı¶N™¡´{Ëv}R6¿u¾íU}¨Cõx—„Ç;„Ûæ+Q¤•–*•)Pqı÷¨ıUÚL(¶Ìq9MÀŞs3Fi®R…UÍÈÅ•&GÔL‰æ‡C,İæh.Lš¸²õÌ×Á3ß&g·¾
+ÀyI!ıM Bf®Éws[Ór+M5µP|…ò•XÍ€­7¬q}€Ãjñ}"£ğÜMßy[0øšİôßÚúÖl}¼7×<}ë/cåµßT‰ÊÍ¤^s?—–»¿ÙiÉZıÁªĞúB6ØÖh9ü›í{—íĞÜ¥‡Ÿ…ñ£‡ÇlBÑu–…ùöætıæÛ‚ÛÈîüÀ£ıË &”§İ	}?İ/iç]¦
+ƒ€oV”Û+mI]§8˜wÓ’"õù1›·mpKåkêV’yŠõÁz§•ğÍÂÃó¼#Áïaè|Ùå©Â `Æ›Ú!ëEùM[Wúó„m®“H*5×º™Ó!Ğ?¥Vò,rKIñÎ´\O’0ev©T’Í}JK´R-ßÂÖÁnr/LÆ;`3.UÎcµÌß.)|ÕW`Çşë«¶¸²®Kúp+Kå;N†@?Ûi …|•òTmf±´¦ÌJÒNó•(V­¥¤P¥›Y¤\j}ºjï•»Óo›g$+T«T¢Ÿ©Â3G¶&f U9Bû_?lËÈy®XŸnù†%÷•*ÔJKêh•=š=­®	Y×ú~ºf®KŞØmª0Æ!8­O…°hÉï\–Ä’½á©ÙÕÜd­rmõêŞİı»˜×…¼§
+côşcà¤>fóï]–pZ h• ˜qÅuÉ¶¼Û%û U `F'Ö£~£å÷.K*2´J »ÃŒs_ÓWök4íuºœ
+Áü{—%ìe€V	€€ŒŞÉTyì«}ñ´<ÌWon¾D¢ U `Æ_Ôí5P®¿g_‘İ´úQõ”mÁ—H}ëË2¿Y‘‹›Òxr-s»ß1^/j#˜fôúrØ¯_JkäªçôƒÜ²-è¼w¿÷–ˆıgëç›e^¸m‘R5«{)·R3‚f<¡¥Š´Tlµ¦®jê]­JöùŠ{Y}n• 3p¨l­¡>Ø–Úœ€¥’æÛK‘—'ç·\±f.Ûşœ´—§vAéÃ­¬V®\–*ÔÄÕæ)•§E‡!coÔ*fàÜ)ÅS®i?B•>mËlúÏš~üe×ş4óš›Å×é¼J–%»á²¤•|EšsÌğP‰2·j‚ÑÀrZ_–%Š%y¯h·¶J Ìøõ0ÊVòÖ'óµPöº¯ì>mËˆ]»4Lş´)ë0$‘Úá²¥J¤½ÕÀ½à¾7‘¶u+ÒGs9¾„«W¶l˜ÑJ,§HS·d[FîÚ¥af7İ.;o·÷şëp†şe<V´­“ë–mû~gJU+{q;`Â@ÀŒ~s•ıU$_åë§™ôi[Æéú¥a\­Ù7(ä[à~¶(S­Ò1†®ie+8mİÕp•&¯m,Ø0c!óª?ıy}Ú–QêÛòë›â_6W©ÊÕÏËÁ‚7·\×úf,rI«pKcèßXÉÍ°›X}Û·åÆèe<ãR|ÙŒXîco.#˜f ½Ò³±’®ÖT?™P|Åú²€Ã„ç§=ìa&\˜ôCÇJº¹>4k…)<58íUo.#˜~a3€›ÆJ6'ôë\±Ô°«•)“,P¬X’oRğ”àôÌOkŒ`˜ôÊÁXI/õµÙâYùgÍ—ß(\¥©ÕJ%,‰'^2ŞĞ›û¼vpK«@Àà¹áBûÄ(×ß¯ÉnÊ?{1$±@…<Õ»Ÿï2KÅíi<õ’ñ¦ŞÜ'µƒ[% f Ïqd¬d|¹'÷iiŞy:µ¢ıkxŞ%ãM#˜ŸÕnk• ˜<WÙ:U‡úxÙvx’´¿¾šE’æİÇ?W§}ÌÁÜ¯V	€€À^ğkúÂĞ´ÖR™«ö¶)ÕsWÄ;ë}>Š—·J ¤•Ş+µRÓ³k¾
+e/Z”)ÔNŞTh¥OÂ<Is0÷¬U9öğî_
+Õ*å)ÒôÕ©Û,P*;^3”¯¹2Âe<­Æ-©vi• ˜œû"ğÉWÕ—Ó²ù
+HªU9rcàÙµ-ÖÜÕ´J Ì   ÀMÃ   0   Ì    3   @À   0   Ì    3   @À   0    `   ˜   f   €€    `   ˜   f   €€    `   ˜   0   Ì    3   @À   0   Ì    3   @À   0    ` àuÌ»ú>{ ` àM‚eË•\ı²ÈŠëÃl iµ}  À/†Ë*T»Ï^™+ĞÄ­Ø‡ 3  }=iú
+uzhD­Z+W]x…ü[ÃŞ{^€€ €çŸ4¥ÿ¨ÖRÙ© ÖRÅš\
+ªO~¾§/U·ôN¸c˜ èÈeÎœ9SÕ„ÆÖ?oúĞ\¾}[p4à•(»5\–ÜJSE–p$ f ÀÀYnÎ¢Ñs¹ßì*7ÕT’§â0d6O¹j—İ²—*•1 ` ;\K
+F[>¯)ÛÑb7W%É;2x#‘¯ìîÏä‰>f€€@ç÷{ôãahÂÓáäˆÊ'•'~¿~>Üí6O±j7¿÷Ã]©R±T3€€@—pyäıx¬àl89–òU³UìœHäişÏ_JŠ©f 3€.ÆŞ‡!×ÌjÄÉÏÂÇ/bã&Ô½››KŠYÄ `ĞÅØûñ0H»^Á¼0·şÂ"yª\ı XJb0@À ƒ±÷ãa¸õòG0[ ußo¹Ó6Ã‡^DTÌÀoú» ª±÷ãáŠºà7£eûqùôî#˜7£‹g‡—·;šU+pğtô0ÃÅfH²È¾U(R¨H_–¿jd«}oVïhjæ¿æç|¤-ïtÿò:`¶—'i‚àêQGÓ•­‹f OG3pMH@?úV'sÅšı,…a‰
+›¼¤~N·õ2•4ßNo«G¶ÇÏ`6Oy.Ï[ë¥ÌWÍJÚ?@Àôë4)•Tj%O¹•š½&h¶ï½TUÿlıïÜM9JoW+“İ KÒJ¾¢óÉË¶!ßuêóákB·¦×séÆÊÁl±Ryª5=(}pùâöÊ£¹Ò~Ú: ÌÀ‹úñĞ¿Zé)‘Ú–¥J:„QùMÓÅVúÓéï‚vø<BAÓŞk?ë)P$_µæÊ|3ø?š•Bf€€èS`B?ú(”·w¡´ .-1»éòªì¼Uã(´éa>\œz©ÊÊ³ì]¼¨½åh’‰ `z.Ó‡~
+$ù´&—eªU^)ëê½ül-#ŸŠº½ï\@wmÛ>š¬ò	0½A?úi€}Ù\åzIW½<T{²ÃğÊvºáòh `:£ı´T*IŠKV«Tæê´–ñ`^¹ê¦×íhh‡¸lÓó“[d¾$¹ÊÍ^°h	äjM[·ù}Åú²Wß¤Ì×—°äÑ@Àt¶™Æk¡oû¶Ü^?7ÌäæúĞ¬¾yZ¼r{Şfóõ%¬‡w4ü`Hpù4VÛTév¢¯X‘MÜkƒF0£©Ê”5ëËÅ’|‹NfjØl¯Óe¹F0ÿîÑdÈ@Àô((™[©Háötéi¡¿¯ÛF0Ã|ùíÖUšZ­TR ³-–¿åàÎ‡…£ºrëæö«y4	˜f W!3ıxèS¸¨§z÷²Íe–vºÊn
+´º‰{w>,PşÊKË‡»½åU
+|4]JT€€ø¥À„~<ôQ"O§2_¬	ÏJWväÎG¬åˆ¾nÁ¼î~4éa˜œ éÇC?yMÛ­¯‘¤¹{u¯cÙ
+ C}Œh¯ß3‚¹Z‡ÜGÎmG“y 3Ğôã¡Ÿj-•í¤5O©˜ûûêzê)×ÔiĞ@¸mÙWs•­ä)8ú½qÃÑ´Ûûº0F?ú)Ó—v.È,P®ÕkTWÚJŞºÕ˜¯…²q²P’§@qós¢J×Oı[O.t4u›ï €€x:úñĞK®¶‰Rû¹³Ê×\ÙËëÁD…ä)ÒÔâ¾‡…*Zß¾Ô¬È·ÔçÕsğ°£HÜW~ñ›À±€ÓÄ×—2×êa¶@¹¤ék³0Û?yútË¦oîæïwdX4X2_Iµ*×“›óæ)’¯ÊÌî™’şœ
+ƒ¯;šöOşÒ
+ f M$P*¿oıx¨P­rLıxK4½{¥›P;1°Ú›+Öô—·iA ˜~5úñút,|%
+	0ÈÚû­Ê=`¾åŠ5!•$@À §¾¶R%÷Ì*!àÆêîC]óõÍ%#ğ»şc  ğ+2­”Üı.‰r÷  `€Ç
+ÙxW+ShÑ=ïaâ±$ì˜ ¿"v^2g*•šwÇ[äªè_˜à©,?±v#ğ>µR~síMåë“¼ëÀocá ¿²&ÛA+•Jİ©Y±Ğ—'m¦3>³ó.¡"ù’VªW^<öæ)R¤P’oióÛ’›ÛøMneS–º?²X±&ıÌ¾Lnt0ÀãN«
+U›>2”«}{:8èıuìöµgIsWJ)Qb­|Ô'?Ã“¯JŒaÆkCæÊ>´°øÚŒÌ)Õ¤/©-[—¦Mnt‘·c>w‘V=«’)û`êÓ¡€%Jí‹ŸŸ-ÒBÚù}¬|ï™t%à§‡Î<
+~–„¸ğw§¥pá\{oÃ|­ú7ƒÜèxô0£ovÁ”:İwJüô’¹¥µ{œ¸ÍÛ¾¡íV6S¡ÔÊæ¦ğùÏ ^Î­tõP ~ypµjï½kCnt0×á+sÎõ‚U
+UØ¼5vøÇÜ•VËW¬Ùó> @Àô°F/S,O‰“*UZ>è˜×ò5ó³>Às0¯ =GZ9 ¿{I´Òßí€@±Š[÷á3 <¹ÑAÀ »!³›:ÓD3ÍUKJ,~Ğ[¯®ÿ£gx1r££ÿ’àwOézd±+×“,QªèÌ$Á®k¢yÒfÕUŸQˆ ]’ `Ğ#¼v~ —Ytáï»œî=RkÆuŸ¼s°Lnt€€@ïD6Ûë{ªüosš=ê¶ÓÆipŞê—:÷­Ó³…êY_£­ñgr£+Và>¶——•eZ4ÿ/UZµùiûL}tiï@å&Ù£[Z©BÛæF?õ®ÖL²T¡ê[Ö>~ãÁƒ_|¨Ó—¼íÏ±şÉßû}ÜüßS®TNNaë/R9åúV°ûL×Ï§rŠœœ´Ø|VoöU„Ç3Å…6ìÖÂÖÿC¹öÏGŸI÷ŸişjÛî.|Fz~yğxıƒf¼!ó®[-Ëü~.ğÜÒ?±Ôs•*¬ÒJR¨•&;Ÿô©\¹…ª%…Ê´R"©0i²íA®İÔ¥¶R-)Òêg•¿ËŸáV6ÑB+å©ºvyâ§#c4ÜèÀ}çN–ÆÆ»ËJµºîÖŸ%
+7cïŞ§ôÏ*õ&·@¤úXXŞŒH–+·ÿ¯m‰ùò½G§Ïäiµ3¬x×oÅïí¨äƒ¼åªØ[œşğ™TÉî3’d…BÕîo‡Ï`¹z0=;1ªİçÕ¯Ëh2ôùÚÒ£Ô :]J·/f?—ÕwÌÛgÏ~3z<Ìx/¹¤éõ/sSÕ*Ì{¯Ò¤Ô .µur£ÌÀök8U¨é=¦SyGg†»ôƒ/5€ËßëÕ•.sS÷W3_yï¦ÜèW|FÁ13ğº“B¨DÙ­cVİJSE–¼Wé‡^j »¡«ËT]øû.ß9û¹Ñ¯û€€xIÀè)Wí²ÛßÁ•*•˜?ÎÒ[nîØâC.5€¢ƒ¡W7åFßùñ07úéÏèunt€€ï$‘¯ìÎ÷Èä)cé-T¬SıFÃ-5€n¼öl‹Ûß®V)mÆ›§TËæ[c×\‹ŸÙR%š»i·ÏP©•Ô\²ÇZr@Ğ?dÉÀ{TtOßZ­Óİõ>…B}-ÙåÒ¯ç¸ëÓ-ÇSj¼[y~ñáî»BµJ%úÉ[>k·wó”+Ò²•}3Ê¸Én©"÷×¥úÉ>oç8¿øòµÎ>å˜€€xMEO•hæ²»ß'V¾×k2ŠÒ¯Ó?éÏñc˜¥Æ[]¿<¿ø ÷¹Ñf@’ìŸ<ı}DÏ’¹ÓåpKoNRå>ÆTj¼Q¸L~q OÆÒØx‡j$OÕƒnÄ.)Ò|L¥oÆ"–c*5Q7}…:=¡´Vİ©¿ñêüâ¶Pa„Ì ˜á…pğÕàBÇË¥›’©Ô‚HéÅ ºÖRÙéàÖR…W÷Oõ¥\Ÿ  ]‘%ƒe¾…»ó´-°ĞÂ#+Ó…ÂÁ½÷<ú?¡ã6ıÑhJ¿Ù^˜{QjŒ‹Ëœ9sÖÔÏZÖ?oúĞ\¾}Û‰Ì¿ä@ÀœS
+µ°¯õ©Ô"ûVªP‘¾÷Éõ$”‹§T‹ì[…"…Šôeùñ ¹™¿ôö½‰KšPø_ósŞ×Rcä–ûıÄ®rSMµNHv$d&¿8€ß»ÂçÁc€…ú–ç¤XN_NJõ%ßIr9ıÛùÛHNîâ;ærJZ?'ú’wô/¿vÿr¨¥WØ<99åÛŸı~–šÇh[³×ü':ñû/99G~“Ê)>ÛRœœÒ“¿ËÙû<xğèö`3†)iF5Ö’‚Ö¬÷D±¤İ¾á@G0[¢x/ñÚJş‰Q»+Iz¦6‰˜®T_œøÒoVàjú—îü>ê\jàJ›;§j`©@R¸ŸAÙ<Åªİüâ;WÇë¿•ŠmN3 ]0c€ÌWà&Ò6„‹ôÑÜÌœ /†yæ)‘Úár³ÇñWVggö·å§–½šşùÍÒÿdW=«{©ë4õöâÄ=o‘æDŞ…Õ;ÏÎ_*T,ò‹ `ÆHEÛSà:„Ë¶=O3¥ª÷N¢¤ó}¶¡¼½¿X¿ïé¾+¯ÓvÎtK*»ò×Kß5‡ˆGÕÃ\Jkxê>M,]XD9<ˆ»¹åŠmFz9 Ì§`{r¥vß°«49úŠÕ…÷“|Z7g3Õ*Ïè4ÔÂÕšõ½ôv9¥Ü•¥®±¸T]¬w;A~q ¿‰,¢åº_©9Õ^ê½Ü/º(¿,·h=oŞUnæÊ·(ıå x¦#˜›¥”¥r¯'ø1ùÅuÓ°) Ì@ÿ¹Mú©n½£—ûE7·uc-ômß–÷9İÔƒKßm3ğ,—F0ÇÍ¿³#á0ùÅ0Oµ—‚½‹ãˆ]­ikØ‚¯X_¼Ié¹
+"p½³÷8,hæén6ò‹ø]ŒaÆàOµîrÈx±¿ØÍ­T¤pÛÛäi¡¿ã/ıU#˜‡;?‚Ù<åM¸<?v¹xtótû©¤ùöşÑñKÇJAkV  0c¤§Úê\­LYÓ£Kò-rË3ah·m¼¥ïªê2kÿA¥¿nsM­Ã3.û×A‹•ÊS­é‘ËBò‹ `®8ÕŞ™ßÁ|ùíÕUšZ­TR ;f[<#ó#K8‚ÙÂ33-hjV`íg=Šä«Ö¼Y¤gùÅ0Wœj/÷V§§õX Bêİá.³ôL0èRšºì¦³ú­Òë`³ÊOEé^jàÚË^)9øÍRÕ™{<ä@Àt?ÕvÈïPëôLøDNõV•Şó"W=qtğJds|v!z˜ñPÛÌs—İğrò‹ `:j»ô Uë¿?zcwİ·´w²¶HÒüäHâä•xPé÷.,T¨ş–ã¼è½©f‘_À¯"­†}ªíĞƒä*­tª©ÖRn¶Œ¦:¹FŸ]?w ¥ßÂsMÖ=)5Æf]¯V®ºñ•~O~q ÌàT+uíA*ujXBÖJ%·	­ôy²G6PÇ<ı/½+µRÓWg¾
+e'Œ~”ã¼ì½%¬%¿8€_Å•/©v]CÆèx”«m¢Ô~Fî†òOÎËÿ	—ã(½¤‰
+%ÈS¤é™)Vı(5Få|æ‹3ùÅü"z˜1T3eštüÛ¥¤Ğzt•›hÒœZkMİ7;Û“õ"t|XéõWsI¥ûã–½/5ÆåöÌİŞ™üâ †f”;9ÊøÈß®l®X‘æ'ß«îZ$O¥«ÇSz·:µWúWjŒÌí#˜Û¯?ùò‹xz˜ñ2IñŞ'ÔAN7(ı0K¾»'“Euñ÷ó‹Ÿ­›€€$Wk®à¦…ª[ÌW¬rx3ïï+ıPK~»k3ùÅ0O‘iud5±ë$jOë=¥n©Ñg÷`nò‹Ÿù‹İüâÙ™­àb 3°æje
+-ºı,P|&ñÚHK?äRcóm#˜É/àw™cà}ª{!_·f¶/I“áæ"¾­ôC/5zWCI‚í™*İ0õÏŠ”¹£“_íŸ<}º¥d¾š»[-V®Ê}pT \B–¼“OÊõyÓi>½'ØjéGPjô-\.¶?¬s)§’¤åÕí’üâ ~óÛ‹f¼U…ThîfW¿.Vª‰«Ş«ôã(5FÚ–=ı“ôçÄ`O‘|Ug³‹¯{¢ÿ’0ÀeŒaÆ[q•>Ú•)Ö,Gàx]éÇRjŒ´-¯3ˆG§~ëænv!\&¿8€î‘ =Ìx»Jï)¸n›ùZeXB÷Ò©ÔeKöõ}ÏdËkÂ„V Ì €ñÀîyÍ×·J7a/è‚! €a"¿8 f  N#¿8€ßÂ ÀpObäğèa ×§VÊ¯—Sùú$\@À xn¥©BK¯—cÅšN 3 à]Bfò‹xºÿÜ;õ«€İè,   %tEXtdate:create 2024-09-04T14:26:12+00:00	¾wy   %tEXtdate:modify 2024-09-04T14:26:12+00:00xãÏÅ   (tEXtdate:timestamp 2024-09-04T14:26:12+00:00/öî   tEXtpdf:Version PDF-1.5S6ZÁ    IEND®B`‚
+------MultipartBoundary--poAPqdhYnWaAbpoX0ytX81WQAJQDDhv9iH50864VfN------
