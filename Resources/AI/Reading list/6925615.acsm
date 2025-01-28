@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>https://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>6925615_577099284</transaction>
+  <purchase>2025-02-06T05:28:15+00:00</purchase>
+  <expiration>2025-02-06T11:28:15+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000006925615</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Introduction to Algorithms</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cormen, Thomas H.;Leiserson, Charles E.;Rivest, Ronald L.;Stein, Clifford;</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">MIT Press</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">6925615</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000006925615</resource>
+      <permissions>
+        <display>
+          <duration>1209599</duration>
+        </display>
+        <excerpt>
+          <duration>1209599</duration>
+          <count initial="263" max="263" incrementInterval="4599"/>
+        </excerpt>
+        <print>
+          <duration>1209599</duration>
+          <count initial="132" max="132" incrementInterval="9163"/>
+        </print>
+        <play>
+          <duration>1209599</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>yzIR4fFmJ/tpIaKQpHEFDjXVwkA=</hmac>
+</fulfillmentToken>

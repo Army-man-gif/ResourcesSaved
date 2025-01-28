@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>https://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>7104479_577099204</transaction>
+  <purchase>2025-02-06T05:27:52+00:00</purchase>
+  <expiration>2025-02-06T11:27:52+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000007104479</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Fundamentals of Computational Intelligence</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Keller, James M.;</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">John Wiley &amp; Sons, Incorporated</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">7104479</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000007104479</resource>
+      <permissions>
+        <display>
+          <duration>1814399</duration>
+        </display>
+        <excerpt>
+          <duration>1814399</duration>
+          <count initial="20" max="20" incrementInterval="90719"/>
+        </excerpt>
+        <print>
+          <duration>1814399</duration>
+          <count initial="77" max="77" incrementInterval="23563"/>
+        </print>
+        <play>
+          <duration>1814399</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>L5R2pDgOKwTAnGXNuQVYgiP3EvE=</hmac>
+</fulfillmentToken>
